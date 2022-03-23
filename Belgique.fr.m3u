@@ -239,6 +239,8 @@ https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=43
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OJjojo.png" group-title="généraliste",BVN (480p) (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://npobvn-prd.cdn.eurovisioncdn.net/live/npo/u/npo/drm/dash_cenc/bvn/0/0/0/bvn.isml/stream.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GglMeO7.png" group-title="généraliste",BVN (CC&More)
+plugin://plugin.video.catchuptvandmore/resources/lib/channels/wo/bvn/get_live_url/?_pickle_=80027d71012858070000006974656d5f69647102580300000062766e710355075f7469746c655f7104580300000042564e71055808000000786d6c74765f696471064e752e
 
 # https://www.vrt.be/vrtnu/kanalen/canvas/
 #EXTINF:-1 tvg-id="Canvas.be" tvg-name="Canvas BE" tvg-logo="https://i.imgur.com/1Q15Sfd.png" group-title="régionale",Canvas (540p)

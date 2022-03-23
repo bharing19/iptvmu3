@@ -1,0 +1,771 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OXEcqv8.pn",★★★★★★★★★★Netherlands★★★★★★★★★★
+plugin://plugin.video.youtube/play/?video_id=gwBrR_G70RE
+
+# https://www.1twente.nl/kijk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgcJw90.png" group-title="",1Twente
+https://ms7.mx-cd.net/dtv-10/198-989148/1Twente_TV.smil/playlist.m3u8
+
+# https://kerktv.a1mediagroep.nl/player/kruiskerk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t8Tz5Is.png" group-title="",A1 Mediagroep - KerkTV (not 24/7)
+https://kerktv.a1mediagroep.nl/hls/kerktv/kruiskerk.m3u8
+# https://www.a1mediagroep.nl/a1mediagroep-tv/a1mediagroep-livetv#
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JFZ57eA.png" group-title="",A1 Mediagroep - Regio TV 
+http://stream.a1mediagroep.eu/hls/a1tv.m3u8
+# https://www.a1mediagroep.nl/player/tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JFZ57eA.png" group-title="",A1 Mediagroep - Regio TV  Radio studio (not 24/7)
+http://stream.a1mediagroep.eu/hls/a1studio.m3u8
+
+# http://artitv.tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/67zUnvu.jpg" group-title="",Arti TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCxVicskgBc8OD66iLKc7Uaw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/67zUnvu.jpg" group-title="",Arti TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCxVicskgBc8OD66iLKc7Uaw/live
+
+# https://www.at5.nl/media
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M40UPpT.jpg" group-title="",AT5
+https://takeoff.jetstre.am/?account=atvijf&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8
+
+# https://www.bd1.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g5mnvSO.jpg" group-title="",BD1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCDr2n0Rko7u_5kqSEsuOPfA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g5mnvSO.jpg" group-title="",BD1 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCDr2n0Rko7u_5kqSEsuOPfA/live
+
+# https://www.bnr.nl/player/kijk (Adaptative is token)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2qgGTiE.png" group-title="",BNR Nieuwsradio
+https://bnr-cache-cdp.triple-it.nl/studio/1644483673-fast-1920-1080-1500000-index.m3u8
+
+# https://br6.nl/live-televisie/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QGXzOlE.png" group-title="",BR6 TV
+https://58c04fb1d143f.streamlock.net/slob/slob/playlist.m3u8
+
+# https://bredanu.nl/televisie/tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W3AYGsL.png" group-title="",Breda Nu
+https://rtmp.bredanu.nl/live/tv.m3u8
+# https://bredanu.nl/radio/kijk/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W3AYGsL.png" group-title="",Breda Nu Studio
+https://rtmp.bredanu.nl/live/visualradio.m3u8
+
+# https://www.dancetv.net/live
+#EXTINF:-1 tvg-logo="https://www.dancetv.net/img/favicons/android-icon-192x192.png",★★★★★★★★★★DanceTV★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://www.dancetv.net/img/icons/channels/DTlogo.jpg" group-title="",DanceTV - Best of Dance TV
+https://eu-nl-012.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-logo="https://www.dancetv.net/img/icons/channels/deep-house-district.jpg" group-title="",DanceTV - Deep House District
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-logo="https://www.dancetv.net/img/icons/channels/techno-warehouse.jpg" group-title="",DanceTV - Techno Warehouse
+https://eu-nl-012.worldcast.tv/dancetelevisionthree/2/dancetelevisionthree.m3u8
+#EXTINF:-1 tvg-logo="https://www.dancetv.net/img/icons/channels/algorhythm.jpg" group-title="",DanceTV - Algorhythm | Tech House
+https://eu-nl-012.worldcast.tv/dancetelevisionfour/2/dancetelevisionfour.m3u8
+#EXTINF:-1 tvg-logo="https://www.dancetv.net/img/icons/channels/house-floor.jpg" group-title="",DanceTV - House Floor
+https://eu-nl-012.worldcast.tv/dancetelevisionfive/2/dancetelevisionfive.m3u8
+#EXTINF:-1 tvg-logo="https://www.dancetv.net/img/icons/channels/deep-tech-minimal.jpg" group-title="",DanceTV - MNML
+https://eu-nl-012.worldcast.tv/dancetelevisionsix/2/dancetelevisionsix.m3u8
+#EXTINF:-1 tvg-logo="https://www.dancetv.net/img/icons/channels/edm-mainstage.jpg" group-title="",DanceTV - EDM Mainstage
+https://eu-nl-012.worldcast.tv/dancetelevisionseven/2/dancetelevisionseven.m3u8
+#EXTINF:-1 tvg-logo="https://www.dancetv.net/img/icons/channels/chill-af.jpg" group-title="",DanceTV - Chill AF
+https://eu-nl-012.worldcast.tv/dancetelevisioneight/2/dancetelevisioneight.m3u8
+#EXTINF:-1 tvg-logo="https://www.dancetv.net/img/icons/channels/melodic-tech.jpg" group-title="",DanceTV - Melodic Tech
+https://eu-nl-012.worldcast.tv/dancetelevisionnine/dancetelevisionnine.m3u8
+
+# hhttps://cdn.denhaagfm.nl/kijklive.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65LZkx9.jpg" group-title="",Den Haag TV
+https://wowza2.videostreamingwowza.com/denhaag/denhaag/playlist.m3u8
+# https://cdn.denhaagfm.nl/webcam.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/65LZkx9.jpg" group-title="",Den Haag FM Studio
+https://wowza2.videostreamingwowza.com/dhfmstudio/dhfmstudio/playlist.m3u8
+
+# http://www.streektv.nl/stream/ https://wijzijndno.nl/streams/streektv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TqLUvUh.png" group-title="",,DNO Streek TV
+https://61ae39677a1ab.streamlock.net/streektv/streektv/playlist.m3u8
+
+# https://dtvnieuws.nl/televisie-livestream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4BwZ62H.png" group-title="",Dtv Oss & Bernheze
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv1&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4BwZ62H.png" group-title="",Dtv Den Bosch
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv2&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4BwZ62H.png" group-title="",Dtv Maashorst 
+https://rrr.sz.xlcdn.com/?account=dtvmaasland&file=dtv3&type=live&service=wowza&protocol=https&output=playlist.m3u8
+
+# https://omroepede.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/POOzaUR.png" group-title="",EDE TV
+https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
+
+# https://www.mediagroep-eva.nl/visualradio/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g3bU1JI.jpg" group-title="",EVA VISUAL RADIO
+https://stream.mediagroep-eva.nl:8000/hls/live.m3u8
+
+# https://rijswijk.tv/tv/ https://pijnacker-nootdorp.tv/tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/smLvqpV.png" group-title="",Feel Good TV
+https://58c04fb1d143f.streamlock.net/feel_good_radio_1/feel_good_radio_1/playlist.m3u8
+
+# https://www.gigantfm.nl/ https://www.gigantfm.nl/webplayerPopup.php?player=video
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gbupbby.png" group-title="",Gigant FM
+https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
+
+# https://www.go-rtv.nl/live.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/56gfEr0.png" group-title="",GO-RTV
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+
+# https://www.gooitv.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ozCzrDs.jpg" group-title="",GooiTV (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=gooitv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ozCzrDs.jpg" group-title="",GooiTV (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/gooitv
+
+# https://groningen1.org/tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3PKGxr.jpg" group-title="",Groningen1 (Same as RVT-GO!)
+http://59132e529e3d1.streamlock.net/Groningen1/Groningen1/playlist.m3u8
+
+# https://haarlem105.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aTvYDwL.png" group-title="",Haarlem105 Radio (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCFDVl_p6fwkloGr8lraSZgQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aTvYDwL.png" group-title="",Haarlem105 Radio (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCFDVl_p6fwkloGr8lraSZgQ/live
+
+# https://halstadcentraal.nl/tv.php https://dijkenwaardcentraal.nl/tv.php 
+# https://alkmaarcentraal.nl/tv.php https://www.streekstadcentraal.nl/tv.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FgeJZkM.jpg" group-title="",HalStad Centraal
+https://videostreams.streekstadcentraal.nl/hls/halstad_centraal/halstad_centraal.m3u8
+
+# https://www.hk13.tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsxnRhf.png" group-title="",HK13 TV
+http://mtxstr001.matrixdata.nl/live/hk13/playlist.m3u8
+
+# https://www.hoimedia.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zRk95fH.jpg" group-title="",HOi tv
+https://rrr.sz.xlcdn.com/?account=Hellendoorn&file=Hoi/playlist.m3u8&type=live&service=webdav&protocol=https&output=playlist.m3u8
+
+# https://www.jenz-tv.nl/tv/livestream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m0zfHwf.png" group-title="",JENZ
+https://ms7.mx-cd.net/tv/192-840604/Jenz_TV.smil/playlist.m3u8
+
+# https://www.kempentv.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dq2fPq7.png" group-title="",Kempen TV
+http://ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4q5JsCx.jpg" group-title="",Kindertijd KRO-NCRV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCOtok8iIlT9k-beq2bpZ4ag&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4q5JsCx.jpg" group-title="",Kindertijd KRO-NCRV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCOtok8iIlT9k-beq2bpZ4ag/live
+
+# https://l1.nl/live-l1-tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yV761Aa.png" group-title="",L1mburg (L1 TV)
+https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
+
+# https://www.langstraatmedia.nl/langstraat-tv/live-tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/04q2MzZ.png" group-title="",LangstraatTV
+https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8
+
+# https://www.locourant.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PaeqkaV.gif" group-title="",Loco TV
+https://takeoff.jetstre.am/?account=LocoMedia&file=LocoTV/playlist.m3u8&type=live&service=webdav&protocol=https&output=playlist.m3u8
+
+# https://loemedia.nl/tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zbLWzDk.jpg" group-title="",Lokale Omroep Elburg (LoeTV)
+https://58c04fb1d143f.streamlock.net/loemedia/loemedia/playlist.m3u8
+
+# https://omroepnuenen.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xf9dNVV.png" group-title="",LON TV
+https://streamingserver02.omroepnuenen.nl/lon/lonweb_720p/playlist.m3u8
+
+# https://www.meervandaag.nl/livestream/meertv.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gINngZm.png" group-title="",Meer TV
+https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8
+
+# https://merwertv.nl/kijk-merwetv-live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWDAGx6.png" group-title="",MerweRTV
+https://d2ycaxub5x98iw.cloudfront.net/nlpo/clr-nlpo/merwetv/index.m3u8
+
+# https://midvliet.nl/televisie/live-midvliet-tv https://g0.ipcamlive.com/player/player.php?alias=5a3059585da98
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qkFm1W7.png" group-title="",Midvliet TV
+https://s68.ipcamlive.com/streams/44akmfudlbhxjlkoc/stream.m3u8
+
+# https://www.nhnieuws.nl/media
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLVCOdl.jpg" group-title="",NH Nieuws
+https://takeoff.jetstre.am/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8
+# https://nhradio.nl/live-video/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LNVIymp.jpg" group-title="",NH Radio
+https://rrr.sz.xlcdn.com/?account=nhnieuws&file=nhradio&output=playlist.m3u8&service=wowza&type=live
+
+# https://nhgooi.nl/kijk/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tg7ghc8.png" group-title="",NH Gooi TV
+https://rrr.sz.xlcdn.com/?account=nhnieuws&file=nhgooi&type=live&service=wowza&protocol=https&output=playlist.m3u8
+
+# https://noordkopcentraal.nl/live/video/tv.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u0NUpSa.png" group-title="",Noordkop Centraal
+https://videostreams.noordkopcentraal.nl/hls/noordkop_centraal/noordkop_centraal.m3u8
+
+# https://omroepalmere.nl/live-kijken/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZPwBFRE.png" group-title="",Omroep Almere
+https://wowza2.videostreamingwowza.com/OAlmerelive/OAlmerelive/playlist.m3u8
+
+# https://www.omroepassen.com/kabelkrant-live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SOSq9WM.png" group-title="",Omroep Assen TV
+https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&type=live&service=webdav&protocol=https&output=playlist.m3u8
+
+# https://www.omroepbergendal.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uxkh76F.png" group-title="",Omroep Berg en Dal
+https://audvid254.streamhousedc.net/bergendaltv/bergendal/playlist.m3u8
+
+# https://www.omroepbest.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e9L0lKn.png" group-title="",Omroep Best
+https://streamingserver02.omroepnuenen.nl/best/bestweb_720p/playlist.m3u8
+
+# https://www.omroepbrabant.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/igDyDIY.jpg" group-title="",Omroep Brabant
+https://d1ctz4dshc0ubt.cloudfront.net/live/omroepbrabant/tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/igDyDIY.jpg" group-title="",Omroep Brabant Radio
+https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
+
+# https://omroepcastricum.nl/radio/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jrAYVoF.png" group-title="",Omroep Castricum (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=omroepcastricum
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jrAYVoF.png" group-title="",Omroep Castricum (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/omroepcastricum
+
+# https://www.omroepcentraal.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/23X61k4.png" group-title="",Omroep Centraal TV
+https://ms7.mx-cd.net/tv/208-1258878/Omroep_Centraal_GB.smil/playlist.m3u8
+
+# https://www.omroepflevoland.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tbA1mCp.png" group-title="",Omroep Flevoland
+https://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
+
+# https://www.omropfryslan.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ldPuVT.png" group-title="",Omrop Fryslân
+https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/index.m3u8
+
+#  https://www.gld.nl/tv/tv-gelderland/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EIl3apt.png" group-title="",Omroep Gelderland
+https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvlive/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EIl3apt.png" group-title="",Omroep Gelderland Radio
+https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/kijkradio/index.m3u8
+
+# http://www.lokaleomroepgoirle.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pCopeOu.png" group-title="",Omroep Goirle (LOG TV)
+http://217.101.145.146:8080/httplive/stream.m3u8
+# https://olon.ctl.cdn.ebsd.ericsson.net/L8B/c8b38dd6/86813ca2.isml/.m3u8
+
+# https://www.omroepheemskerk.nl/kijken/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BquTCcq.png" group-title="",Omroep Heemskerk
+https://d2d0xdvv0fiipo.cloudfront.net/nlpo/clr-nlpo/rtvheemskerk/index.m3u8
+
+# https://www.omroephw.nl/spelers/televisiespeler.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2So2E0z.png" group-title="",Omroep Hoeksche Waard 
+https://ms11.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8
+
+# https://omroephorstaandemaas.nl/televisie/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p66j5jN.png" group-title="",Omroep Horst aan de Maas
+https://ms7.mx-cd.net/dtv-10/157-1217118/Omroep_Horst_aan_de_Maas_TV.smil/playlist.m3u8
+
+# https://www.omroephulst.tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B3WFbBx.png" group-title="",Omroep Hulst TV
+https://ms7.mx-cd.net/tv/280-2963002/Omroep_Hulst_TV.smil/playlist.m3u8
+
+# https://rtvijsselmond.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pzT011.png" group-title="",Omroep IJsselmond (Not 24/7) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCUynlP5RRQqQlXup5wWNAOw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pzT011.png" group-title="",Omroep IJsselmond (Not 24/7) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUynlP5RRQqQlXup5wWNAOw/live
+
+# https://www.lokaleomroepkrimpen.nl/rel4/webcam.asp?menuid=84
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IBZtsOh.jpg" group-title="",Omroep Krimpen
+https://wombat-5.302.nl/61-lokale-omroep-krimpen-live/live-lokradio-studio/playlist.m3u8
+
+# https://omroeplvc.nl/tv_livestream/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D1EZnZx.png" group-title="",Omroep Land Van Cuijk
+https://d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8
+# https://omroeplvc.nl/studio-webcam/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D1EZnZx.png" group-title="",Omroep Land Van Cuijk
+https://www.twitch.tv/omroeplandvancuijk
+
+# https://www.omroeplingewaard.nl/live-tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4NwIiSG.png" group-title="",Omroep Lingewaard TV
+https://vidstreaming.omroeplingewaard.nl/hls/pgm/index.m3u8
+
+# https://www.onswestbrabant.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dr73euW.jpg" group-title="",Omroep Ons West Brabant
+https://ms2.mx-cd.net/tv/177-710139/Ons_West_Brabant_TV.smil/playlist.m3u8
+
+# https://www.ml5.nl
+#EXTINF:-1 tvg-logo="https://i.imgur.com/anIdsPE.png" group-title="",Omroep ML5 TV
+https://ms7.mx-cd.net/dtv-02/204-1147034/3ML_TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/anIdsPE.png" group-title="",Omroep ML5 Radio
+https://ms2.mx-cd.net/tv/204-1598040/ML5-2_TV.smil/playlist.m3u8
+
+# https://www.omroeppenm.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlQLeiI.jpg" group-title="",Omroep P&M
+https://ms2.mx-cd.net/dtv-10/153-840564/Omroep_Peel_en_Maas_TV.smil/playlist.m3u8
+
+# https://omroeppeelrand.nl/omroep-peelrand-tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iYcZjdd.png" group-title="",Omroep Peelrand TV
+https://streamingserver02.omroepnuenen.nl/kontakt/kontakt_720p/playlist.m3u8
+
+# https://omroeprsh.nl/studio-live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fpCCcL9.png" group-title="",Omroep RSH Studio
+https://5e6ab219de8f5.streamlock.net/omroeprsh/omroeprsh/playlist.m3u8?ref=RSHLIVE
+
+# hhttps://www.omroepspakenburg.nl/lostv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oyPXIMY.png" group-title="",Omroep Spakenburg (LOS TV)
+https://streamingserver02.omroepnuenen.nl/spakenburg/spakenburglive_720p/playlist.m3u8
+
+# https://www.omroeptilburg.nl/kijken/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NLp3wTm.png" group-title="",Omroep Tilburg
+https://ms7.mx-cd.net/tv/184-782326/Omroep_Tilburg_TV.smil/playlist.m3u8
+
+# https://omroepvlaardingen.nl/layout/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ho8mKrZ.png" group-title="",Omroep Vlaardingen
+https://video.audiostreamen.nl:3013/live/omroepvlaardingenlive.m3u8
+
+# https://lovo.tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXc74pL.png" group-title="",Omroep Voor Oisterwijk (LOVOTV) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCOQvdj7V4JCNvss8qrU8scw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XXc74pL.png" group-title="",Omroep Voor Oisterwijk (LOVOTV)(STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCOQvdj7V4JCNvss8qrU8scw/live
+
+# https://www.omroepwest.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qykIOVd.png" group-title="",Omroep West
+https://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
+
+# https://www.omroepzeeland.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EuZ6yNG.png" group-title="",Omroep Zeeland
+https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
+
+# https://www.lokaleomroepzeewolde.nl/loz-tv/televisie
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ZHHsG9.png" group-title="",Omroep Zeewolde (LOZ TV)
+https://5e2b3e3114872.streamlock.net:1443/lozlive/smil:lozlive/playlist.m3u8
+
+# https://openrotterdam.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UFHJaTY.png" group-title="",Open Rotterdam
+http://ms2.mx-cd.net/tv/141-573555/OPEN_Rotterdam.smil/playlist.m3u8
+
+# https://orts.nl/tv-live-kijken/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BSPz8sd.jpg" group-title="",ORTS
+http://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/playlist.m3u8
+
+# https://qmusic.nl/player/qmusic_nl/index.html?showVideo=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3nlbCQy.png" group-title="",Qmusic
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+
+# https://www.radio10.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UH8L8pf.png" group-title="",Radio 10 Studio
+https://radio10.prd1.talpatvcdn.nl/2b725bc7c93f477eaf0e43955ea8a6c1/index.m3u8
+
+# https://www.radio350.nl/live/webcam
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TiBm1u1.png" group-title="",Radio 350 Studio
+https://stream.radio350.nl/hls/radio350.m3u8
+
+# https://www.538.nl/tv-538
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uUEi0bQ.jpg" group-title="",Radio 538
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
+
+# https://radioaalsmeer.nl/tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VASttUg.png" group-title="",Radio Aalsmeer
+https://radioaalsmeer.nl:4443/live/tv.m3u8
+
+# www.radiobeverwijk.nl/stream/
+#EXTINF:-1  tvg-logo="https://i.imgur.com/VizWdue.png" group-title="",Radio Beverwijk
+https://streaming05.stream.delivery/beverwijk/studio/playlist.m3u8
+
+# https://radiocontinu.nl/ https://live.stream.delivery/static/radiocontinu/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TikJTbn.png" group-title="",Radio Continu
+https://streaming05.stream.delivery/radiocontinu/live/playlist.m3u8
+
+# https://www.radioveronica.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nWuI5Zf.jpg" group-title="",Radio Veronica
+https://radioveronica.prd1.talpatvcdn.nl/a1115cc610fd42418e2f6d7e29a01c3c/index.m3u8
+
+# https://www.regio8.nl/livestream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LU2Gib7.png" group-title="",Regio8 TV
+https://ms7.mx-cd.net/tv/71-475821/Regio8TV.smil/playlist.m3u8
+
+# https://www.regio90.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e8pR0MB.png" group-title="",Regio90 TV
+https://ms7.mx-cd.net/MC-Monitoring/260-2403096/90TV.smil/playlist.m3u8
+
+# https://www.regionoordkop.nl/live-tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w3AiTsI.jpg" group-title="",Regio Noordkop TV
+https://rrr.sz.xlcdn.com/?account=Regio_Noordkop2&file=NoordkopTV/playlist.m3u8&type=live&service=webdav&protocol=https&output=playlist.m3u8
+
+# https://regiotvdebilt.nl/televisie/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZjENywo.png" group-title="",Regio TV De Bilt
+https://d3ud9qm9b5yby9.cloudfront.net/nlpo/clr-nlpo/76ecd122/index.m3u8
+
+# https://www.middengroningennieuws.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tc25B0S.png" group-title="",Regio TV Nieuws
+http://highvolume04.streampartner.nl/regiomedia/regiomedia/playlist.m3u8
+
+# https://www.rn7.nl/rn7-tv/live-tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZIgaED.png" group-title="",RN7 TV
+https://streaming.rn7.nl/rn7live_abr/tv/playlist.m3u8
+# https://www.rn7.nl/rn7-radio/live-radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZIgaED.png" group-title="",RN7 TV Visual Radio
+https://streaming.rn7.nl/rn7live_abr/visualradio/playlist.m3u8
+
+# https://rtveen.nl/ https://bu-d9ac46b.redbee.live/embedded/fefc5a11_D9AC46b
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LmAjxwn.jpg" group-title="",RTV 1
+https://dy7fxpkq4ggk8.cloudfront.net/nlpo/clr-nlpo/rtv1/index.m3u8
+
+# https://rtv527.nl/kijk-live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PbHCvqM.png" group-title="",RTV 527
+https://wowza3.videostreamingwowza.com/broadcastmediasolutions/broadcastmediasolutions/playlist.m3u8
+
+# https://www.rtv794.nl/beeld/live-beeld
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXjgg5h.png" group-title="",RTV 794
+https://dt4pogjgi3q8s.cloudfront.net/nlpo/clr-nlpo/rtvveluwezoom/index.m3u8
+
+# https://rtva.nl/televisie/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WBRbUXC.png" group-title="",RTVA
+https://live.rtva.nl/live/zender.m3u8
+
+# https://www.rtvconnect.nl/rtvconnect-tv/live-tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2BPF6Qa.png" group-title="",RTV Connect TV
+https://ms7.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8
+
+# https://www.rtvdordrecht.nl/tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j3UL0Dn.jpg" group-title="",RTV Dordrecht
+https://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
+
+# https://www.rtvdrenthe.nl/tv/tv-drenthe/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tfvFbBa.png" group-title="",RTV Drenthe
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+
+# https://www.rtvgo.nl/live-tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PnZfOb4.png" group-title="",RTV Gemeente Oldambt (RTV GO!)
+http://59132e529e3d1.streamlock.net:1935/Groningen1/Groningen1/playlist.m3u8
+
+# https://rtvhattem.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2kFpMGz.png" group-title="",RTV Hattem
+https://takeoff.jetstre.am/?account=RTV_Hattem&file=tvhattem/playlist.m3u8&type=live&service=webdav&protocol=https&output=playlist.m3u8
+
+# https://tv.rtvhorizon.nl/horizon.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p36yscq.png" group-title="",RTV Horizon
+https://tv.rtvhorizon.nl/hls/horizon/index.m3u8
+
+# https://rtvideaal.nl/kijk-ideaaltv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rEaQxQy.jpg" group-title="",RTV Ideaal TV
+https://ms7.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
+
+# https://www.rtvkatwijk.nl/live-tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fDsnUPz.png" group-title="",RTV Katwijk
+https://ms11.mx-cd.net/dtv-10/266-2630088/RTV_Katwijk_TV.smil/playlist.m3u8
+
+# https://rtvlansingerland.nl/kijk-mee/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Drf4GfO.png",RTV Lansingerland
+https://streaming-outbound-video-02.rtvlansingerland.nl/hls/livetv/index.m3u8
+# https://rtvlansingerland.nl/radio/studiocamera/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Drf4GfO.png",RTV Lansingerland Studio
+https://streaming-outbound-video-02.rtvlansingerland.nl/hls/livestream/index.m3u8
+
+# https://www.rtvlove.nl/livestream-tv.php/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gW79w0Z.png" group-title="",RTV LOVE
+https://d2o8iss0ldenh4.cloudfront.net/nlpo/clr-nlpo/rtvlove/index.m3u8
+
+# https://rtvmaastricht.nl/televisie/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zzMAwpk.png" group-title="",RTV Maastricht
+https://stream.rtvmaastricht.nl/rtvm_live/tv/playlist.m3u8
+
+# https://www.rtvmeppel.nl/tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMfwBpE.png" group-title="",RTV Meppel
+https://d2eanln3bsfb0d.cloudfront.net/nlpo/clr-nlpo/rtvmeppel/index.m3u8
+
+# https://www.rtvnof.nl/live-tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0RM6WO.jpg" group-title="",RTV NOF 1 - Noardeast-Fryslân / Dantumadiel
+https://5e6ab219de8f5.streamlock.net/rtvnof/rtvnof/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0RM6WO.jpg" group-title="",RTV NOF 2 (720p) [Not 24/7]
+http://593aed234297b.streamlock.net:1935/rtvnof2/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0RM6WO.jpg" group-title="",RTV NOF 3 - Achtkarspelen / Tytsjerksteradiel (Not 24/7)
+https://5ebd833552d56.streamlock.net/rtvnof3/rtvnof3/playlist.m3u8
+
+# https://www.rtvnoord.nl/tv/tv-noord/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cPCRmL5.png" group-title="",RTV Noord
+https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cPCRmL5.png" group-title="",RTV Noord Extra
+https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
+
+# https://www.rtvnunspeet.nl/55-rtv-nunspeet/pagina-s/4977-kabelkrant?menu=false&amp;scrolling=false
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h3OApPA.jpg" group-title="",RTV Nunspeet
+https://ms11.mx-cd.net/tv/262-2600774/RTV_Nunspeet.smil/playlist.m3u8
+# https://ssl.streampartner.nl/player.php?url=bz0uvowyz5jc478da77v
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h3OApPA.jpg" group-title="",RTV Nunspeet Visual Radio
+https://593aed234297b.streamlock.net/visual_radio/visual_radio/playlist.m3u8
+
+# https://www.rtvoost.nl/tv/tv-oost/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gtG4xkC.png" group-title="",RTV Oost
+https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
+
+# https://rtvparkstad.nl/livetv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PSlfIsz.png" group-title="",RTV Parkstad TV
+https://live.streamteam.eu:8443/parkstad/parkstad/tv/playlist.m3u8
+# https://rtvparkstad.nl/live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PSlfIsz.png" group-title="",RTV Parkstad radio
+https://live.streamteam.eu:8443/parkstad/parkstad/live/live/playlist.m3u8
+
+# https://rtvpurmerend.nl/televisie/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JVgTNFs.png" group-title="",RTV Purmerend
+https://ms7.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8
+
+# https://www.rijnmond.nl/tv/tv-rijnmond/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GqUHZ6P.png" group-title="",RTV Rijnmond
+https://dcur8bjarl5c2.cloudfront.net/live/rijnmond/tv/index.m3u8
+
+# https://kijk.rtvrijnstreek.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qpg3zcL.png" group-title="",RTV Rijnstreek TV
+https://s14.ssl-stream.com:3797/live/rtvrijnstreeklive.m3u8
+
+# https://rtvslingeland.nl/index.php/tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cBja0Cb.jpg" group-title="",RTV Slingeland
+https://ms7.mx-cd.net/dtv-10/105-475831/RTV_Slingeland.smil/playlist.m3u8
+# https://rtvslingeland.nl/index.php/webcam/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cBja0Cb.jpg" group-title="",RTV Slingeland Studio (TWITCH) (C_N)
+plugin://plugin.video.twitch/?mode=play&channel_name=rtvslingeland
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cBja0Cb.jpg" group-title="",RTV Slingeland Studio (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/rtvslingeland
+
+# https://www.rtvutrecht.nl/tv/rtv-utrecht/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HyM6zBl.png" group-title="",RTV Utrecht
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/rtvutrecht/index.m3u8
+
+# https://media.rtvwesterwolde.nl/webcam.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NKVRXHD.jpg" group-title="",RTV Westerwolde Studio
+https://media.rtvwesterwolde.nl/hls/live/index.m3u8
+
+# https://rtvzulthe.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gZXohlk.png" group-title="",RTV Zulthe
+http://ms7.mx-cd.net/tv/212-1299944/RTV-Zulthe.smil/playlist.m3u8
+
+# https://www.salto.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LO0Q5UD.png" group-title="",Salto 1 (OFFLINE)
+https://takeoff.jetstre.am/?account=atvijf&file=Salto1&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8kW6jUU.jpg" group-title="",Salto 2
+https://takeoff.jetstre.am/?account=atvijf&file=Salto2&type=live&service=wowza&protocol=https&output=playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5hzFes9.png" group-title="",Salto AT5
+https://live.salto.nl/hls/at5_high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4P947CU.png" group-title="",Salto Brasa TV
+https://live.salto.nl/hls/sotv1_high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mVX8N2o.jpg" group-title="",Salto MA Live
+https://live.salto.nl/hls/malive_high.m3u8
+
+# https://www.salland1.nl/tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1RIUYJN.png" group-title="",Salland1
+https://cdn.omroepserver.nl/hls/salland1/salland1.m3u8
+
+# https://samen1.nl/tv/live-kijken/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XYUJTUW.jpg" group-title="",Samen1 TV
+https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8
+
+# http://slog.nl/index.php/slog-tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QUOY0Y6.png" group-title="",SlogTV
+https://rrr.sz.xlcdn.com/?account=Geertruidenberg2&file=SLOGTV/playlist.m3u8&type=live&service=webdav&protocol=https&output=playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EprAriD.png" group-title="",Silence TV
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+
+# https://siris.nl/televisie/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Vh6LTc.jpg" group-title="",Siris TV
+https://videostream.siris.nl/hls/playoutweb/index.m3u8
+
+# https://www.smelnefm.nl/ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VKFRbAN.jpg" group-title="",Smelne FM
+https://5f8d2f462474b.streamlock.net/smelne_ipad/smelne_ipad/playlist.m3u8
+
+# https://www.src.fm/index.php?page=srctv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgaKeAN.png" group-title="",SRC TV
+https://5f8d2f462474b.streamlock.net/adminsrc/adminsrc/playlist.m3u8?ref=SRCTV
+
+# https://studio040.nl/televisie/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HehVgkM.jpg" group-title="",Studio 040
+https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8
+
+# https://www.studioalphen.nl/televisie/livestream/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UmqD7jJ.png" group-title="",Studio Alphen
+https://d9kpxp9eqvn3n.cloudfront.net/nlpo/clr-nlpo/studioalphen/index.m3u8
+
+# https://www.tommyteleshopping.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rETcY32.png" group-title="",Tommy Teleshopping
+http://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8
+
+# https://www.tv11.nl/live-tv/tvellef-live.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QYRXkGf.png" group-title="",TV Ellef
+https://61ae39677a1ab.streamlock.net/tvellef/tvellef/playlist.m3u8
+
+# https://livestream.tvvalkenburg.tv/embed/?key=tv-valkenburg&preview=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pvqpIkz.jpg" group-title="",TV Valkenburg
+https://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
+
+# https://www.tweedekamer.nl/vergaderingen/livedebat/plenaire-zaal
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6U52wYr.png" group-title="",Tweede Kamer (Not 24/7)
+https://livestreaming.b67.tweedekamer.nl/live/plenairezaal/index.m3u8?hd=1&sourcetimestamps=1&subtitles=live
+
+# https://www.urkfm.nl/bingo-nummer-gemist/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ycNesu.png" group-title="",URK FM (TWITCH) (C_N) (not 24/7)
+plugin://plugin.video.twitch/?mode=play&channel_name=urkfm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ycNesu.png" group-title="",URK FM (STK) (not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/urkfm
+
+# https://www.ustad.nl/tv/ustad/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MfhOS4m.png" group-title="",U Stad
+https://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
+
+# https://rtvvechtdal.nl/vechtdaltv/livestream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B3m7sTR.png" group-title="",Vechtdal TV
+https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
+
+# https://www.vosfmradio.nl/live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/etF8gsQ.png" group-title="",VOS FM
+https://593aed234297b.streamlock.net/henrymeeuws/henrymeeuws/playlist.m3u8
+
+# https://weeff.nl/live-popup-tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GNdHWJD.jpg" group-title="",WEEFF TV
+https://rrr.sz.xlcdn.com/?account=weeff&file=weefftv&type=live&service=wowza&protocol=https&output=playlist.m3u8
+# https://weeff.nl/live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GNdHWJD.jpg" group-title="",WEEFF TV Studio
+https://takeoff.jetstre.am/?account=weeff&file=weeffradio&type=live&service=wowza&protocol=https&output=playlist.m3u8
+
+# https://wos.nl/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KvIZSPQ.png" group-title="",WOS TV
+https://ms7.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
+
+# https://xite.nl/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C6hCCcj.jpg" group-title="",XITE
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
+
+# https://www.zo34.nl/player-tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8IpFyPB.png" group-title="",ZO!34
+https://video.uitzending.tv:19360/zo34/zo34.m3u8
+# https://www.zo34.nl/player-webcam
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8IpFyPB.png" group-title="",ZO!34 Radio
+https://video.uitzending.tv:19360/zo34cam/zo34cam.m3u8
+
+# https://zo-nws.nl/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TTckMBY.png" group-title="",ZO-NWS
+https://d1elysv23zpg5s.cloudfront.net/nlpo/clr-nlpo/zonwstv/index.m3u8
+
+# https://www.zuidwestupdate.nl/tv-live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aCii08L.jpg" group-title="",ZuidWest TV
+https://live.zuidwesttv.nl/live/zwtv.m3u8
+
+
+#EXTINF:-1,####Working Via Browser Only####
+
+# https://www.funx.nl/live  https://www.funx.nl/api/miniplayer/info?channel=npo-funx https://npo-drm-gateway.samgcloud.nepworldwide.nl/widevine_player_cert.bin
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LHuSqs7.jpg" group-title="",Funx (.mpd + Token Stream dmr)
+
+# https://www.radionl.fm/  https://www.radionl.tv/ https://ssl.streampartner.nl/player.php?url=2d784ec170a627160049&ref=Hoofdwebsite
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xSix98p.jpg" group-title="",Radio NL (Token Stream)
+
+
+#EXTINF:-1,####Geo/OFFLINE####
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DSceqe3.png" group-title="",NPO 1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hQwyNqe.jpg" group-title="",NPO 2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1YmjU4p.png" group-title="",NPO 3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qn0K7JT.jpg" group-title="",NPO Zapp
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C3ssuV4.jpg" group-title="",NPO Nieuws
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A8cy89R.png" group-title="",NPO Politiek
+
+#EXTINF:-1,####403/olon.ctl.cdn.ebsd.ericsson.net####
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LO0Q5UD.png" group-title="",Salto 1
+https://olon.ctl.cdn.ebsd.ericsson.net/L8A/95f14edc/8d74cf86.isml/.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8kW6jUU.jpg" group-title="",Salto 2
+https://olon.ctl.cdn.ebsd.ericsson.net/L8A/bc718ab6/65358d45.isml/.m3u8
+
+# http://aavisie.nl/kijk-live/ https://wl-0d171e.enigmatv.io/embedded/0d36ae04_0D171E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Gl3u7rK.png" group-title="",AAVISIE TV (.mpd GEO)
+https://olon.ctl.cdn.ebsd.ericsson.net/L9B/f8f7c769/c2949f95.isml/.mpd?dvr_window_length=7200
+
+# https://www.avulo.nl/live-tv https://wl-0d171e.enigmatv.io/embedded/ee4b71e5_0D171E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2V7ckg7.png" group-title="",Avulo (.mpd GEO)
+https://olon.ctl.cdn.ebsd.ericsson.net/L9B/8b496a9e/44a0623b.isml/.mpd?dvr_window_length=7200
+
+# https://www.lokaleomroepmill.nl/live-streams/test/ https://wl-0d171e.enigmatv.io/play/1ea5359d_0D171E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xm2Ik2o.png" group-title="",Lokale Omroep Mill (LOMTV) (.mpd GEO)
+https://olon.ctl.cdn.ebsd.ericsson.net/L8B/fe821f26/66c845c7.isml/.mpd?dvr_window_length=7200
+
+# https://omroepsudwest.tv/home-video/live/ https://wl-0d171e.enigmatv.io/embedded/1c37484e_0D171E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TeDvjrR.gif" group-title="",Omroep Súdwest (.mpd GEO)
+https://olon.ctl.cdn.ebsd.ericsson.net/L9B/7dce60ec/ee1da019.isml/.mpd?dvr_window_length=7200
+
+# https://omroepvenlo.nl/televisie-livestream https://wl-0d171e.enigmatv.io/embedded/021f318b_0D171E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7mYmB3.png" group-title="",Omroep Venlo (.mpd GEO)
+https://olon.ctl.cdn.ebsd.ericsson.net/L9A/9d2bc38f/eef4bacc.isml/.mpd?dvr_window_length=7200
+
+# https://www.omroepvenray.nl/livetv/ https://wl-0d171e.enigmatv.io/embedded/b5004196_0D171E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9d7Rahe.png" group-title="",Omroep Venray (.mpd GEO)
+https://olon.ctl.cdn.ebsd.ericsson.net/L9B/640cbc96/8a6a73a6.isml/.mpd?dvr_window_length=7200
+
+# https://www.radiolelystad.nl/1688-radio-lelystad-tv-desktop https://wl-0d171e.enigmatv.io/embedded/3cb9d904_0D171E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xxiOpuq.jpg" group-title="",Radio Lelystad (.mpd GEO)
+https://olon.ctl.cdn.ebsd.ericsson.net/L8B/9a708947/16898d06.isml/.mpd?dvr_window_length=7200
+
+https://www.rtv80.nl/tv/ https://wl-0d171e.enigmatv.io/embedded/515e85de_0D171E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/53RAb0B.jpg" group-title="",RTV 80 (.mpd GEO)
+https://olon.ctl.cdn.ebsd.ericsson.net/L8B/d60f1836/da3cc949.isml/.mpd?dvr_window_length=7200
+
+# https://www.altenatv.nl/video/livestream/ https://wl-0d171e.enigmatv.io/embedded/60824afb_0D171E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zAHSWrS.jpg" group-title="",RTV Altena (.mpd GEO)
+https://olon.ctl.cdn.ebsd.ericsson.net/L8A/297d1c03/c988a39c.isml/.mpd?dvr_window_length=7200
+
+# https://www.rtvpapendrecht.nl/live-tv/ https://wl-0d171e.enigmatv.io/embedded/2132c2a2_0D171E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SAe1cou.jpg" group-title="",RTV Papendrecht (.mpd GEO)
+https://olon.ctl.cdn.ebsd.ericsson.net/L9A/9c900fc0/e8a80d15.isml/.mpd?dvr_window_length=7200
+
+# https://rtvrondevenen.nl/televisie/live https://wl-0d171e.enigmatv.io/embedded/b9a7c3de_0D171E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lHU3xk.png" group-title="",RTV Ronde Venen (.mpd GEO)
+https://olon.ctl.cdn.ebsd.ericsson.net/L8A/a676754a/e2987838.isml/.mpd?dvr_window_length=7200
+
+# https://www.rtvseaport.nl/live-tv/ https://wl-0d171e.enigmatv.io/embedded/800e4cca_0D171E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/boCdVJ4.png" group-title="",RTV Seaport (.mpd GEO)
+https://olon.ctl.cdn.ebsd.ericsson.net/L9B/454ca730/416b1a9d.isml/.mpd?dvr_window_length=7200
+
+# https://slotstad.nl/televisie/live https://wl-0d171e.enigmatv.io/embedded/338a61b8_0D171E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmqaTnA.png" group-title="",Slotstad TV (.mpd GEO)
+https://olon.ctl.cdn.ebsd.ericsson.net/L8B/cb8e9159/80b26bd1.isml/.mpd?dvr_window_length=7200
+
+# https://www.schie.nu/tv/live https://wl-0d171e.enigmatv.io/embedded/88729a5a_0D171E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j9D69Ud.png" group-title="",Schie (.mpd GEO)
+https://olon.ctl.cdn.ebsd.ericsson.net/L8B/9921e6a1/7e6340f1.isml/.mpd?dvr_window_length=7200
+
+# https://rtvos.nl/  https://wl-0d171e.enigmatv.io/embedded/bf39cea4_0D171E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3QO4FEE.png" group-title="",VOS TV (.mpd GEO)
+https://olon.ctl.cdn.ebsd.ericsson.net/L8A/670cc78b/e1510e0d.isml/.mpd?dvr_window_length=7200
+
+#EXTINF:-1,####Not Working####
+
+# https://www.deventerrtv.nl/live-televisie/ https://wl-0d171e.enigmatv.io/embedded/c04edc0a_0D171E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vQhiNEp.png" group-title="",Deventer RTV (No Load/Unknown error)
+
+# https://htrradio.evtmedia.nl/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9embVd8.jpg" group-title="",HTR TV (OFFLINE)
+https://www.twitch.tv/tvhtr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9embVd8.jpg" group-title="",HTR CAM Radio (OFFLINE)
+https://www.twitch.tv/htrradio
+
+# https://podium.tv/ https://i.imgur.com/l6PrRSR.png
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zEhcsXq.png" group-title="",Podium.TV (OFFLINE)
+http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC1&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zEhcsXq.png" group-title="",Podium.TV 2 (OFFLINE)
+http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC2&output=playlist.m3u8&service=wowza&type=live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zEhcsXq.png" group-title="",Podium.TV 3 (OFFLINE)
+http://rrr.sz.xlcdn.com/?account=ndc_mediagroep&file=NDC3&output=playlist.m3u8&service=wowza&type=live
+
+# https://www.borneinbeeld.nl/televisie-live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yKGlc4V.png" group-title="",RTV Borne (OFFLINE / No PLayer)
+
+# https://www.rtvslogo.nl/livestream https://wl-0d171e.enigmatv.io/embedded/8f5a39d2_0D171E
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CmHyV3y.png" group-title="",RTV Slogo (No Load/Unknown error)
+
+# https://haaksbergeninbeeld.nl/televisie-live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VDr2mmt.jpg" group-title="",RTV Sternet (OFFLINE / No PLayer)
+
+# https://www.rtvzaanstreek.nl/tv/livestream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AGipp2q.png" group-title="",RTV Zaan (OFFLINE)

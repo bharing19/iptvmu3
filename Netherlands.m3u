@@ -27,6 +27,12 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCxVicskgBc8OD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M40UPpT.jpg" group-title="",AT5
 https://takeoff.jetstre.am/?account=atvijf&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8
 
+# https://www.baronie.tv/kijk-live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aanL3z0.jpg" group-title="",Baronie TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCC_8NYel1OlRkTgaAcS9ScQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aanL3z0.jpg" group-title="",Baronie TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCC_8NYel1OlRkTgaAcS9ScQ/live
+
 # https://www.bd1.nl/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5mnvSO.jpg" group-title="",BD1 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCDr2n0Rko7u_5kqSEsuOPfA&live=1
@@ -229,6 +235,10 @@ plugin://plugin.video.sendtokodi/?https://www.twitch.tv/omroepcastricum
 # https://www.omroepcentraal.nl/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/23X61k4.png" group-title="",Omroep Centraal TV
 https://ms7.mx-cd.net/tv/208-1258878/Omroep_Centraal_GB.smil/playlist.m3u8
+
+# https://www.omroepdommelland.nl/ https://bu-e5ad49b.redbee.live/embedded/f3883629_E5AD49b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qJrTwP5.png" group-title="",Omroep Dommelland
+https://de68fck4398ez.cloudfront.net/nlpo/clr-nlpo/omroepdommelland/index.m3u8
 
 # https://www.omroepflevoland.nl/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tbA1mCp.png" group-title="",Omroep Flevoland
@@ -648,7 +658,6 @@ https://d1elysv23zpg5s.cloudfront.net/nlpo/clr-nlpo/zonwstv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aCii08L.jpg" group-title="",ZuidWest TV
 https://live.zuidwesttv.nl/live/zwtv.m3u8
 
-
 #EXTINF:-1,####Working Via Browser Only####
 
 # https://www.funx.nl/live  https://www.funx.nl/api/miniplayer/info?channel=npo-funx https://npo-drm-gateway.samgcloud.nepworldwide.nl/widevine_player_cert.bin
@@ -656,7 +665,6 @@ https://live.zuidwesttv.nl/live/zwtv.m3u8
 
 # https://www.radionl.fm/  https://www.radionl.tv/ https://ssl.streampartner.nl/player.php?url=2d784ec170a627160049&ref=Hoofdwebsite
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xSix98p.jpg" group-title="",Radio NL (Token Stream)
-
 
 #EXTINF:-1,####Geo/OFFLINE####
 

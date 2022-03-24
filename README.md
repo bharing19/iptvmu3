@@ -8,31 +8,32 @@ all Playlist work with the Playlistloader addon  for kodi 18.9 or 19+ matrix as 
 
 ################
 
-will no longer be used for live ,to mutch time consuming to keep it updated ... only good For Direct Video only
 # Youtube : Video Id :  No API required : link Update required (UPD)
-#EXTINF:-1 tvg-logo="" group-title="", (YT) (v_id) (UPD)
-plugin://plugin.video.youtube/play/?video_id=IDHERE
+will no longer be used for live ,to mutch time consuming to keep it updated ... only good For Direct Video only
+- #EXTINF:-1 tvg-logo="" group-title="", (YT) (v_id) (UPD)
+- plugin://plugin.video.youtube/play/?video_id=IDHERE
 
-will be used for those who have the api
 # Youtube : Channel ID : API required : No Update required
-#EXTINF:-1 tvg-logo="" group-title="", (YT) (c_id)
-plugin://plugin.video.youtube/play/?channel_id=IDHERE&live=1
+will be used for those who have the api
+- #EXTINF:-1 tvg-logo="" group-title="", (YT) (c_id)
+- plugin://plugin.video.youtube/play/?channel_id=IDHERE&live=1
 
-If Multiple Live From The same Channel , Change &live=2 ... and so on  need to be tested to fit the Channel Naming
+If Multiple Live From The same Channel , Change &live=2  =3 =4   and so on  , need to be tested to fit the Channel Naming
+as some channel might stop is live stream and start a new one .. it may occur that some live will change  naming and logo , just change sequence of live number at the end , that fits the proper stream 
 
+# api tutorial
 https://blog.hubspot.com/website/how-to-get-youtube-api-key
-
 
 ################
 
 
 # Twitch : Channel Name
-#EXTINF:-1 tvg-logo="" group-title="", (TWITCH) (C_N)
-plugin://plugin.video.twitch/?mode=play&channel_name=
+- #EXTINF:-1 tvg-logo="" group-title="", (TWITCH) (C_N)
+- plugin://plugin.video.twitch/?mode=play&channel_name=CHANNELNAMEHERE
 
 # Twitch : Channel ID
-#EXTINF:-1 tvg-logo="" group-title="", (TWITCH) (C_id)
-plugin://plugin.video.twitch/?channel_id=IDHERE&amp;mode=play
+- #EXTINF:-1 tvg-logo="" group-title="", (TWITCH) (C_id)
+- plugin://plugin.video.twitch/?channel_id=IDHERE&amp;mode=play
 
 Twitch Channel ID can be found from the site , in The m3u8 link , detected by a hsl or m3u8 stream detector , as per exemple  . Download helper plugin in firefox
 you will find link that begin by https://usher.ttvnw.net/api/channel/hls/?????.m3u8? + A long Token .. in the token search : channel_id String
@@ -43,10 +44,10 @@ exemple: https://www.twitch.tv/asot = channel_id%22%3A265735182%2C%22  , the id 
 
 **** Token Retreivers ****
 
-# Streamlink Tester
+# Streamlink Tester leia 18.9 only
 
-#EXTINF:-1 tvg-logo="" group-title="",  (SLT)
-plugin://plugin.video.streamlink-tester/?action=play&url=URLHERE
+- #EXTINF:-1 tvg-logo="" group-title="",  (SLT)
+- plugin://plugin.video.streamlink-tester/?action=play&url=URLHERE
 
 Usefull For many  Site That Use .php ending  EX: .php?id=IDHERE
 
@@ -72,8 +73,8 @@ https://livestream.com/ ; http://api.new.livestream.com/accounts/IDHERE/events/I
 # Send To Kodi  
 18.9 or matrix see here https://github.com/firsttris/plugin.video.sendtokodi
 
-#EXTINF:-1 tvg-logo="" group-title="", (STK)
-plugin://plugin.video.sendtokodi/?URLHERE
+- #EXTINF:-1 tvg-logo="" group-title="", (STK)
+- plugin://plugin.video.sendtokodi/?URLHERE
 
 # Tested  WebSite :
 
@@ -108,18 +109,18 @@ https://picarto.tv/CHANNELNAMEHERE
 
 
 # Dailymotion : LIVE Only
-#EXTINF:-1 tvg-logo="" group-title="", (DM)
-plugin://plugin.video.dailymotion_com/?url=IDHERE&amp;mode=playLiveVideo
+- #EXTINF:-1 tvg-logo="" group-title="", (DM)
+- plugin://plugin.video.dailymotion_com/?url=IDHERE&amp;mode=playLiveVideo
 
 # Dailymotion : VOD Only
-#EXTINF:-1 tvg-logo="" group-title="", (DM_VOD)
-plugin://plugin.video.dailymotion_com/?mode=playVideo&url=IDHERE
+- #EXTINF:-1 tvg-logo="" group-title="", (DM_VOD)
+- plugin://plugin.video.dailymotion_com/?mode=playVideo&url=IDHERE
 
 ################
 
 # Dailymotion : VLC Only
-#EXTINF:-1 tvg-logo="" group-title="", (For VLC)
-https://www.dailymotion.com/video/IDHERE#tab_embed.m3u8
+- #EXTINF:-1 tvg-logo="" group-title="", (For VLC)
+- https://www.dailymotion.com/video/IDHERE#tab_embed.m3u8
 
 
 ################
@@ -127,18 +128,18 @@ https://www.dailymotion.com/video/IDHERE#tab_embed.m3u8
 HLS Stream URL option can be Required and tricked by using
 
 # User-Agent=
-|User-Agent=
+- |User-Agent=
 # Most Common
-|User-Agent=stream
-|User-Agent=VLC
-|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+- |User-Agent=stream
+- |User-Agent=VLC
+- |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 # More Here
 http://useragentstring.com/pages/useragentstring.php?name=All
 # Referer=
-|Referer=
+- |Referer=
 Url Referer of the .m3u8 Stream
 # X-Forwarded-For=
-|X-Forwarded-For=
+- |X-Forwarded-For=
 Usaly It work without a vpn  by simply finding the proper ISP ip/range of the country that match the geo restriction Stream
 
 

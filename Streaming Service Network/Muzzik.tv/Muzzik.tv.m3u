@@ -21,13 +21,13 @@ http://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 http://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w3VTnTQ.png" group-title="",Riviera
 http://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w3VTnTQ.png" group-title="",Muzzik HipHop
+http://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w3VTnTQ.png" group-title="",Muzzik Saculatac (OFFLINE)
 http://muzzik-live.morescreens.com/mts-a2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w3VTnTQ.png" group-title="",Muzzik Replay (OFFLINE)
 http://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w3VTnTQ.png" group-title="",Muzzik HipHop (OFFLINE)
-http://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.muzzik.tv/images/muzzik-radio-logo.png" group-title="",★★★★★★★★★★Muzzik.tv Radio★★★★★★★★★★
 0.0.0.0

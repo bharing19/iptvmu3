@@ -600,6 +600,14 @@ http://ca1.buximedia.com:8080/coa/assyriantv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6Ay3V03.png" group-title="Canada",Assyrian TV (OPT-2)
 http://ca1.buximedia.com:8080/coa/assyriantv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oQ89xZt.jpg" group-title="",ATV Canada Inc (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCdkyWdnpU3HQ39u7DWS2xpA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oQ89xZt.jpg" group-title="",ATV Canada Inc (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCdkyWdnpU3HQ39u7DWS2xpA/live
+# https://hello-montreal.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oQ89xZt.jpg" group-title="",ATV Canada Inc
+https://tv8.raytahost.com/live/hello/index.m3u8
+
 # https://www.awazent.com/awazent.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Lw2xnD.png" group-title="",Awaz Entertainment (1080p)
 https://streamer12.vdn.dstreamone.net/awaztv/awaztv/playlist.m3u8

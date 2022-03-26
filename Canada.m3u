@@ -331,7 +331,7 @@ https://pe-fa-lp01a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/
 
 # https://www.youtube.com/user/ccacurling/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/snUGe84.png" group-title="Sport",Curling Canada (YT) (c_id)
-plugin://plugin.video.youtube/play/?channel_id=IDHERE&live=1
+plugin://plugin.video.youtube/play/?channel_id=UC3cR_DttIClGcE5StsIbyXA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/snUGe84.png" group-title="Sport",Curling Canada (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC3cR_DttIClGcE5StsIbyXA/live
 

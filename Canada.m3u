@@ -274,6 +274,11 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/gmDfwMF.png" group-title="",CFJC Live (t
 #EXTINF:-1 tvg-id="Cheknews.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/2jRdJ3p.png" group-title="News",Cheknews (1080p) [Not 24/7] (STK)
 plugin://plugin.video.sendtokodi/?https://player.zype.com/embed/61411256d7c8ae000168893f.html?api_key=wPVS5IQoMHNsQvfrGuKJ9spKSKCXxsjs0Bf1UVshCI5sUtrj&controls=true&da=true
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XJ5ATml.jpg" group-title="",CHCO-TV (YT) (c_id) (Not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCDQfhuuBWhb-T6-n4UVb8GQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XJ5ATml.jpg" group-title="",CHCO-TV (STK) (Not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCDQfhuuBWhb-T6-n4UVb8GQ/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6AnQt0i.jpg" group-title="",City of Vancouver (YT) (c_id) (not 24/7)
 plugin://plugin.video.youtube/play/?channel_id=UC_J7-3J3yJPhIBMbPlo4o0w&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6AnQt0i.jpg" group-title="",City of Vancouver (SLT) (not 24/7)

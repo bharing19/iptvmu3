@@ -1084,11 +1084,20 @@ https://tls1-cdn-edge-live01.pfd.sfr.net/bfm-ncdn-live-pal1.pfd.sfr.net/sid=027j
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CgxvEex.jpg" group-title="Business",Business Rockstars
 https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5joZqI.jpg" group-title="Business",Business Zone (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCrg224S96B35fOj7n909Gpg/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WbYGN3Q.jpg" group-title="Business",CoinGecko Directory (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC3cLrUK6mgSGWkW4G5_XvHQ/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QjvL7Xq.jpg" group-title="Business",CMC Markets Deutschland (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_SxfCXZUfnqDlPDXXBLhNw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PmSJKWF.jpg" group-title="Business",CNBC Africa (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCsba91UGiQLFOb5DN3Z_AdQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7xmHPMq.jpg" group-title="Business",CNBC Arabia TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCsHdPPJXT-yKVTLGkn3DSvQ/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yBFGAsW.png" group-title="Business",CNBC AWAAZ - India
 http://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8

@@ -99,7 +99,7 @@ https://cbsnewshd-lh.akamaihd.net/i/cbsnewsLivePlayer_1@196305/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/20J8y4b.png" group-title="News",CGTN - China
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30IcQGN.jpg" group-title="",CGTN Europe (STK) - China
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30IcQGN.jpg" group-title="News",CGTN Europe (STK) - China
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCj0TppyxzQWm9JbMg3CP8Rg/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oHpiKZw.jpg" group-title="News",Channels Television - Nigeria (STK)
@@ -592,7 +592,7 @@ http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tojasWW.jpg" group-title="News",CCTV-13 - China
 https://cctvcnchww.v.cdn20.com/live/cctv13_1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PbONgEn.jpg" group-title="",C5N (Canal 5 Noticias) (STK) - Argentina
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PbONgEn.jpg" group-title="News",C5N (Canal 5 Noticias) (STK) - Argentina
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QcuKBx4.jpg" group-title="News",Channel 2 News - Israel
@@ -610,11 +610,14 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCvdwhh_fDyWcc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BiHeSjz.png" group-title="News",CNN Prima News - Czech Republic
 https://prima-ott-live-sec.ssl.cdn.cra.cz/UfNMb7YNO2meLWsGXofEdw==,1647387570/channels/prima_cnn/playlist-live_lq-live_mq-live_hq.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A6ucI1Q.png" group-title="News",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YKiZnUH.jpg" group-title="News",CNN TÜRK (STK) - Turkey
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCV6zcRug6Hqp1UX_FdyUeBg/live
 
 # https://ct24.ceskatelevize.cz/#live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NGinZQ4.png" group-title="",CT24 (SLT) - Czech Republic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NGinZQ4.png" group-title="News",CT24 (SLT) - Czech Republic
 plugin://plugin.video.streamlink-tester/?action=play&url=https://ivys-vst08-5.o2tv.cz/atip/a505ced39b83afa52ba6216218af5a12/1646100858645/2402-tv-pc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NyPikf9.jpg" group-title="News",Current Time TV  (SLT) - Czech Republic
@@ -717,7 +720,7 @@ https://live.bradosti.net/live/GaliKurdistan/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yTktpJ0.jpg" group-title="News",Halab Today - Syria
 https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gkvlG9v.png" group-title="",Hamburg 1 - Germany
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gkvlG9v.png" group-title="News",Hamburg 1 - Germany
 https://hamburg1-jw.cdn.vustreams.com/live/09120205-afa3-4048-a965-318eb0cacffc/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q1tJuXU.png" group-title="News",Hír TV - Hungary
@@ -771,7 +774,7 @@ plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/xnm032
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iyfbWpk.png" group-title="News",Libya 218 News
 https://218tv.akamaized.net/615c6485275a8057847e0026/live_3982873027cc11ec86950df2beca5773/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="actualités",LN24 - Belgium
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="News",LN24 - Belgium
 https://hls-origin01-ln24.cdn01.rambla.be/adliveorigin-ln24/_definst_/ApYjOq.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxfGh6U.png" group-title="News",M24 TV - Morocco
@@ -798,7 +801,7 @@ http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rdgyfiD.png" group-title="News",NationTV 22 (STK) - Thailand
 plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x6eoldf
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bvltjuh.jpg" group-title="",News 1 - Thailand
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bvltjuh.jpg" group-title="News",News 1 - Thailand
 https://server1.streamssl.com/stream/news1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q5MssTN.png" group-title="News",News 18 Assam
@@ -972,7 +975,7 @@ plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x6inuzo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pK9bYr6.jpg" group-title="News",TRT Haber (STK) - Turkey
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCBgTP2LOFVPmq15W-RH-WXA/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="",TV5 Monde Info - France
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="News",TV5 Monde Info - France
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2fTfRnW.jpg" group-title="News",TV5 Telugu News (STK) - India
@@ -1036,7 +1039,7 @@ https://stream-aleph.m.ro/Aleph/Alephbiz.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UiVQYbX.png" group-title="Business",Atameken Business - Kazakhstan
 https://live-atameken.cdnvideo.ru/atameken/smil:atameken.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UiVQYbX.png" group-title="",Atameken Business - Kazakhstan (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UiVQYbX.png" group-title="Business",Atameken Business - Kazakhstan (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCTI_-Eu_ZUQyYR4DwyD5odw/live
 
 #EXTINF:-1 tvg-logo="http://i.mjh.nz/.images/tv.7ausbiz.png" group-title="Business",Ausbiz TV - Australia
@@ -1104,6 +1107,15 @@ http://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/duXg3v3.jpg" group-title="Business",CNBC Bajar (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCuymYhTC78nLKDrA4z5FBSQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DcvsMGy.png" group-title="Business",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/po6vkaf.jpg" group-title="Business",CNBC Italia
+https://streamcdnc2-859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/opX7x3a.jpg" group-title="Business",CNBC TV18 - India
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OH1AmU9.jpg" group-title="Business",Crypto Miki : Ethereum (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_i68tipo4IpVBsS_x6eDMQ/live

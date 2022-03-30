@@ -90,6 +90,45 @@ plugin://plugin.video.youtube/play/?channel_id=UCngNXEVdMZge3OpnD8Ca0Lw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Npjofkf.png" group-title="",Monster Jam (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCngNXEVdMZge3OpnD8Ca0Lw/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/feVBJCz.png" group-title="",OldTimeyComputerShow (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/oldtimeycomputershow
+
+# https://www.youtube.com/channel/UC6VJE6cD8ZPpe6ZOtVtlBTA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zrBmb4h.jpg" group-title="",Amazing Facts TV (AFTV) (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC6VJE6cD8ZPpe6ZOtVtlBTA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zrBmb4h.jpg" group-title="",Amazing Facts TV (AFTV) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC6VJE6cD8ZPpe6ZOtVtlBTA/live
+
+#######
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9c98C9u.jpg" group-title="",Primitive Survival Skills (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUetuR_z_X9HopDHAAoRlVQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MS1h1vF.jpg" group-title="",Survival Foods (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-Rq73rW_CObJIuX539AEMA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ejjgXmk.jpg" group-title="",Adventure In Forest (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC8HBQLDPE0RWQgrG-aa6biA
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xU7yLtT.jpg" group-title="",Justin Wilson 24/7 Cooking Episodes! (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCh71pkPbg3DuD03jaxGqK8A
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fSXgVJy.jpg" group-title="",Asian Street Food 24/7 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCWvPCFEqVA0XQrTkaxVNviw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6xEMp0D.jpg" group-title="",Food Visual (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC1nWemDzbwA8BAVx4PEFC2g/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWRfQim.jpg" group-title="",A SceneSys Web (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCbTIZ1An2ApImq6rrVYfsQ/live
+
+# https://www.elrural.com/transmision-en-vivo2/
+#EXTINF:-1 tvg-logo="https://www.elrural.com/wp-content/themes/el-rural2016/images/canal-rural.png" group-title="",El Rural
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagens-cdn.canalrural.com.br/2019/07/favicon-novo-logo-cr-2019.png" group-title="",Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
 #######
 
 # https://www.intergalactic.fm/

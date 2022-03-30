@@ -165,6 +165,9 @@ https://live4-uvelirochka.cdnvideo.ru/uvelir10/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d4i2FXF.jpg" group-title="",Lejel Home Shopping - Indonesia (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9q_4Ljmm0C15j25Bqx1ZOw/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y2RthJ4.jpg" group-title="Shop",Lejel Home Shopping (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9q_4Ljmm0C15j25Bqx1ZOw/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gFnsnth.jpg" group-title="",Leomax 24 - Russia
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gFnsnth.jpg" group-title="",Leomax 24 - Russia (STK)
@@ -194,6 +197,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC4_WjgHnlKssN
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5d8iCqu.jpg" group-title="",NS Home Shopping - South Korea
 http://livestream.nsmall.com:1935/IPHONE/test.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rWYQUb0.png" group-title="Shop",Ocydia Smart Shop (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCaPsizDgNz31-cippA9U0pg/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZZJjM4J.png" group-title="",PearlTV - France (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCvpCjGQASCazC-Vxcp9tgPA/live
@@ -239,6 +245,9 @@ https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
 https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qtirIFA.png" group-title="",QVC Beauty - USA
 https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kfWPKvA.jpg" group-title="Shop",Shop Bulldog TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCSjkdk0uRM3v6Z_4U-hk41Q/live
 
 # https://shopch.in.th/web/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w112xoF.jpg" group-title="",SHOP CH - Thailand (STK)

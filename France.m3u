@@ -312,8 +312,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCMgaz88skVo7HF6ZWlioetw&live=1
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMgaz88skVo7HF6ZWlioetw/live
 
 
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FR" tvg-logo="https://i.imgur.com/3PjeT6M.jpg" group-title="généraliste",6ter
-http://stream.tvtap.live:8081/live/fr-6ter.stream/playlist.m3u8
+EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FR" tvg-logo="https://i.imgur.com/3PjeT6M.jpg" group-title="généraliste",6ter
+
 
 # https://www.youtube.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3AelRxI.png" group-title="régionale",7ALimoges (c_id) (YT)
@@ -330,10 +330,7 @@ http://flusonic-4.platinum-tv.com/AB1/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB 1 FR" tvg-logo="https://i.imgur.com/alYq7vX.png" group-title="généraliste",AB1 (OPT-2)
 http://190.2.138.13/AB1/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1 tvg-id="Action.fr" tvg-name="Action FR" tvg-logo="https://i.imgur.com/YlWKCG5.png" group-title="thématique",ACTION
-http://190.2.138.13/action/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="Action.fr" tvg-name="Action FR" tvg-logo="https://i.imgur.com/YlWKCG5.png" group-title="thématique",ACTION (OPT-2)
-http://flusonic-4.platinum-tv.com/action/index.m3u8?token=test
+EXTINF:-1 tvg-id="Action.fr" tvg-name="Action FR" tvg-logo="https://i.imgur.com/YlWKCG5.png" group-title="thématique",ACTION
 
 #EXTINF:-1 tvg-id="AirConnectTV" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/wjrd7ml.png" group-title="",Air Connect TV
 https://tvmcp.pro-fhi.net:1936/actv/actv/playlist.m3u8
@@ -352,10 +349,8 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https://alsace20.live-k
 #EXTINF:-1 tvg-id="AlpedHuez.fr" tvg-name="Alpe d’Huez" tvg-logo="https://i.imgur.com/vX6I8rY.png" group-title="Sport",Alpe d’Huez
 https://edge10.vedge.infomaniak.com/livecast/ik:adhtv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="Animaux FR" tvg-logo="https://i.imgur.com/VIMEnFM.png" group-title="documentaires",Animaux
-http://flusonic-4.platinum-tv.com/animaux/index.m3u8?token=test
-#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="Animaux FR" tvg-logo="https://i.imgur.com/VIMEnFM.png" group-title="documentaires",Animaux
-http://190.2.138.13/animaux/tracks-v1a1/mono.m3u8?token=test
+EXTINF:-1 tvg-id="Animaux.fr" tvg-name="Animaux FR" tvg-logo="https://i.imgur.com/VIMEnFM.png" group-title="documentaires",Animaux
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zCONKdx.jpg" group-title="Anime",Amuse Animation
 https://amuse-amuseanimation-2-fr.samsung.wurl.tv/playlist.m3u8
@@ -401,8 +396,8 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0XkRJqxFGeZT
 EXTINF:-1 tvg-logo="https://i.imgur.com/EpfazNt.jpg" group-title="Cuisine",Ateliler des chefs
 https://alchimie-atelier-des-chefs-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="Automoto FR" tvg-logo="https://i.imgur.com/LJX8OLD.jpg" group-title="Sport",AutoMoto
-http://flusonic-4.platinum-tv.com/AUTOMOTO/tracks-v1a1/mono.m3u8?token=test
+EXTINF:-1 tvg-id="Automoto.fr" tvg-name="Automoto FR" tvg-logo="https://i.imgur.com/LJX8OLD.jpg" group-title="Sport",AutoMoto
+
 #EXTINF:-1 tvg-id="Automoto.fr" tvg-name="Automoto FR" tvg-logo="https://i.imgur.com/LJX8OLD.jpg" group-title="Sport",AutoMoto (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://allfoot.info/y/3/17.php
 
@@ -555,8 +550,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCjbvuMcOCvyYFZKKPvU6QHw&live=1
 #EXTINF:-1 tvg-name="Canal Local Grosblie" tvg-logo="https://i.imgur.com/4KD7F69.png" group-title="régionale",Canal Local Grosbliederstroff (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCjbvuMcOCvyYFZKKPvU6QHw/live
 
-#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+ FR" tvg-logo="https://i.imgur.com/9FP1MyZ.png" group-title="généraliste",Canal+ 
-http://flusonic-4.platinum-tv.com/canal+/tracks-v1a1/mono.m3u8?token=test
+EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+ FR" tvg-logo="https://i.imgur.com/9FP1MyZ.png" group-title="généraliste",Canal+ 
+
 # https://www.dailymotion.com/video/x5gv6be
 #EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="Canal+ FR" tvg-logo="https://i.imgur.com/9FP1MyZ.png" group-title="généraliste",Canal+ (DM)
 plugin://plugin.video.dailymotion_com/?url=x5gv6be&mode=playLiveVideo
@@ -633,8 +628,6 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https://dsh-m010.live-l
 
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar
 http://144.217.253.140/Cstar/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar (OPT-2)
-http://flusonic-4.platinum-tv.com/D17/tracks-v1a1/mono.m3u8?token=test
 # update link : # https://www.dailymotion.com/video/x5gv5v0
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar (DM) (GEO)
 plugin://plugin.video.dailymotion_com/?url=x5gv5v0&mode=playLiveVideo
@@ -784,28 +777,19 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3890?p
 http://edge9.iptvnetwork.net/live/france3/chunks.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="généraliste",France 3 (OPT-3)
 http://95.211.153.98/live/france3/chunks.m3u8
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="généraliste",France 3 (OPT-4)
-http://190.2.138.13/france3/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="généraliste",France 3 (OPT-5)
-http://flusonic-4.platinum-tv.com/france3/index.m3u8?token=test
+
 
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="généraliste",France 4 (OPT-2)
 http://edge9.iptvnetwork.net/live/france4/chunks.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="généraliste",France 4 (OPT-3)
 http://95.211.153.98/live/france4/chunks.m3u8
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="généraliste",France 4 (OPT-4)
-http://190.2.138.13/france4/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="généraliste",France 4 (OPT-5)
-http://flusonic-4.platinum-tv.com/france4/index.m3u8?token=test
+
 
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="généraliste",France 5 (OPT-2)
 http://edge9.iptvnetwork.net/live/france5/chunks.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="généraliste",France 5 (OPT-3)
 http://95.211.153.98/live/france5/chunks.m3u8
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="généraliste",France 5 (OPT-4)
-http://190.2.138.13/france5/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="généraliste",France 5 (OPT-5)
-http://flusonic-4.platinum-tv.com/france5/index.m3u8?token=test
+
 
 # https://www.france24.com/ar/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1
 #EXTINF:-1 tvg-id="France24ar.fr" tvg-name="France 24 FR" tvg-logo="https://i.imgur.com/WPfHi7d.png" group-title="actualités",France 24 Arabic
@@ -921,9 +905,9 @@ https://edge8.vedge.infomaniak.com/livecast/ik:generation-tv/chunklist_w16613786
 https://edge9.vedge.infomaniak.com/livecast/ik:generation-tv/playlist.m3u8
 
 # http://www.gongnetworks.com/gong.php
-#EXTINF:-1 tvg-id="France" tvg-name="Gong" tvg-logo="https://i.ibb.co/WzMP5qS/gong.png" group-title="thématique",Gong (OFFLINE)
+EXTINF:-1 tvg-id="France" tvg-name="Gong" tvg-logo="https://i.ibb.co/WzMP5qS/gong.png" group-title="thématique",Gong (OFFLINE)
 http://51.254.215.79/appflux/gong/playlist.m3u8
-#EXTINF:-1 tvg-id="France" tvg-name="Gong Max" tvg-logo="https://i.ibb.co/r4RmtCK/gongmax.png" group-title="thématique",Gong Max (OFFLINE)
+EXTINF:-1 tvg-id="France" tvg-name="Gong Max" tvg-logo="https://i.ibb.co/r4RmtCK/gongmax.png" group-title="thématique",Gong Max (OFFLINE)
 http://51.254.215.79/appflux/gongmax/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli FR" tvg-logo="https://i.imgur.com/U2KsDA0.png" group-title="Anime",Gulli
@@ -996,8 +980,6 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UChl0zP89T7yZy
 # https://www.lci.fr/direct/
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI FR" tvg-logo="https://i.ibb.co/42qRB2Y/lci.png" group-title="actualités",LCI
 http://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI FR" tvg-logo="https://i.ibb.co/42qRB2Y/lci.png" group-title="actualités",LCI (OPT-2)
-http://flusonic-4.platinum-tv.com/LCI/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI FR" tvg-logo="https://i.ibb.co/42qRB2Y/lci.png" group-title="actualités",LCI (TT)
 plugin://script.module.7of9-live/play/753/play.pvr
 
@@ -1032,6 +1014,7 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https://allfoot.info/y/
 plugin://plugin.video.dailymotion_com/?url=x85046c&amp;mode=playLiveVideo
 #EXTINF:-1 tvg-id="lest-eclair.fr" tvg-country="Fr" tvg-language="French" tvg-logo="https://i.imgur.com/eNzCVc9.png" group-title="",L'Est-éclair TV (STK)
 plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x85046c
+
 # http://leeeko.tv/
 EXTINF:-1 tvg-id="France" tvg-name="Lèeekô TV" tvg-logo="http://leeeko.tv/wp-content/uploads/2019/12/LogoTv002.png" group-title="Musique",Lèeekô TV (OFFLINE)
 http://livetvsteam.com:1935/leeeko/leeeko/chunklist_w1491857041.m3u8
@@ -1205,8 +1188,8 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCXptamDYEVcU4
 #EXTINF:-1 tvg-logo="http://www.boulistenaute.com/logo.png" group-title="Sport",Pétanque avec Boulistenaute (DM)
 plugin://plugin.video.dailymotion_com/?url=x7n019d&mode=playLiveVideo
 
-#EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/u0aZ4X1.png" group-title="Anime",Piwi
-http://flusonic-4.platinum-tv.com/Piwi/index.m3u8?token=test
+EXTINF:-1 tvg-id="France" tvg-logo="https://i.imgur.com/u0aZ4X1.png" group-title="Anime",Piwi
+
 
 #EXTINF:-1 tvg-id="France" tvg-name="Planete+"  tvg-logo="https://i.imgur.com/ddS4cpG.png" group-title="Documentaires",Planete+ (TT)
 plugin://script.module.7of9-live/play/318/play.pvr
@@ -1434,14 +1417,14 @@ http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
 #EXTINF:-1 tvg-id="tytele.fr" tvg-name="Tele TY FR" tvg-logo="https://i.imgur.com/fR1RlZj.jpg" group-title="",Tele TY
 http://mv2.tvfrancophonie.org/live/Stream1/chunklist_w671289549_b776739.m3u8
 
-#EXTINF:-1 tvg-id="Teva.fr" tvg-name="Téva FR" tvg-logo="https://i.imgur.com/PVWGHit.png" group-title="généraliste",Téva
-http://flusonic-4.platinum-tv.com/Teva/tracks-v1a1/mono.m3u8?token=test
+EXTINF:-1 tvg-id="Teva.fr" tvg-name="Téva FR" tvg-logo="https://i.imgur.com/PVWGHit.png" group-title="généraliste",Téva
+
 
 # https://www.twitch.tv/top80radio
 #EXTINF:-1 tvg-logo="https://www.top80radio.com/wp-content/uploads/2020/04/Top-80-radio-200x200-1.png" group-title="Radio",Top80Radio (TWITCH) (C_N)
 plugin://plugin.video.twitch/?mode=play&channel_name=top80radio
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/30tUMWq.png" group-title="",Toute l'Histoire (OFFLINE)
+EXTINF:-1 tvg-logo="https://i.imgur.com/30tUMWq.png" group-title="",Toute l'Histoire
 
 #
 #EXTINF:-1 tvg-id="Tv7Bordeaux.fr" tvg-name="Tv7 Bordeaux FR" tvg-logo="https://mk0tv7bordeauxtnwgfh.kinstacdn.com/wp-content/uploads/2018/09/tv7.png" group-title="régionale",Tv7 Bordeaux (DM)
@@ -1491,27 +1474,26 @@ plugin://plugin.video.youtube/play/?channel_id=UC5BRZBCjOqMO9BqWnubqtJA&live=1
 #EXTINF:-1 tvg-id="TVVendee.fr" tvg-name="TV Vendée FR" tvg-logo="https://i.imgur.com/1VcXicN.jpg" group-title="Locale",TV Vendée (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5BRZBCjOqMO9BqWnubqtJA/live
 
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="généraliste",TF1 (OPT-2)
-http://flusonic-4.platinum-tv.com/TF1/index.m3u8?token=test
+
+
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="généraliste",TF1 (OPT-5)
 http://edge.iptvnetwork.net/live/TF1/playlist.m3u8
 #http://stream.suboroiptv.tv:80/TF1/playlist.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="généraliste",TF1 (TT)
 plugin://script.module.7of9-live/play/504/play.pvr
 
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Séries Films FR" tvg-logo="https://i.ibb.co/41Dt9TY/TF1Serie.png" group-title="thématique",TF1 Series & films
-http://flusonic-4.platinum-tv.com/HD1/index.m3u8?token=test
+EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Séries Films FR" tvg-logo="https://i.ibb.co/41Dt9TY/TF1Serie.png" group-title="thématique",TF1 Series & films
 
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX FR" tvg-logo="https://i.imgur.com/LLbpKZh.png" group-title="généraliste",TFX
-http://flusonic-4.platinum-tv.com/NT1/index.m3u8?token=test
+
+EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX FR" tvg-logo="https://i.imgur.com/LLbpKZh.png" group-title="généraliste",TFX
+
 
 #EXTINF:-1 tvg-id="Tiji.fr" tvg-name="Tiji FR" tvg-logo="https://i.imgur.com/J5FMleF.jpg" group-title="Anime",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
 #EXTINF:-1 ttvg-id="Tiji.fr" tvg-name="Tiji FR" vg-logo="https://i.imgur.com/J5FMleF.jpg" group-title="Anime",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index_1.m3u8
 
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FR" tvg-logo="https://i.ibb.co/XL20Y0z/TMC.png" group-title="généraliste",TMC
-http://flusonic-4.platinum-tv.com/TMC/index.m3u8?token=test
+
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FR" tvg-logo="https://i.ibb.co/XL20Y0z/TMC.png" group-title="généraliste",TMC
 http://stream.suboroiptv.tv/TMC/playlist.m3u8
 
@@ -1647,19 +1629,14 @@ https://edge10.vedge.infomaniak.com/livecast/ik:cineplume/manifest.m3u8?spark=a6
 # https://viamatele.tv/direct-tv/
 #EXTINF:-1 tvg-id="ViaMatele.fr" tvg-name="ViaMATELE FR" tvg-logo="https://i.imgur.com/CVEfiOJ.png" group-title="régionale",ViaMATÉLÉ 
 https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919.m3u8
-https://streamer03.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_medium/index.m3u8
-https://streamer01.myvideoplace.tv/streamer02/hls/MATL_VLOC_PAD_100919_low/index.m3u8
 
 # https://viamoselle.tv/direct/
 #EXTINF:-1 tvg-id="ViaMoselle.FR" tvg-name="ViaMoselle fr" tvg-logo="https://i.imgur.com/eHGMreP.png" group-title="régionale",ViaMoselle
-https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/chunklist_w1462070180_b896000.m3u8
 https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
 
 # https://viaoccitanie.tv/direct-tv/ #
 #EXTINF:-1 tvg-id="ViaOccitanie.FR" tvg-name="ViaOccitanie FR" tvg-logo="https://i.imgur.com/GNcTy5x.png" group-title="régionale",ViaOccitanie
 https://streamer03.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117.m3u8
-https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
-https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_low/index.m3u8
 
 # https://vialmtv.tv/direct-tv/
 #EXTINF:-1 tvg-id="ViaLMtvSarthe.fr" tvg-name="viaLMtvSarthe FR" tvg-logo="https://i.imgur.com/6cJxXxm.png" group-title="régionale",ViaLMtvSarthe (DM)
@@ -1690,8 +1667,7 @@ https://www.dailymotion.com/video/x7mxymy#tab_embed.m3u8
 #EXTINF:-1 tvg-id="winamax.fr" tvg-name="Winamax TV FR" tvg-logo="https://i.imgur.com/GIVJ6iD.png" group-title="Sport",Winamax TV (TWITCH)
 plugin://plugin.video.twitch/?channel_id=644597699&amp;mode=play
 
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 FR" tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="généraliste",W9
-http://flusonic-4.platinum-tv.com/W9/tracks-v1a1/mono.m3u8?token=test
+
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 FR" tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="généraliste",W9 (TT)
 plugin://script.module.7of9-live/play/503/play.pvr
 

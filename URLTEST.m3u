@@ -1,7 +1,96 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="",TEST 1+1
-https://raw.githubusercontent.com/Sphinxroot/iptvmu3/main/TRT.m3u
+
+#EXTINF:-1 tvg-ID="SB1.AU" tvg-logo="https://static.epg.best/au/SBS.au.png" group-title="",SBS One
+https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-ID="SBV.AU" tvg-logo="https://static.epg.best/au/SBSViceland.au.png" group-title="",SBS Viceland
+https://sbs-live.akamaized.net/hls/live/2002828/channel2/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-ID="SBF.AU" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/ad6c5b49-3c34-4a6d-ab5b-d1bd2eea8fda.png" group-title="",SBS Food
+https://sbs-live.akamaized.net/hls/live/2002829-b/channel3/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-ID="NIT.AU" tvg-logo="https://static.epg.best/au/NITV.au.png" group-title="Australia",NITV
+https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8|X-Forwarded-For=52.62.247.239
+#EXTINF:-1 tvg-ID="SBM.AU" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/austatic/media/3374ed8c-8b84-4703-8449-7142e3bd838e.png" group-title="",SBS World Movies
+https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
+
+
+# https://www.wsfltv.com/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q1xEMN4.png" group-title="",WSFL TV
+https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8
+
+
+#######
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Oe6XvV.jpg" group-title="",COPSTV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCfJsOa7m1zKMS9T2dvIljfQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Oe6XvV.jpg" group-title="",COPSTV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCfJsOa7m1zKMS9T2dvIljfQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qK46rbo.jpg" group-title="",Bondi Vet (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRnSnAq44St3dzNdgPpfChA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qK46rbo.jpg" group-title="",Bondi Vet (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCRnSnAq44St3dzNdgPpfChA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6rWqyzP.jpg" group-title="",Reelblack Movie Marathon 24/7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCPk29gUc_ltOGQ6f3Lh5kCg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6rWqyzP.jpg" group-title="",Reelblack Movie Marathon 24/7 (STK)
+plugin://plugin.video.sendtokodi/?=https://www.youtube.com/channel/UCPk29gUc_ltOGQ6f3Lh5kCg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/edVCqwx.jpg" group-title="",Expoza Travel (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC3o_gaqvLoPSRVMc2GmkDrg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/edVCqwx.jpg" group-title="",Expoza Travel (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC3o_gaqvLoPSRVMc2GmkDrg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hm3eEsi.jpg" group-title="",Travel Channel (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJUAqHnkDX15IvFoXIGTm2A&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hm3eEsi.jpg" group-title="",Travel Channel (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCJUAqHnkDX15IvFoXIGTm2A/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pt1PdEv.jpg" group-title="",News 12 New York (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCFhbonoFqxg2b9FMRzYAwog&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pt1PdEv.jpg" group-title="",News 12 New York (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCFhbonoFqxg2b9FMRzYAwog/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ruGI0MT.jpg" group-title="",WPLG Local 10 South Florida (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCgVZ0mrM3liHNhRYC5Mchgg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ruGI0MT.jpg" group-title="",WPLG Local 10 South Florida (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCgVZ0mrM3liHNhRYC5Mchgg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JhP6Jcl.jpg" group-title="",WZVN ABC 7 News Fort Myers (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCq9e_hCv2jvgck8WowW1NXg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JhP6Jcl.jpg" group-title="",WZVN ABC 7 News Fort Myers (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCq9e_hCv2jvgck8WowW1NXg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xkNuKNS.jpg" group-title="",KOBI-TV NBC5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCDDHvAu-pNOgdzgHha96Qnw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xkNuKNS.jpg" group-title="",KOBI-TV NBC5 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCDDHvAu-pNOgdzgHha96Qnw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RV0FRt1.jpg" group-title="",NBC2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCIYVU7fPs_n6gJIBso3ryeg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RV0FRt1.jpg" group-title="",NBC2 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCIYVU7fPs_n6gJIBso3ryeg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kd8Orat.jpg" group-title="",PBS Blue Ridge (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UClfc1_I5AVnnRAvIRpwLXBQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kd8Orat.jpg" group-title="",PBS Blue Ridge (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UClfc1_I5AVnnRAvIRpwLXBQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVoECeB.png" group-title="",PBS Guam (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCaVp5oNNuIZVU7qqhSX0LGQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVoECeB.png" group-title="",PBS Guam (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCaVp5oNNuIZVU7qqhSX0LGQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BPtVLSS.png" group-title="",PBS KIDS (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCrNnk0wFBnCS1awGjq_ijGQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BPtVLSS.png" group-title="",PBS KIDS (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCrNnk0wFBnCS1awGjq_ijGQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Npjofkf.png" group-title="",Monster Jam (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCngNXEVdMZge3OpnD8Ca0Lw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Npjofkf.png" group-title="",Monster Jam (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCngNXEVdMZge3OpnD8Ca0Lw/live
+
+#######
 
 # https://www.intergalactic.fm/
 # https://hotmixes.net/
@@ -18,7 +107,7 @@ https://radio.intergalactic.fm/2aac
 #EXTINF:-1 tvg-logo="https://i.imgur.com/75rSkwG.png" group-title="",The Dream Machine
 https://radio.intergalactic.fm/3aac
 
-
+#######
 
 # https://robotstreamer.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KsBONDH.png" group-title="",Stronkbot
@@ -34,6 +123,8 @@ https://hls4.robotstreamer.com/tv/5134.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KsBONDH.png" group-title="",oneoneeight
 https://hls4.robotstreamer.com/tv/3860.m3u8
 
+#######
+
 # https://volume.com/
 #EXTINF:-1 tvg-logo="https://roomimg.volume.com/ri/rtg.jpg" group-title="",RTG - Scifighter Station
 https://edge-4.volume.com/live-hls/amlst:rtg-sd-757e3dbd6bdf60ee218d5ad86e44bda6c8af010de2210d573b74f5490c8ead88_trns_h264/playlist.m3u8
@@ -44,6 +135,7 @@ https://edge-4.volume.com/live-hls/amlst:jmlozach-sd-c241f932e6f66c509bf0ddf2d41
 #EXTINF:-1 tvg-logo="https://roomimg.volume.com/ri/psycologicrj.jpg" group-title="",psycologicrj
 https://edge-4.volume.com/live-hls/amlst:psycologicrj-sd-8a2d2194f437201c0a8256835d0196be42fad6c00334c0d3f725199409932ce0_trns_h264/playlist.m3u8
 
+#######
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nhH1IFa.png" group-title="",ConTVAnime
 https://contvanime-theta.cinedigm.com/playlist.m3u8
@@ -84,7 +176,7 @@ https://cdn.stream.bitwave.tv/hls/Hendrik/index.m3u8|Referer=https://bitwave.tv/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auTVlDl.jpg" group-title="",CodComedyTJ247
 https://cdn.stream.bitwave.tv/hls/CodComedyTJ247/index.m3u8|Referer=https://bitwave.tv/
 
-########
+#######
 
 #EXTINF:-1 tvg-logo="" group-title="",Plug Stereo Tv
 https://live-aws-us-east-1.mobcrush.com/hls/2/616f750986c0ec22255041ae.m3u8|Referer=https://www.mobcrush.com/plugstereofm2
@@ -112,174 +204,3 @@ https://tx.flv.nimo.tv/live/su1939514102053rdf2a0aa1994b3fcf3f78efee9bf53a32.flv
 # https://www.nimo.tv/live/1563901443 https://www.twitch.tv/tronlabs_io
 #EXTINF:-1 tvg-logo="" group-title="",Tronlabs.io
 https://tx.flv.nimo.tv/live/su1939514102677r3d40f3c7a9b657543a718e7d5791f0ec.flv
-
-
-
-
-
-###########
-
-#EXTINF:-1 tvg-logo="" group-title="",Earth From Space ISS (YT)
-plugin://plugin.video.youtube/play/?video_id=DDU-rZs-Ic4
-
-#EXTINF:-1 tvg-logo="" group-title="",Earth Views: Earth From Space (YT)
-plugin://plugin.video.youtube/play/?video_id=hV4K2lG5Ljk
-
-#EXTINF:-1 tvg-logo="" group-title="",NASA Live: Official Stream of NASA TV (YT)
-plugin://plugin.video.youtube/play/?video_id=21X5lGlDOfg
-
-#EXTINF:-1 tvg-logo="" group-title="",Onboard Views from International Space Station (YT)
-plugin://plugin.video.youtube/play/?video_id=8tlDZwswPOw
-
-#EXTINF:-1 tvg-logo="" group-title="",NASA Live: Official Stream of NASA TV's Media Channel (YT)
-plugin://plugin.video.youtube/play/?video_id=nA9UZF-SZoQ
-
-#EXTINF:-1 tvg-logo="" group-title="",NASA LIVE (YT)
-plugin://plugin.video.youtube/play/?video_id=igxbW9B3nzs
-
-#EXTINF:-1 tvg-logo="" group-title="",Mars Cam Views from NASA (YT)
-plugin://plugin.video.youtube/play/?video_id=6B_6K-splRU
-
-#EXTINF:-1 tvg-logo="" group-title="",SpaceX Falcon9 (Replay) (YT)
-plugin://plugin.video.youtube/play/?video_id=hXj0LxKLlFA
-
-#EXTINF:-1 tvg-logo="" group-title="",SpaceX Falcon9 -2 (Replay) (YT)
-plugin://plugin.video.youtube/play/?video_id=n5OFCZGnZ2o
-
-#EXTINF:-1 tvg-logo="" group-title="",ULA to Launch Atlas V rocket (Replay) (YT)
-plugin://plugin.video.youtube/play/?video_id=MSpyR7uzITw
-
-#EXTINF:-1 tvg-logo="" group-title="",Astronaut Spacewalk (YT)
-plugin://plugin.video.youtube/play/?video_id=mg7FweYjasE
-
-#EXTINF:-1 tvg-logo="" group-title="",NSF Fleetcam 24x7 Alpha (YT)
-plugin://plugin.video.youtube/play/?video_id=gnt2wZBg89g
-
-#EXTINF:-1 tvg-logo="" group-title="",Starship Live At SpaceX Boca Chica Launch Facility 1 (YT)
-plugin://plugin.video.youtube/play/?video_id=n5ozYnVQahE
-
-#EXTINF:-1 tvg-logo="" group-title="",Starship Live At SpaceX Boca Chica Launch Facility 2 (YT)
-plugin://plugin.video.youtube/play/?video_id=G_u7HPZX_8A
-
-#EXTINF:-1 tvg-logo="" group-title="",Starship Live At SpaceX Boca Chica Launch Facility 3 (YT)
-plugin://plugin.video.youtube/play/?video_id=qNyEwBW0ZJA
-
-#EXTINF:-1 tvg-logo="" group-title="",SpaceX's pad 39A at Kennedy Space Center (YT)
-plugin://plugin.video.youtube/play/?video_id=d-QCVI2y03U
-
-#EXTINF:-1 tvg-logo="" group-title="",SPACEX STARSHIP - Live From The Pearl South Padre Resort (YT)
-plugin://plugin.video.youtube/play/?video_id=YbKEWlhWN5c
-
-###########
-
-# https://www.youtube.com/channel/UC91-f7w908RyjwNWGQlpsMQ
-#EXTINF:-1 tvg-logo="" group-title="",Tampa Bay Weather Live (YT)
-plugin://plugin.video.youtube/play/?video_id=-gdaiLMyP8s
-
-#https://www.youtube.com/channel/UCDtp5WqyK_HBbKeT0WR0bxw
-#EXTINF:-1 tvg-logo="" group-title="",Live Earthquakes Volcanoes and Weather (YT)
-plugin://plugin.video.youtube/play/?video_id=ABGWIKOjIrU
-
-#EXTINF:-1 tvg-logo="" group-title="",Texas Weather (YT)
-plugin://plugin.video.youtube/play/?video_id=xqNjNlJTq5I
-
-#EXTINF:-1 tvg-logo="" group-title="",North Central Oklahoma (YT)
-plugin://plugin.video.youtube/play/?video_id=oAHrVspFgfo
-
-#EXTINF:-1 tvg-logo="" group-title="",live weather and Radar for Stillwater, Oklahoma (YT)
-plugin://plugin.video.youtube/play/?video_id=sO0Be9gg_0M
-
-#EXTINF:-1 tvg-logo="" group-title="",地震気象ライブ 第1放送 | Earthquake Weather Live No.1 (YT)
-plugin://plugin.video.youtube/play/?video_id=UIfuer07kGk
-
-#EXTINF:-1 tvg-logo="" group-title="",地震気象ライブ 第2放送 | Earthquake Weather Live No.2 (YT)
-plugin://plugin.video.youtube/play/?video_id=QmxcEJQwBsQ
-
-# https://www.youtube.com/channel/UCF2pPnmYt_qwnlcGSCklnpQ
-#EXTINF:-1 tvg-logo="" group-title=""Live Radar and NWS Forecast for Batavia, Illinois (YT)
-plugin://plugin.video.youtube/play/?video_id=J0_7zH-FrBc
-
-#EXTINF:-1 tvg-logo="" group-title="",Live weather conditions for Madison, Wisconsin (YT)
-plugin://plugin.video.youtube/play/?video_id=QNj8ylhdZ1U
-
-# https://www.youtube.com/channel/UCUBPKhoRJdhrNh5j5J8OFfQ
-#EXTINF:-1 tvg-logo="" group-title="",Weather NOW live stream for central North Dakota (YT)
-plugin://plugin.video.youtube/play/?video_id=7ri_z0xH_R8
-
-#EXTINF:-1 tvg-logo="" group-title="",24/7 Live Hurricane Tracker (YT)
-plugin://plugin.video.youtube/play/?video_id=3rgiSK9MXgA
-
-# https://www.youtube.com/channel/UCrUk9L249WGtkuQrrJYw9fw
-#EXTINF:-1 tvg-logo="" group-title="",HurricaneFeeds.Com - WatchStorms.Com (YT)
-plugin://plugin.video.youtube/play/?video_id=BS4-KVx417c
-
-# https://www.youtube.com/channel/UCxQh0dkjrSsTQ1bPRiAN7cg
-#EXTINF:-1 tvg-logo="" group-title="",24/7 International Weather and more(YT)
-plugin://plugin.video.youtube/play/?video_id=3lD7AAppSCA
-
-# https://www.youtube.com/channel/UCMCvIpHtR3U369NHLTzaiKw
-#EXTINF:-1 tvg-logo="" group-title="",Weather data from Farsund Lufthavn, Lista (YT)
-plugin://plugin.video.youtube/play/?video_id=7Lb1WF1vVTo
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bEzsCqj.jpg" group-title="",Wetter.tv
-http://176.10.117.3:5000/play/a03i
-
-#EXTINF:-1 tvg-logo="" group-title="",Seismic Worldmap Live (YT)
-plugin://plugin.video.youtube/play/?video_id=qC3JAO5BT7Q
-
-#EXTINF:-1 tvg-logo="" group-title="",SCSN Live Seismograms Media Feed (YT)
-plugin://plugin.video.youtube/play/?video_id=FqEtNsr8u9U
-
-#EXTINF:-1 tvg-logo="" group-title="",Shake 4D Seismograph (R350D) - Salt Lake City, Utah (YT)
-plugin://plugin.video.youtube/play/?video_id=zRzubxY1M6Q
-
-# https://www.youtube.com/channel/UCE0_W6t9VenEkA0MRu8D6XA
-#EXTINF:-1 tvg-logo="" group-title="",Earthquake near real-time reporting (YT)
-plugin://plugin.video.youtube/play/?video_id=vJNoaEuG_Jw
-
-#EXTINF:-1 tvg-logo="" group-title="",Volcanoes Live, Worldwide. (YT)
-plugin://plugin.video.youtube/play/?video_id=YeoRx59dZkc
-
-#EXTINF:-1 tvg-logo="" group-title="",North America Radar/Satellite/DirtyIR (YT)
-plugin://plugin.video.youtube/play/?video_id=89_rUb5gKNY
-
-#EXTINF:-1 tvg-logo="" group-title="",Willow Grove Weather Center in Pennsylvania LIVE (YT)
-plugin://plugin.video.youtube/play/?video_id=QRte1rdfzFk
-
-#EXTINF:-1 tvg-logo="" group-title="",TRACKING INVEST 94L LIKELY EPSILON (YT)
-plugin://plugin.video.youtube/play/?video_id=AjLWeqBkbho
-
-#EXTINF:-1 tvg-logo="" group-title="",Meteorologia del caribe (YT)
-plugin://plugin.video.youtube/play/?video_id=9byVcg-urN8
-
-#EXTINF:-1 tvg-logo="" group-title="",PC Puebla Capital (YT)
-plugin://plugin.video.youtube/play/?video_id=xhaMF0sSZ0Q
-
-#EXTINF:-1 tvg-logo="" group-title="",Weather Nation
-https://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="",The Weather Network
-https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
-#https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/index_2000_av-p.m3u8?sd=10&rebase=on
-
-
-##############
-
-#EXTINF:-1 tvg-logo="" group-title="",CABVIEW:Live Train (YT)
-plugin://plugin.video.youtube/play/?video_id=GYPVk0wBfj4
-
-#EXTINF:-1 tvg-logo="" group-title="",CABVIEW:Live Train 2 (YT)
-plugin://plugin.video.youtube/play/?video_id=N9VumpR1TMc
-
-#EXTINF:-1 tvg-logo="" group-title="",LIVE TRAIN 24/7 (YT)
-plugin://plugin.video.youtube/play/?video_id=ccbVvCcvPuw
-
-#EXTINF:-1 tvg-logo="" group-title="",Live Train 24/7 2 (YT)
-plugin://plugin.video.youtube/play/?video_id=jti1W0Od9Ss
-
-#EXTINF:-1 tvg-logo="" group-title="",LIVE TRAIN  to MaeKlong Railway Market (YT)
-plugin://plugin.video.youtube/play/?video_id=1Lza4UHNpGs
-
-#EXTINF:-1 tvg-logo="" group-title="",Riding The Rails TV - 24/7 Cab Ride Views from around the world (YT)
-plugin://plugin.video.youtube/play/?video_id=HIsM5ZYVcFk
-

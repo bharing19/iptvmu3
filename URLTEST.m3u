@@ -90,6 +90,11 @@ plugin://plugin.video.youtube/play/?channel_id=UCngNXEVdMZge3OpnD8Ca0Lw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Npjofkf.png" group-title="",Monster Jam (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCngNXEVdMZge3OpnD8Ca0Lw/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u1q90hX.jpg" group-title="",Monster Energy Supercross (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCkaNo2FUEWips2z4BkOHl6Q&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u1q90hX.jpg" group-title="",Monster Energy Supercross (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCkaNo2FUEWips2z4BkOHl6Q/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/feVBJCz.png" group-title="",OldTimeyComputerShow (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/oldtimeycomputershow
 

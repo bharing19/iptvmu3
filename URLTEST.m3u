@@ -1,5 +1,23 @@
 #EXTM3U
 
+### Temps Depot ###
+
+
+#EXTINF:-1 ,Noovo (kodi 19)
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
+#EXTINF:-1 ,Noovo ACC (kodi 19)
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/aac/v2/96000/manifest.m3u8
+#EXTINF:-1 ,Noovo 1 (kodi 19)
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/192000/manifest.m3u8
+#EXTINF:-1 ,Noovo 2 (kodi 19)
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
+
+EXTINF:-1 ,Medi 1 TV Afrique 1080p
+https://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8?DVR
+#EXTINF:-1 ,Medi 1 TV Maghreb 1080p
+https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8?DVR
+#EXTINF:-1 ,Medi 1 TV Arabic 1080p
+http://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-ID="SB1.AU" tvg-logo="https://static.epg.best/au/SBS.au.png" group-title="",SBS One
 https://sbs-live.akamaized.net/hls/live/2002827/channel1/geo/master_2500K.m3u8|X-Forwarded-For=52.62.247.239
@@ -17,8 +35,94 @@ https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8|X
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q1xEMN4.png" group-title="",WSFL TV
 https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8
 
+# https://www.ntd.com/live.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uEuCdZO.jpg" group-title="gen;News",NTD East (US)
+https://ntd02.akamaized.net/NTDA/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uEuCdZO.jpg" group-title="gen;News",NTD West (US)
+https://ntd02.akamaized.net/NTD-West/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uEuCdZO.jpg" group-title="gen;News",NTD UK
+https://ntd02.akamaized.net/NTD-UK/index.m3u8
+
+#EXTINF:-1 ,AMERICAN HORRORS
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
 #######
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YocYNNV.jpg" group-title="",Telugu Filmnagar  (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCintIUOJEktQBfhEI9XXpuw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YocYNNV.jpg" group-title="",Telugu Filmnagar  (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCintIUOJEktQBfhEI9XXpuw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m4LWd24.jpg" group-title="",Mango Music (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCWqyzn3cDkRDh3kRGWrIQwA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m4LWd24.jpg" group-title="",Mango Music (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCWqyzn3cDkRDh3kRGWrIQwA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s8GE1GE.jpg" group-title="",Mastiii (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC5boiCQP5zlgTCsbjs8G2zA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s8GE1GE.jpg" group-title="",Mastiii (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5boiCQP5zlgTCsbjs8G2zA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5q8nCqT.jpg" group-title="",Entertainment Daily (YT) (c_id) (not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UC16kpXXBGm_XmlSX8lhs49Q&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5q8nCqT.jpg" group-title="",Entertainment Daily (STK) (not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC16kpXXBGm_XmlSX8lhs49Q/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GdwPAKq.jpg" group-title="",Sansad TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCISgnSNwqQ2i8lhCun3KtQg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GdwPAKq.jpg" group-title="",Sansad TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCISgnSNwqQ2i8lhCun3KtQg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5g7lvbU.jpg" group-title="",respectable movies (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCh_fij4X0fdHO6kDUgzeQpQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5g7lvbU.jpg" group-title="",respectable movies (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCh_fij4X0fdHO6kDUgzeQpQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnbXCrH.jpg" group-title="",GTV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCXuHIkEezOy_b1pnkN0-TIg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnbXCrH.jpg" group-title="",GTV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCXuHIkEezOy_b1pnkN0-TIg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dx5R6Lx.jpg" group-title="",Show TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC9JMe_We017gYrRc7kZHgmg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dx5R6Lx.jpg" group-title="",Show TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9JMe_We017gYrRc7kZHgmg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uLmtsey.png" group-title="",talkRADIO  (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCm0yTweyAa0PwEIp0l3N_gA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uLmtsey.png" group-title="",talkRADIO  (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCm0yTweyAa0PwEIp0l3N_gA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Eypwyg.jpg" group-title="",CTVN AKD PLUS (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC1UOne4B9wIrMe0KMwe-7_g&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Eypwyg.jpg" group-title="",CTVN AKD PLUS (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC1UOne4B9wIrMe0KMwe-7_g/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6uLH3Eq.jpg" group-title="",Ch-15 Engineering Sciences and general subjects (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC6NLcId3-pHAgbUZ52FPPXA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6uLH3Eq.jpg" group-title="",Ch-15 Engineering Sciences and general subjects (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC6NLcId3-pHAgbUZ52FPPXA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EjESeDM.jpg" group-title="",América TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC6NVDkuzY2exMOVFw4i9oHw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EjESeDM.jpg" group-title="",América TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC6NVDkuzY2exMOVFw4i9oHw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pJuQvbs.jpg" group-title="",Televisa Guadalajara (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRujF_YxVVFmTRWURQH-Cww&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pJuQvbs.jpg" group-title="",Televisa Guadalajara (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WAh8htB.jpg" group-title="",MULTIMEDIOS (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCo1nfa1JKNqtcUyLjLwTiIw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WAh8htB.jpg" group-title="",MULTIMEDIOS (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCo1nfa1JKNqtcUyLjLwTiIw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bDQB77n.jpg" group-title="",IndyWrestling.us (YT) (c_id) (not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCncc1QMkFXnvoVtfANdpCRw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bDQB77n.jpg" group-title="",IndyWrestling.us (STK) (not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCncc1QMkFXnvoVtfANdpCRw/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Oe6XvV.jpg" group-title="",COPSTV (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCfJsOa7m1zKMS9T2dvIljfQ&live=1
@@ -110,13 +214,13 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC6VJE6cD8ZPpe
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUetuR_z_X9HopDHAAoRlVQ/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MS1h1vF.jpg" group-title="",Survival Foods (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-Rq73rW_CObJIuX539AEMA
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-Rq73rW_CObJIuX539AEMA/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ejjgXmk.jpg" group-title="",Adventure In Forest (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC8HBQLDPE0RWQgrG-aa6biA
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC8HBQLDPE0RWQgrG-aa6biA/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xU7yLtT.jpg" group-title="",Justin Wilson 24/7 Cooking Episodes! (STK)
-plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCh71pkPbg3DuD03jaxGqK8A
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCh71pkPbg3DuD03jaxGqK8A/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fSXgVJy.jpg" group-title="",Asian Street Food 24/7 (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCWvPCFEqVA0XQrTkaxVNviw/live
@@ -150,6 +254,114 @@ https://radio.intergalactic.fm/1aac
 https://radio.intergalactic.fm/2aac
 #EXTINF:-1 tvg-logo="https://i.imgur.com/75rSkwG.png" group-title="",The Dream Machine
 https://radio.intergalactic.fm/3aac
+
+#########
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2QmhMQ4.png" group-title="",MASPERO ZAMAN
+https://channelsarabia.xyz/4_.m3u8|Referer=https://live.qanwat-live.com/2021/06/maspero-zaman.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KTBlwEU.png" group-title="",MIX Hollywood
+https://channelsarabia.xyz/6_.m3u8|Referer=https://live.qanwat-live.com/2021/06/
+#EXTINF:-1 tvg-logo="" group-title="",DMC ??
+https://channelsarabia.xyz/7_.m3u8|Referer=https://live.qanwat-live.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EwK2c97.png" group-title="",DMC Drama
+https://channelsarabia.xyz/13_.m3u8|Referer=https://live.qanwat-live.com/2021/09/dmc-drama.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KOkwuLB.png" group-title="",ALHayat 1
+https://channelsarabia.xyz/10_.m3u8|Referer=https://live.qanwat-live.com/2021/07/alhayat.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UMWiVdT.png" group-title="",Zamalek TV
+https://channelsarabia.xyz/11_.m3u8|Referer=https://live.qanwat-live.com/2021/09/zamalek.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Q8lCr7.png" group-title="",DMC
+https://channelsarabia.xyz/5_.m3u8|Referer=https://live.qanwat-live.com/2021/06/dmc.html
+#EXTINF:-1 tvg-logo="" group-title="",ON Drama
+https://channelsarabia.xyz/9_.m3u8|Referer=https://live.qanwat-live.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWrkwCa.png" group-title="",ON E
+https://channelsarabia.xyz/8_.m3u8|Referer=https://live.qanwat-live.com/2021/04/on.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/32eXyQR.png" group-title="",MBC BOLLYWOOD
+https://channelsarabia.xyz/12_.m3u8|Referer=https://live.qanwat-live.com/2021/03/mbc-bollywood.html
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EEleC6w.png" group-title="",ZEE Aflam
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FHEwiRx.png" group-title="",ZEE ALWAN
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sI2iUO9.png" group-title="",TEN Tv
+https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
+#EXTINF:-1,action
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+#EXTINF:-1,mix
+https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
+#EXTINF:-1,drama
+https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
+#EXTINF:-1,nawaem
+https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
+
+
+#EXTINF:-1,EXPO 2020
+https://shls-expotv-prod-dub.shahid.net/out/v1/d01b0b3888284878b8898017895a5922/index.m3u8
+#EXTINF:-1 ,SSC not woking
+https://shls-ssc-6-prod-dub.shahid.net/out/v1/1e77018e030f468fbd72a95140aa33fa/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="",Al Arabiya
+https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="News",Al Hadath TV
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+#EXTINF:-1 tvg-logo="https://asharq.com/asharq-preview-logo.png" group-title="",Asharq
+https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QspORoA.png" group-title="",Catoon Network
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9IRJTah.png" group-title="",Gulli
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YPR45yP.png" group-title="",LBC International
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t4iXtoA.png" group-title="",MBC 1
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eKBXOKd.png"  group-title="",MBC
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXuzL1u.png"  group-title="",MBC 2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids",MBC 3
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kF3CKAv.png" group-title="",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kF3CKAv.png" group-title="",MBC 3 EUR
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kF3CKAv.png" group-title="",MBC 3 USA
+https://shls-mbc3-usa-prod.shahid.net/out/v1/f7584f50d13c4c01b0fac2be04c61c7e/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="General",MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YsCFQw9.png" group-title="",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies",MBC Action (1080p)
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fMjhK06.png" group-title="General",MBC Bollywood (1080p)
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F42FzA7.png" group-title="",MBC DRAMA
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png" group-title="Music",MBC FM (1080p)
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZfQaWWi.png" group-title="",MBC IRAQ
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aghJDgn.png" group-title="",MBC MASR 1
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr_2.png" group-title="General",MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X6EliFm.png" group-title="Movies",MBC Max (1080p)
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",,MBC Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vam1dRh.png" group-title="",MBC Drama Plus
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Music",Panorama FM (1080p)
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Rotana+
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Rotana Classic
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",Rotana Cinema HD
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bHm9SoV.png" group-title="",ROTANA KIDS
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="Kids",Spacetoon (1080p)
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="",Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
 #######
 

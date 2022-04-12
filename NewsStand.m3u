@@ -563,6 +563,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMmpLL2ucRHAX
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dlkZVDp.png" group-title="News",Asianet News - India
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aRFH4dn.gif" group-title="News",ATnews (STK) - Greece
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCU4MBshdveMl6mYPFUilAyg/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tLHVPTf.png" group-title="Gen;News",ATV - Hungary
 https://streamservers.atv.hu/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8
 
@@ -1067,6 +1070,9 @@ https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bwq7nBe.jpg" group-title="Business",Bloomberg Europe Event
 https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UUiTcYp.jpg" group-title="Business",BloombergHT (STK) - Turkey
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCApLxl6oYQafxvykuoC2uxQ/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/noNHhnL.png" group-title="Business",Bloomberg Politics
 https://www.bloomberg.com/media-manifest/streams/politics.m3u8

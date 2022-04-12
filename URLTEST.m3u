@@ -12,6 +12,42 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
+
+
+
+# https://acmi.tv/acmi-public-channel-live-stream/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/70TegCJ.png" group-title="",Arlington Public Channel
+https://s3-us-west-2.amazonaws.com/acmi.castus-vod/live/ch1/video.m3u8
+# http://acmi.tv/edulive/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TiH9IYM.png" group-title="",Arlington Education Channel
+https://s3-us-west-2.amazonaws.com/acmi.castus-vod/live/ch2/video.m3u8
+# http://acmi.tv/govlive/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xrgWjBx.png" group-title="",Arlington Government Channel
+https://s3-us-west-2.amazonaws.com/acmi.castus-vod/live/ch3/video.m3u8
+
+# https://www.publicmedianet.org/live-streams  attribute=none or attribute=cc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nvd5Y04.png" group-title="",PNM 1
+https://t07015-lh.akamaihd.net/i/t07015a_1@714693/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WhpLa2L.png" group-title="",PNM 2
+https://t07015-lh.akamaihd.net/i/t07015b_1@720810/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3u6QRdm.png" group-title="",PNM 3
+https://t07015-lh.akamaihd.net/i/t07015c_1@720811/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+#EXTINF:-1 tvg-logo="https://i.imgur.com/888X1kV.png" group-title="",PNM 4
+https://t07015-lh.akamaihd.net/i/t07015d_1@720812/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvCOG9F.png" group-title="",PNM 5
+https://t07015-lh.akamaihd.net/i/t07015e_1@720813/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+# https://www.dctv.org/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FsMaX7r.png" group-title="",DCTV Flagship Channel
+https://securestream3.champds.com/hlssstc/DCTVLIVE/DCTVLIVE.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pENDrYP.png" group-title="",DCTV Enrichment Channel
+https://securestream3.champds.com/hlssstc/DCTVLIVE2/DCTVLIVE2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FWH4JwS.png" group-title="",DCTV Focus
+https://securestream3.champds.com/hlssstc/DCTVLIVE3/DCTVLIVE3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UablmXM.png" group-title="",FightSport TV
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+
 EXTINF:-1 ,Medi 1 TV Afrique 1080p
 https://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8?DVR
 #EXTINF:-1 ,Medi 1 TV Maghreb 1080p

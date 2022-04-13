@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/Ca.png?raw=true",★★★★★★★★★★[COLOR red]Canada English[/COLOR]★★★★★★★★★★
 https://upload.wikimedia.org/wikipedia/commons/2/2c/%22O_Canada%22%2C_performed_by_the_United_States_Third_Marine_Aircraft_Wing_Band.oga
-#EXTINF:-1 ,update 22/01/15
+#EXTINF:-1 ,update 22/04/13
 0.0.0.0
 
 
@@ -484,6 +484,19 @@ plugin://plugin.video.youtube/play/?channel_id=UCr7gh2Z4NzcMlRdwqavYcgw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OgOjE0Y.jpg" group-title="",SaultOnline ONNtv (STK) (not 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCr7gh2Z4NzcMlRdwqavYcgw
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I5aMCtN.png" group-title="",Ottawa Art Gallery (YT) (c_id) (Not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UC9-smUCSJkjfDcral3_cRuA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I5aMCtN.png" group-title="",Ottawa Art Gallery (STK) (Not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9-smUCSJkjfDcral3_cRuA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OzKlGFV.jpg" group-title="Legislative",Ottawa City Council (YT) (c_id) (Not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCUR3i_hvk3-3i8vtrPg6v1Q&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OzKlGFV.jpg" group-title="Legislative",Ottawa City Council (STK) (Not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUR3i_hvk3-3i8vtrPg6v1Q/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OzKlGFV.jpg" group-title="Legislative",Ottawa City Council FR (YT) (c_id) (Not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCgL9ryUpMGB7pYTqtARNykA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OzKlGFV.jpg" group-title="Legislative",Ottawa City Council FR (STK) (Not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCgL9ryUpMGB7pYTqtARNykA/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/civVGxa.png" group-title="Religious",Quo Vadis TV
 https://qvmstream.tulix.tv/720p/720p/playlist.m3u8

@@ -291,9 +291,6 @@ plugin://plugin.video.youtube/play/?channel_id=UC_J7-3J3yJPhIBMbPlo4o0w&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6AnQt0i.jpg" group-title="",City of Vancouver (SLT) (not 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_J7-3J3yJPhIBMbPlo4o0w/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KxWKatc.png" group-title="",CityNews Toronto
-https://amdcitynews-i.akamaihd.net/hls/live/268144/CityNews-Daily/master.m3u8
-
 # https://calgary.citynews.ca/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1iUborY.jpg" group-title="",CityNews Calgary (Not 24/7- every night at 6 p.m. and 11 p.m. E.S.T)
 https://citynewsregional-i.akamaihd.net/hls/live/553716/CityNews-Calgary/master.m3u8
@@ -322,7 +319,6 @@ plugin://plugin.video.youtube/play/?channel_id=UCZ9Z3-VJcSMSqrWRORMlRjQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZE1Z7Wf.jpg" group-title="Legislative",Committee of Adjustment - City of Ottawa (STK) (not 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZ9Z3-VJcSMSqrWRORMlRjQ/live
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC | English
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC | Floor
@@ -337,6 +333,11 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680607/1242843915001_6/master.m3
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680608/1242843915001_7/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC Live Event Only
 https://bcsecurelivehls-i.akamaihd.net/hls/live/680609/1242843915001_8/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="",cpac (YT) (c_id) (Not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCFZSV_So_OaXgXVzgu58tJQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="",cpac (STK) (Not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCFZSV_So_OaXgXVzgu58tJQ/live
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="",CTV (TT)
 plugin://script.module.7of9-live/play/691/play.pvr
@@ -345,7 +346,6 @@ plugin://script.module.7of9-live/play/691/play.pvr
 plugin://plugin.video.streamlink-tester/?action=play&url=https://pe-ak-lp02a-9c9media.akamaized.net/live/Gusto/p/dash/00000001/5faeeb15356186d7/manifest.mpd
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/zdGGmuR.png" group-title="",CTV Toronto
-https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/CSMOHbe.png" group-title="",CTV VANCOUVER
 
@@ -378,8 +378,6 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 # https://www.genesis360radiotv.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QoUWyn.jpg" group-title="Music",Genesis 360 Radio (Concord) (720p)
 https://media.streambrothers.com:1936/8214/8214/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="GlobalNewsBritishColumbia.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/MFsRWIp.jpg" group-title="News",Global News British Columbia (720p)
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
@@ -640,6 +638,10 @@ https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
 #https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/index_2000_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mrvxWF1.jpg" group-title="",Toronto Transit Commission (YT) (c_id) (Not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCGO-x25PyOx0IDm9A1dC5Ag&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mrvxWF1.jpg" group-title="",Toronto Transit Commission (STK) (Not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCGO-x25PyOx0IDm9A1dC5Ag/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eW8mcD8.png" group-title="Sport",TSN 1 (TT)
 plugin://script.module.7of9-live/play/233/play.pvr

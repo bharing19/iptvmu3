@@ -287,16 +287,27 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_J7-3J3yJPhI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KxWKatc.png" group-title="",CityNews Toronto
 https://amdcitynews-i.akamaihd.net/hls/live/268144/CityNews-Daily/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KxWKatc.png" group-title="",CityNews Montreal
+# https://calgary.citynews.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1iUborY.jpg" group-title="",CityNews Calgary (Not 24/7- every night at 6 p.m. and 11 p.m. E.S.T)
+https://citynewsregional-i.akamaihd.net/hls/live/553716/CityNews-Calgary/master.m3u8
+# https://edmonton.citynews.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1iUborY.jpg" group-title="",CityNews Edmonton (Not 24/7- every night at 6 p.m. and 11 p.m. E.S.T)
+https://citynewsregional-i.akamaihd.net/hls/live/553714/CityNews-Edmonton/master.m3u8
+# https://montreal.citynews.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1iUborY.jpg" group-title="",CityNews Montreal (Not 24/7- every night at 6 p.m. and 11 p.m. E.S.T)
 https://citynewsregional-i.akamaihd.net/hls/live/553720/CityNews-Montreal/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KxWKatc.png" group-title="",CityNews Ottawa
-https://5e7c60955a878.streamlock.net/rtv_live/m31_card3/playlist.m3u8
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/pHqZak5.png" group-title="",CITY TV
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pHqZak5.png" group-title="",CityTV Toronto
-https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/playlist.m3u8
+# https://vancouver.citynews.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1iUborY.jpg" group-title="",CityNews Vancouver (Not 24/7- every night at 6 p.m. and 11 p.m. E.S.T)
+https://citynewsregional-i.akamaihd.net/hls/live/553717/CityNews-Vancouver/master.m3u8
+# https://winnipeg.citynews.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1iUborY.jpg" group-title="",CityNews Winipeg (Not 24/7- every night at 6 p.m. and 11 p.m. E.S.T)
+https://citynewsregional-i.akamaihd.net/hls/live/553715/CityNews-Winnipeg/master.m3u8
+# https://toronto.citynews.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1iUborY.jpg" group-title="",CityNews Ontario (Not 24/7)
+https://citynewsregional-i.akamaihd.net/hls/live/1024052/Regional_Live_7/master.m3u8
+# https://edmonton.citynews.ca/ https://calgary.citynews.ca/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1iUborY.jpg" group-title="",CityNews Alberta (Not 24/7)
+https://citynewsregional-i.akamaihd.net/hls/live/850531/Regional_Live_3/master.m3u8
 
 # https://www.youtube.com/channel/UCZ9Z3-VJcSMSqrWRORMlRjQ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZE1Z7Wf.jpg" group-title="Legislative",Committee of Adjustment - City of Ottawa (YT) (c_id) (not 24/7)
@@ -507,6 +518,88 @@ https://qvmstream.tulix.tv/720p/720p/chunklist_w518252905.m3u8
 plugin://plugin.video.youtube/play/?channel_id=UC_DweJsPH4mvcRU3aFwVtqg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aB439uT.png" group-title="Radio New Classical FM (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC_DweJsPH4mvcRU3aFwVtqg/live
+
+# https://www.rogerstv.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV ## New Brunswick Channel Could be Not 24/7 ##
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Bathurst ENG/FR
+https://5e7c60955a878.streamlock.net/rtv_live/m21_card1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OJRoSxD.jpg" group-title="",ROGERS TV Edmundston FR
+https://5e7c60955a878.streamlock.net/rtv_live/m28_card1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Miramichi
+https://5e7c60955a878.streamlock.net/rtv_live/m21_card3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OJRoSxD.jpg" group-title="",ROGERS TV Fredericton ENG/FR
+https://5e7c60955a878.streamlock.net/rtv_live/m21_card2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Moncton
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m28_card2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OJRoSxD.jpg" group-title="",ROGERS TV Moncton FR
+https://5e7c60955a878.streamlock.net/rtv_live/m21_card4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Saint John
+https://5e7c60955a878.streamlock.net/rtv_live/m28_card3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV ## Newfoundland Channel Could be Not 24/7 ##
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Corner Brook
+https://5e7c60955a878.streamlock.net/rtv_live/m37_card4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Gander
+https://5e7c60955a878.streamlock.net/rtv_live/m37_card1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Grand Falls - Windsor
+https://5e7c60955a878.streamlock.net/rtv_live/m37_card3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV St. John's
+https://5e7c60955a878.streamlock.net/rtv_live/m37_card2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV ## Ontario Channel Could be Not 24/7 ##
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Barrie
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m32_card3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Borden/Alliston
+https://5e7c60955a878.streamlock.net/rtv_live/m24_card2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Bramtford
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Collingwood
+https://5e7c60955a878.streamlock.net/rtv_live/m30_card1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Dufferin-Caledon
+https://5e7c60955a878.streamlock.net/rtv_live/m24_card4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Durham Region
+https://5e7c60955a878.streamlock.net/rtv_live/m25_card1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Durham Region
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m25_card3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Georgina
+https://5e7c60955a878.streamlock.net/rtv_live/m26_card4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Grey County
+https://5e7c60955a878.streamlock.net/rtv_live/m24_card1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Guelph
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Kincardine
+https://5e7c60955a878.streamlock.net/rtv_live/m19_card1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Kitchener
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV London
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m20_card1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV London (YT) (c_id) (Not24/7)
+plugin://plugin.video.youtube/play/?channel_id=UC22i7hNE51BtJRF7HnFN_Ag&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV London (STK) (Not24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC22i7hNE51BtJRF7HnFN_Ag/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Midland
+https://5e7c60955a878.streamlock.net/rtv_live/m30_card2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Orillia
+https://5e7c60955a878.streamlock.net/rtv_live/m30_card4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Ottawa
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m31_card3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OJRoSxD.jpg" group-title="",ROGERS TV Ottawa FR
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m31_card4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OJRoSxD.jpg" group-title="",ROGERS TV Ottawa FR (YT) (c_id) (Not24/7)
+plugin://plugin.video.youtube/play/?channel_id=UC566jxF6reNzUNuES5Hk-sg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OJRoSxD.jpg" group-title="",ROGERS TV Ottawa FR (STK) (Not24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC566jxF6reNzUNuES5Hk-sg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Strathroy - Caradoc
+https://5e7c60955a878.streamlock.net/rtv_live/m20_card3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV St.Thomas
+https://5e7c60955a878.streamlock.net/rtv_live/m20_card3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Waterloo Region
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV WoodStock
+https://5e7c60955a878.streamlock.net/rtv_live/m20_card2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yf5dZYW.jpg" group-title="",ROGERS TV Uxbridge/Scugog
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m25_card1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mpJICdg.png" group-title="Religious",Salt + Light Television
 https://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8

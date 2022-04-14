@@ -300,10 +300,10 @@ https://citynewsregional-i.akamaihd.net/hls/live/553720/CityNews-Montreal/master
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1iUborY.jpg" group-title="",CityNews Vancouver (Not 24/7- every night at 6 p.m. and 11 p.m. E.S.T)
 https://citynewsregional-i.akamaihd.net/hls/live/553717/CityNews-Vancouver/master.m3u8
 # https://winnipeg.citynews.ca/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1iUborY.jpg" group-title="",CityNews Winipeg (Not 24/7- every night at 6 p.m. and 11 p.m. E.S.T)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1iUborY.jpg" group-title="",CityNews Winnipeg (Not 24/7- every night at 6 p.m. and 11 p.m. E.S.T)
 https://citynewsregional-i.akamaihd.net/hls/live/553715/CityNews-Winnipeg/master.m3u8
 # https://toronto.citynews.ca/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1iUborY.jpg" group-title="",CityNews Ontario (Not 24/7)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1iUborY.jpg" group-title="",CityNews Ontario / Toronto
 https://citynewsregional-i.akamaihd.net/hls/live/1024052/Regional_Live_7/master.m3u8
 # https://edmonton.citynews.ca/ https://calgary.citynews.ca/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1iUborY.jpg" group-title="",CityNews Alberta (Not 24/7)
@@ -334,7 +334,10 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/680609/1242843915001_8/master.m3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="",CTV (TT)
 plugin://script.module.7of9-live/play/691/play.pvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zdGGmuR.png" group-title="",CTV Toronto
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XtoWuJJ.png" group-title="",CTV Life  (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://pe-ak-lp02a-9c9media.akamaized.net/live/Gusto/p/dash/00000001/5faeeb15356186d7/manifest.mpd
+
+EXTINF:-1 tvg-logo="https://i.imgur.com/zdGGmuR.png" group-title="",CTV Toronto
 https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/CSMOHbe.png" group-title="",CTV VANCOUVER
@@ -342,7 +345,7 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/CSMOHbe.png" group-title="",CTV VANCOUVE
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="News",CTV video only
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="News",CTV sound only
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="News",CTV (Kodi Leia Sound Only) (Kodi 19)
 https://pe-fa-lp01a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/manifest.m3u8
 
 # https://www.youtube.com/user/ccacurling/live

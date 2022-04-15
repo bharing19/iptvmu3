@@ -450,13 +450,13 @@ plugin://plugin.video.youtube/play/?channel_id=UC3eyhFvHAXJtwQmeXtU9XTg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MKFFD6Z.png" group-title="Legislative",Manitoba Government (STK)  (not 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC3eyhFvHAXJtwQmeXtU9XTg/live
 # https://www.gov.mb.ca/legislature/committees/committee_broadcasts.html
-EXTINF:-1 tvg-logo="https://i.imgur.com/MKFFD6Z.png" group-title="Legislative",Manitoba Government - Committee Broadcasts Room 254 (not 24/7)
-0.0.0.0
-EXTINF:-1 tvg-logo="https://i.imgur.com/MKFFD6Z.png" group-title="Legislative",Manitoba Government - Committee Broadcasts Room 255 (not 24/7)
-0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MKFFD6Z.png" group-title="Legislative",Manitoba Government - Committee Broadcasts Room 254 (not 24/7)
+https://lin10.isilive.ca/live/legassemblyofmb/committee/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MKFFD6Z.png" group-title="Legislative",Manitoba Government - Committee Broadcasts Room 255 (not 24/7)
+https://lin10.isilive.ca/live/legassemblyofmb/committee2/index.m3u8
 # https://www.gov.mb.ca/legislature/business/house_broadcasts.html
-EXTINF:-1 tvg-logo="https://i.imgur.com/MKFFD6Z.png" group-title="Legislative",Manitoba Government - House Broadcasts (not 24/7)
-0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MKFFD6Z.png" group-title="Legislative",Manitoba Government - House Broadcasts (not 24/7)
+https://lin11.isilive.ca/live/legassemblyofmb/chambers/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0jeKzdO.png" group-title="Religious",Miracle Channel
 https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8

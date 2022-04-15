@@ -48,7 +48,7 @@ https://securestream3.champds.com/hlssstc/DCTVLIVE3/DCTVLIVE3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UablmXM.png" group-title="",FightSport TV
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
-EXTINF:-1 ,Medi 1 TV Afrique 1080p
+#EXTINF:-1 ,Medi 1 TV Afrique 1080p
 https://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8?DVR
 #EXTINF:-1 ,Medi 1 TV Maghreb 1080p
 https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8?DVR
@@ -83,6 +83,11 @@ https://ntd02.akamaized.net/NTD-UK/index.m3u8
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
 #######
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UchnW7E.jpg" group-title="",Telugu Scenes (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCPOB-yzPKvCMOpx_4aGziIg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UchnW7E.jpg" group-title="",Telugu Scenes (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCPOB-yzPKvCMOpx_4aGziIg/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DCU1xhV.jpg" group-title="",Bee Movies Arabic (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCuaMJTqQ_W7qztqZ_zyErJg&live=1

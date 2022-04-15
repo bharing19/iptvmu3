@@ -361,13 +361,12 @@ plugin://plugin.video.youtube/play/?channel_id=UC3cR_DttIClGcE5StsIbyXA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/snUGe84.png" group-title="Sport",Curling Canada (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC3cR_DttIClGcE5StsIbyXA/live
 
-#https://www.cvtv.org/livefeed/21
-#EXTINF:-1 tvg-logo="https://www.cvtv.org/img/logo.png" group-title="",cvtv Channel 21
-https://wowzaprod4-i.akamaihd.net/hls/live/254198/8cb93f9b/2917038973_cvtv21_247/chunklist.m3u8
-
+#https://www.cvtv.org/livefeed/21 
+#EXTINF:-1 tvg-logo="https://www.cvtv.org/img/logo.png" group-title="Community",cvtv Channel 21
+https://api.v3.invintus.com/StreamURI/persis/2917038973/cvtv21.stream/media.m3u8
 #https://www.cvtv.org/livefeed/23
-#EXTINF:-1 tvg-logo="https://www.cvtv.org/img/logo.png" group-title="",cvtv Channel 23
-https://wowzaprod3-i.akamaihd.net/hls/live/252233/15b8d438/2917038973_cvtv22_247/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cvtv.org/img/logo.png" group-title="Community",cvtv Channel 23
+https://api.v3.invintus.com/StreamURI/persis/2917038973/cvtv23.stream/media.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="",EWTN Canada
 https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
@@ -668,10 +667,13 @@ plugin://script.module.7of9-live/play/412/play.pvr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wrmWJeA.png" group-title="Sport"TSN 5 (TT)
 plugin://script.module.7of9-live/play/413/play.pvr
 
+# https://toronto360.tv/watch-live/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PkWndsv.png" group-title="",Toronto 360 TV
 http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
 
+# https://tv16toronto.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/brxkNbw.png" group-title="",TV 16 Toronto
+http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8
 http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nUsxXOm.png" group-title="Kids",TVO Kids
@@ -687,11 +689,12 @@ plugin://plugin.video.youtube/play/?channel_id=UCHqm6pHW77RGi6nlMvK0yMQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Evn0CD1.jpg" group-title="Weather",WatchWx (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCHqm6pHW77RGi6nlMvK0yMQ/live
 
-# https://www.wcgtv.ca/
-EXTINF:-1 tvg-logo="https://i.imgur.com/q7UPbEG.png" group-title="Community",WCGTV Brandon
-https://wowzastream.westmancom.com/wcgtvlive/highstream.sdp/master.m3u8
+# https://www.wcgtv.ca/watch-live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q7UPbEG.png" group-title="Community",WCGtv Brandon Public
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
+EXTINF:-1 tvg-logo="https://i.imgur.com/q7UPbEG.png" group-title="Community",WCGTV Brandon
+https://wowzastream.westmancom.com/wcgtvlive/highstream.sdp/master.m3u8
+
 
 # https://www.youtube.com/channel/UCjKq-J6gMrDCPOdZdXOUuVA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j6fBtAL.jpg" group-title="",Western Standard - Monday to Friday at 11:30AM (YT) (c_id)

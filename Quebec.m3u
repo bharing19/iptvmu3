@@ -16,10 +16,15 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/ybwFuvq.png" group-title="",The Quebec C
 plugin://plugin.video.youtube/play/?video_id=WHhzK7k22q0
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IbmRPgK.jpg" group-title="",Montreal vibes (YT) (c_id)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IbmRPgK.jpg" group-title="",Montreal vibes (YT) (c_id) (Non 24/7)
 plugin://plugin.video.youtube/play/?channel_id=UCMDYCpjxZa0wCfctGEFOM6Q&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IbmRPgK.jpg" group-title="",Montreal vibes (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IbmRPgK.jpg" group-title="",Montreal vibes (STK) (Non 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMDYCpjxZa0wCfctGEFOM6Q/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mYYjNNM.jpg" group-title="",Montreal Caliente (YT) (c_id) (Non 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCaTl6qRlv3LpC8jDlrpM4sQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mYYjNNM.jpg" group-title="",Montreal Caliente (STK) (Non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCaTl6qRlv3LpC8jDlrpM4sQ/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiYlVJb.png",★★★★★★★★★★[COLOR mediumblue]Quebec TV[/COLOR]★★★★★★★★★★
 plugin://plugin.video.youtube/play/?video_id=5tIuEe-uKBE
@@ -219,9 +224,9 @@ http://94.130.180.175:8081/live/greektv/playlist.m3u8
 http://94.130.180.175:8081/live/greektv/chunks.m3u8
 
 # https://www.youtube.com/channel/UCupiuMa4oN_pQC2xT5HMfIg
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vu4aWqU.jpg" group-title="",MRTV-ca Montreal (YT) (c_id)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vu4aWqU.jpg" group-title="",MRTV-ca Montreal (YT) (c_id) (Non 24/7)
 plugin://plugin.video.youtube/play/?channel_id=UCupiuMa4oN_pQC2xT5HMfIg&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vu4aWqU.jpg" group-title="",MRTV-ca Montreal (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vu4aWqU.jpg" group-title="",MRTV-ca Montreal (STK) (Non 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCupiuMa4oN_pQC2xT5HMfIg/live
 
 # https://www.youtube.com/channel/UCCm3eAbiTKAowAPMpSdd1Xg
@@ -312,7 +317,7 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCdppqXtvbns2v
 #EXTINF:-1 tvg-id="Yoopa.ca" tvg-name="Yoopa CA" tvg-logo="https://i.imgur.com/mZmU170.png" group-title="Anime",Yoopa (TT1)
 plugin://plugin.video.tvone1112/play/2109/play.pvr
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YVmkt8p.png" group-title="Cuisine",Zeste (En Debrouillage)
+EXTINF:-1 tvg-logo="https://i.imgur.com/YVmkt8p.png" group-title="Cuisine",Zeste (En Debrouillage)
 https://ctszeste.akamaized.net/Content/HLS/Live/channel(bdfda20c-b73f-e8fc-8e12-e010830aa276)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ENEqQpm.png",★★★★★★★★★★[COLOR red]Twitch Quebec[/COLOR]★★★★★★★★★★
@@ -415,10 +420,6 @@ plugin://plugin.video.youtube/play/?video_id=M211lI1n48A
 # https://www.youtube.com/channel/UCWsHa6jitKzbw2f-3cTL6Dw
 EXTINF:-1 tvg-logo="https://i.imgur.com/uAZ58xj.jpg" group-title="",Action Coordination (YT)
 plugin://plugin.video.youtube/play/?video_id=5NFbprpOQ-M
-
-# https://www.youtube.com/channel/UCaTl6qRlv3LpC8jDlrpM4sQ
-EXTINF:-1 tvg-logo="https://i.imgur.com/mYYjNNM.jpg" group-title="",Montreal Caliente (YT)
-plugin://plugin.video.youtube/play/?video_id=CjAFHFYgDvc
 
 # https://www.youtube.com/channel/UCctt0Z9jZmroUDCjaq4YZ1Q
 EXTINF:-1 tvg-logo="https://i.imgur.com/t3oduj1.jpg" group-title="",Ovni Quebec Astronomie (YT)

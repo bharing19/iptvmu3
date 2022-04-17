@@ -84,6 +84,16 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
 #######
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l7R8hZE.jpg" group-title="",Studio Yuva Live (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCqR2tCs8ufgAjRd6rn4a2wg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l7R8hZE.jpg" group-title="",Studio Yuva Live (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NLmohv6.jpg" group-title="",CINEPLEX CINEMA (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC-PCkf3J-0zgwv7vZncgwig&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NLmohv6.jpg" group-title="",CINEPLEX CINEMA (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-PCkf3J-0zgwv7vZncgwig/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UchnW7E.jpg" group-title="",Telugu Scenes (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCPOB-yzPKvCMOpx_4aGziIg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UchnW7E.jpg" group-title="",Telugu Scenes (STK)
@@ -234,15 +244,30 @@ plugin://plugin.video.youtube/play/?channel_id=UCrNnk0wFBnCS1awGjq_ijGQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BPtVLSS.png" group-title="",PBS KIDS (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCrNnk0wFBnCS1awGjq_ijGQ/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Npjofkf.png" group-title="",Monster Jam (YT) (c_id)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Npjofkf.png" group-title="Sport",Monster Jam (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCngNXEVdMZge3OpnD8Ca0Lw&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Npjofkf.png" group-title="",Monster Jam (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Npjofkf.png" group-title="Sport",Monster Jam (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCngNXEVdMZge3OpnD8Ca0Lw/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u1q90hX.jpg" group-title="",Monster Energy Supercross (YT) (c_id)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u1q90hX.jpg" group-title="Sport",Monster Energy Supercross (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCkaNo2FUEWips2z4BkOHl6Q&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u1q90hX.jpg" group-title="",Monster Energy Supercross (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u1q90hX.jpg" group-title="Sport",Monster Energy Supercross (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCkaNo2FUEWips2z4BkOHl6Q/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wtDi5Md.jpg" group-title="Sport",GTWorld (YT) (c_id) (Not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UC-yHapH6mW1ceZ_5PDUf1_g&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wtDi5Md.jpg" group-title="Sport",GTWorld (STK) (Not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-yHapH6mW1ceZ_5PDUf1_g/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nnYtc0Q.jpg" group-title="Sport",The BRSCC (YT) (c_id) (Not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCu8lvaSxDVWB5sLu-ovw1Ig&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nnYtc0Q.jpg" group-title="Sport",The BRSCC (STK) (Not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCu8lvaSxDVWB5sLu-ovw1Ig/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bfL5tjN.jpg" group-title="Sport",Golf University (YT) (c_id) (Not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCw57RwBWooSqPqDCDTyZp_w&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bfL5tjN.jpg" group-title="Sport",Golf University (STK) (Not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCw57RwBWooSqPqDCDTyZp_w/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/feVBJCz.png" group-title="",OldTimeyComputerShow (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/oldtimeycomputershow

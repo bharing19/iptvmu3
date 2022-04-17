@@ -197,6 +197,11 @@ https://vse-na-us-ne66.secdn.net/camptv3800-live/play/dmp_stream/playlist.m3u8?k
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ihpYMdJ.png" group-title="",Canada One
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0PN4cYP.jpg" group-title="Sport",Canada Soccer (YT) (c_id) (Not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCPwOPM0PbkY0S1V_OqA-xjg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0PN4cYP.jpg" group-title="Sport",Canada Soccer (STK) (Not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCPwOPM0PbkY0S1V_OqA-xjg/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jnpZuMy.png" group-title="",Canada Star TV
 http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
 
@@ -338,7 +343,6 @@ plugin://plugin.video.youtube/play/?channel_id=UCFZSV_So_OaXgXVzgu58tJQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",cpac (STK) (Not 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCFZSV_So_OaXgXVzgu58tJQ/live
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="",CTV (TT)
 plugin://script.module.7of9-live/play/691/play.pvr
 
@@ -348,7 +352,6 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https://pe-ak-lp02a-9c9
 EXTINF:-1 tvg-logo="https://i.imgur.com/zdGGmuR.png" group-title="",CTV Toronto
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/CSMOHbe.png" group-title="",CTV VANCOUVER
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wDKA9TT.png" group-title="News",CTV video only
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
@@ -373,6 +376,11 @@ https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
 
 #EXTINF:-1 tvg-id="FightNetwork.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bf32e5d221b1e5a7e55" group-title="Sports",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pQERipe.png" group-title="Sport",FTF Canada (YT) (c_id) (Not 24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCtRYyMsfy7A8QnQKAJz7P9A&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pQERipe.png" group-title="Sport",FTF Canada (STK) (Not 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCtRYyMsfy7A8QnQKAJz7P9A/live
 
 # https://www.genesis360radiotv.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4QoUWyn.jpg" group-title="Music",Genesis 360 Radio (Concord) (720p)

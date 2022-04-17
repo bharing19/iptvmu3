@@ -234,6 +234,11 @@ plugin://plugin.video.youtube/play/?channel_id=UClfc1_I5AVnnRAvIRpwLXBQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kd8Orat.jpg" group-title="",PBS Blue Ridge (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UClfc1_I5AVnnRAvIRpwLXBQ/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qDn6Xr7.jpg" group-title="",PBS Blue Ridge Echo TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCPq-p0HbZfG4ADIlvqGJIZA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qDn6Xr7.jpg" group-title="",PBS Blue Ridge Echo TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCPq-p0HbZfG4ADIlvqGJIZA/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVoECeB.png" group-title="",PBS Guam (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCaVp5oNNuIZVU7qqhSX0LGQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVoECeB.png" group-title="",PBS Guam (STK)
@@ -268,6 +273,11 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCu8lvaSxDVWB5
 plugin://plugin.video.youtube/play/?channel_id=UCw57RwBWooSqPqDCDTyZp_w&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bfL5tjN.jpg" group-title="Sport",Golf University (STK) (Not 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCw57RwBWooSqPqDCDTyZp_w/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NyBML0q.jpg" group-title="Sport",KC Sports Network (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCT8fyEpKAlq0BCV4WCst4EQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NyBML0q.jpg" group-title="Sport",KC Sports Network (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCT8fyEpKAlq0BCV4WCst4EQ/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/feVBJCz.png" group-title="",OldTimeyComputerShow (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/oldtimeycomputershow

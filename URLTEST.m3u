@@ -71,6 +71,18 @@ https://sbs-live.akamaized.net/hls/live/2005470/channel5/geo/master_2500K.m3u8|X
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q1xEMN4.png" group-title="",WSFL TV
 https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ppPS9TO.png" group-title="Music",Retro Music TV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/11Rp3Ye.png" group-title="Music",Retro Plus TV
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbVl1y7.jpg" group-title="",Retro TV
+https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5m7OZ8W.jpg" group-title="",Rev'n
+https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/6183977686001/playlist.m3u8
+
 # https://www.ntd.com/live.html
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uEuCdZO.jpg" group-title="gen;News",NTD East (US)
 https://ntd02.akamaized.net/NTDA/index.m3u8
@@ -163,6 +175,11 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC6NLcId3-pHAg
 plugin://plugin.video.youtube/play/?channel_id=UC6NVDkuzY2exMOVFw4i9oHw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EjESeDM.jpg" group-title="",América TV (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC6NVDkuzY2exMOVFw4i9oHw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bMV5XKu.jpg" group-title="",América Sports (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCnx743KuO_16sCMIbEg7Y7Q&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bMV5XKu.jpg" group-title="",América Sports (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pJuQvbs.jpg" group-title="",Televisa Guadalajara (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCRujF_YxVVFmTRWURQH-Cww&live=1
@@ -279,10 +296,59 @@ plugin://plugin.video.youtube/play/?channel_id=UCT8fyEpKAlq0BCV4WCst4EQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NyBML0q.jpg" group-title="Sport",KC Sports Network (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCT8fyEpKAlq0BCV4WCst4EQ/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7WHsLlN.jpg" group-title="",Daily Dose Documentary (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCuYZAnKoZYXAKKpsi_-90Tg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7WHsLlN.jpg" group-title="",Daily Dose Documentary (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCuYZAnKoZYXAKKpsi_-90Tg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fkQ30Ex.jpg" group-title="",DOC Планета (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=IUC570zlUD71m5zrqbbfp11mA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fkQ30Ex.jpg" group-title="",DOC Планета (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC570zlUD71m5zrqbbfp11mA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ajTkqut.jpg" group-title="",TMTV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCmKkZ6C1NRFC3qrciDfs-Nw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ajTkqut.jpg" group-title="",TMTV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCmKkZ6C1NRFC3qrciDfs-Nw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMqFxAt.jpg" group-title="",24 Hour Fitness (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCokTHyQ5VQM1F4lWkiM_0rQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMqFxAt.jpg" group-title="",24 Hour Fitness (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCokTHyQ5VQM1F4lWkiM_0rQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jaeBBHp.jpg" group-title="",Avenue Plus - Retro Cartoons 24/7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCguNzeDjKCFDf4Z2VkBJ32g&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jaeBBHp.jpg" group-title="",Avenue Plus - Retro Cartoons 24/7 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCguNzeDjKCFDf4Z2VkBJ32g/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xqNIIuv.jpg" group-title="",KingFrostmare (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC2Ug_at-Omqpt6HerLJOWyQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xqNIIuv.jpg" group-title="",KingFrostmare (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC2Ug_at-Omqpt6HerLJOWyQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uKGhVhf.jpg" group-title="",Car One TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC2a1x5-U84V1vvT9WRNfG1w&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uKGhVhf.jpg" group-title="",Car One TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC2a1x5-U84V1vvT9WRNfG1w/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cyea3mh.jpg" group-title="",Kozoom TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCOwcct1FjXWzlvmQxaR4Y8Q&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cyea3mh.jpg" group-title="",Kozoom TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCOwcct1FjXWzlvmQxaR4Y8Q/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iqm9pHy.jpg" group-title="",Totally Handy (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC0oK8s58FCWQUePi32hWhdw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iqm9pHy.jpg" group-title="",Totally Handy (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0oK8s58FCWQUePi32hWhdw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1vUsl9r.jpg" group-title="",DEEN TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCTK1vQoMkZGq5msgX6ofCUg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1vUsl9r.jpg" group-title="",DEEN TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCTK1vQoMkZGq5msgX6ofCUg/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/feVBJCz.png" group-title="",OldTimeyComputerShow (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/oldtimeycomputershow
 
-# https://www.youtube.com/channel/UC6VJE6cD8ZPpe6ZOtVtlBTA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zrBmb4h.jpg" group-title="",Amazing Facts TV (AFTV) (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UC6VJE6cD8ZPpe6ZOtVtlBTA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zrBmb4h.jpg" group-title="",Amazing Facts TV (AFTV) (STK)

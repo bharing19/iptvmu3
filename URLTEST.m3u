@@ -110,8 +110,10 @@ https://ntd02.akamaized.net/NTD-West/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uEuCdZO.jpg" group-title="gen;News",NTD UK
 https://ntd02.akamaized.net/NTD-UK/index.m3u8
 
-#EXTINF:-1 ,AMERICAN HORRORS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OVUWX0J.png" group-title="Movies",American Horrors
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OVUWX0J.png" group-title="Movies",American Horrors
+https://5f12bfd029e37.streamlock.net/live/Stream1/playlist.m3u8
 
 #######
 

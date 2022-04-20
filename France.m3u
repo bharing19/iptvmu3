@@ -1423,6 +1423,12 @@ EXTINF:-1 tvg-id="Teva.fr" tvg-name="Téva FR" tvg-logo="https://i.imgur.com/PVW
 #EXTINF:-1 tvg-logo="https://www.top80radio.com/wp-content/uploads/2020/04/Top-80-radio-200x200-1.png" group-title="Radio",Top80Radio (TWITCH) (C_N)
 plugin://plugin.video.twitch/?mode=play&channel_name=top80radio
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pRajVwP.png" group-title="",Top Santé TV (DM)
+plugin://plugin.video.dailymotion_com/?url=x89yjnn&mode=playLiveVideo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pRajVwP.png" group-title="",Top Santé TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.dailymotion.com/video/x89yjnn
+
+
 EXTINF:-1 tvg-logo="https://i.imgur.com/30tUMWq.png" group-title="",Toute l'Histoire
 
 #

@@ -410,6 +410,9 @@ plugin://plugin.video.youtube/play/?channel_id=UCx27Pkk8plpiosF14qXq-VA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zz8DEfc.jpg" group-title="Kids",SpongeBob SquarePants Official (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCx27Pkk8plpiosF14qXq-VA/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5HhnjTx.png" group-title="Kids",Sunday Morning Cartoon (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/sundaymorningcartoon
+
 #EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/36/GBBA3300032S9_20201208T050212.png" group-title="Kids",SuperToons TV
 https://ba60d73b54dd41b68ae2a0601454ed52.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_SuperToonsTV/playlist.m3u8
 

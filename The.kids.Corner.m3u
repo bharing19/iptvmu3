@@ -260,6 +260,11 @@ plugin://plugin.video.youtube/play/?channel_id=UCH2cMLriCDcvb9Uq_2kf17A&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oHt1eP2.jpg" group-title="Kids",Loco Nuts - Cartoon (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCH2cMLriCDcvb9Uq_2kf17A/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QMPf82D.jpg" group-title="Kids",Magic Cartoon Animals! - Morphle TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UClMk-uURdArGhz1lCfSRn6Q&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QMPf82D.jpg" group-title="Kids",Magic Cartoon Animals! - Morphle TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UClMk-uURdArGhz1lCfSRn6Q/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KQsAdB4.png" group-title="Kids",Master Builder (720p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
 
@@ -327,6 +332,11 @@ https://livestream.pbskids.org/out/v1/c707b9310f2848de849b336f9914adbc/pst.m3u8
 plugin://plugin.video.youtube/play/?channel_id=UCKtfozhWfwvXUTnR7PV3t5g&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IXBIGPA.jpg" group-title="Kids",Peacock jr (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCKtfozhWfwvXUTnR7PV3t5g/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJXj7o4.jpg" group-title="Kids",Pencilmation (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCUAL--p3qAa27luR0IYbjZA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJXj7o4.jpg" group-title="Kids",Pencilmation (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUAL--p3qAa27luR0IYbjZA/live
 
 # https://www.youtube.com/channel/UCngkVoq8aayyK6qX9JJitRg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mG74D1O.jpg" group-title="Kids",Peter Rabbit (YT) (c_id)

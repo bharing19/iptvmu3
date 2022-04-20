@@ -382,15 +382,66 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC4mNKqTuEvp9t
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/X9Ky9UF0iE_PsotFNgOYs73ZpUlwhAlZo2PcT5BoAZnYU8Pff3F6EXI4T9Ci-Zg1qSp7DRtiiQ=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj" group-title="News",BNN - Booming News Network (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCNubbuubv4j6blLVc4zjv_w/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/feVBJCz.png" group-title="",OldTimeyComputerShow (STK)
-plugin://plugin.video.sendtokodi/?https://www.twitch.tv/oldtimeycomputershow
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zrBmb4h.jpg" group-title="",Amazing Facts TV (AFTV) (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UC6VJE6cD8ZPpe6ZOtVtlBTA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zrBmb4h.jpg" group-title="",Amazing Facts TV (AFTV) (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC6VJE6cD8ZPpe6ZOtVtlBTA/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/feVBJCz.png" group-title="",OldTimeyComputerShow (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/oldtimeycomputershow
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mF3wxoh.png" group-title="",Stargate (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.twitch.tv/stargatesg1247
+
+#EXTINF:-1 tvg-logo="nologo.png" group-title="",newmovieguy (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/newmovieguy
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x4WFAax.jpg" group-title="",RetroTV247 (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/retrotv247
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7VCZbin.png" group-title="",TokuSHOUTsu (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/tokushoutsu
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VFpB82j.jpg" group-title="",ShoutFactoryTV (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/shoutfactorytv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uq97SQA.png" group-title="",vcrtube (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/vcrtube
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pcty7bv.png" group-title="",vcr_show1 (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/vcr_show1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fkVusOP.png" group-title="",TopGearTV (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/topgeartv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZsedpzE.png" group-title="",OSI74TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/osi74tv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGHCuJY.png" group-title="",BigDavey (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/bigdavey
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wBuFXzy.png" group-title="",vcr_spooks (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/vcr_spooks
+
+#EXTINF:-1 tvg-logo="nologo.png" group-title="",cooesmk69 (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/cooesmk69
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uwgihiv.png" group-title="",Anthony_Packman (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/anthony_packman
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EJNvMXS.png" group-title="",Hogan's Heroes (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/hogansheroes247
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P7mtAdv.png" group-title="",JustCommercials - 1980s commercials (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/justcommercials
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v3o6IGa.png" group-title="",GoldenVarietyNetwork (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/goldenvarietynetwork
+
 #######
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WHLlcoF.png" group-title="",vcr_survival (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/vcr_survival
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9c98C9u.jpg" group-title="",Primitive Survival Skills (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUetuR_z_X9HopDHAAoRlVQ/live

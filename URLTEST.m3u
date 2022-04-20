@@ -438,6 +438,42 @@ plugin://plugin.video.sendtokodi/?https://www.twitch.tv/justcommercials
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v3o6IGa.png" group-title="",GoldenVarietyNetwork (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/goldenvarietynetwork
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OPMRTik.png" group-title="",bestb4tv (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/bestb4tv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g1B4k9O.png" group-title="",vintage radio tv (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/vintageradiotv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xFC7xKL.png" group-title="",Radio Tv Oltrelimite (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/radiotvoltrelimite
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BjZKrOS.png" group-title="",Radio Televisione di Ginosa (TA) (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/rg_studio_tv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DqGKN1F.png" group-title="",HurturkTv (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/hurturktv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e3TUkR0.png" group-title="",Radio Musica TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/radiomusicatv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmV9Xcv.png" group-title="",MJRadio (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/mjradio
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xugXfv6.png" group-title="",TV ORO (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/tvorodigital
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CF8Es5s.png" group-title="",Radio Centro Musica Television (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/radiocentromusicatv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/olEidLl.png" group-title="",AgrigentoTV (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/agrigentotv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fZJJCq5.png" group-title="",Tropoja7v (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/tropoja7v
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h78hAGo.jpg" group-title="",RADIO STUDIO 95 TV LIVE (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/studio95melitotv
+
 #######
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WHLlcoF.png" group-title="",vcr_survival (STK)

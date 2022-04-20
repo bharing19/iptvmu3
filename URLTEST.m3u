@@ -390,8 +390,8 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC6VJE6cD8ZPpe
 #EXTINF:-1 tvg-logo="https://i.imgur.com/feVBJCz.png" group-title="",OldTimeyComputerShow (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/oldtimeycomputershow
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mF3wxoh.png" group-title="",Stargate (SLT)
-plugin://plugin.video.streamlink-tester/?action=play&url=https://www.twitch.tv/stargatesg1247
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mF3wxoh.png" group-title="",Stargate (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/stargatesg1247
 
 #EXTINF:-1 tvg-logo="nologo.png" group-title="",newmovieguy (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/newmovieguy

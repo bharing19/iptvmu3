@@ -129,6 +129,9 @@ https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qw8x6Os.png" group-title="Kids",Duck TV (EU)
 https://mmm-ducktv-4-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rPoTP05.png" group-title="",Family Guy (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://www.twitch.tv/wilwinds
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uRess78.png" group-title="Kids",FGTV (720p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
 

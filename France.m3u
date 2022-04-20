@@ -407,6 +407,12 @@ plugin://plugin.video.youtube/play/?channel_id=UCgMuh0GiItMVbIA8Qb4WAUA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LbI8SKM.jpg" group-title="Anime",Barbie Français (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCgMuh0GiItMVbIA8Qb4WAUA/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/shjLDv7.png" group-title="",BBC Drama
+https://bbceu-bbcdrama-1-fr.samsung.wurl.tv/playlist.m3u8
+	
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4V0lCba.png" group-title="",BBC Doctor Who
+https://bbceu-doctorwho-3-fr.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qCPLF6w.png" group-title="Musique",BBlack-africa
 https://edge8.vedge.infomaniak.com/livecast/bblackafrica/chunklist_w2121971628.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JaFW5sK.png" group-title="Musique",Bblack! Africa (OPT-2)
@@ -711,6 +717,9 @@ https://strhlslb01.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist
 #EXTINF:-1 tvg-id="evandisgospel.fr" tvg-name="Evandis Gospel Tv FR" tvg-logo="https://i.imgur.com/RFVOFZs.png" group-title="Religion",Evandis Gospel Tv
 https://strhlslb01.streamakaci.tv/str_evandis_evandis/str_evandis_multi/str_evandis_evandis/str_evandis_evandis_1080p/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qhnvPYY.jpg" group-title="",Explore by TVPlayer
+https://alchimie-explorebytvplayer-fr-rakuten.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K7ssUfW.jpg" group-title="",f1dqm - CHAINE RADIOAMATEUR (TWITCH)
 plugin://plugin.video.twitch/?channel_id=245747090&amp;mode=play
 
@@ -922,6 +931,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCl0KdGiwyqLJC
 EXTINF:-1 tvg-logo="https://i.imgur.com/BvNmSKM.jpg" group-title="France",Humanity 
 https://alchimie-humanity-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Ndv5nT.png" group-title="",Humanity Documentaries
+https://alchimie-humanity-documentaries-fr-rakuten.amagi.tv/playlist.m3u8
+
 #
 #EXTINF:-1 tvg-id="I24News.fr" tvg-name="I24 News FR" tvg-logo="https://i.imgur.com/InjdDXl.png" group-title="actualités",i24 News
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
@@ -1032,7 +1044,7 @@ plugin://plugin.video.dailymotion_com/?url=x7x3gqy&mode=playLiveVideo
 EXTINF:-1 tvg-logo="https://i.imgur.com/vxJd9Za.png" group-title="",LuckyJack.tv (OFFLINE)
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/9CHTk9q.png" group-title="France",Luxe TV
-https://alchimie-luxe-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
 
 # https://www.dailymotion.com/LyonCapTV https://www.lyoncapitale.fr/lyon-capitale-tv-en-direct/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aSCUjj5.jpg" group-title="",Lyon Capitale TV (DM)
@@ -1255,6 +1267,9 @@ https://rakuten-spotlight-7-fr.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MRNrwJf.jpg" group-title="thématique",Rakuten TV Shows (720p)
 https://rakuten-tvshows-7-fr.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fDWCYjP.png" group-title="",Rakuten Viki
+https://newidco-rakutenviki-1-fr.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LmYNqd9.jpg" group-title="Radio",Radio Melodie Story (TWITCH)
 plugin://plugin.video.twitch/?channel_id=569416637&amp;mode=play
@@ -1654,6 +1669,8 @@ https://www.dailymotion.com/video/xuyx0h#tab_embed.m3u8
 https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
 #EXTINF:-1 tvg-id="ViaVosges.fr" tvg-name="ViaVosges FR" tvg-logo="https://i.imgur.com/803evgT.png" group-title="régionale",ViaVosges (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://viavosges.live-kd.com/live/vosgestv/livestream/manifest.mpd
+
+
 
 # https://vl-media.fr/tv/
 #EXTINF:-1 tvg-id="vl-media.fr" tvg-name="vl-media FR" tvg-logo="https://i.imgur.com/FIobeJB.png" group-title="Radio",vl-media (DM)

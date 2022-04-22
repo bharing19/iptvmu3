@@ -32,7 +32,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=81
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=82
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/0bC8fBEibtEpVyhwgiyVQNZEucI6U610nWCADPjU.png" group-title="GalxyTV",Indistry 
-https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=82
+https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=2535
 
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/5MehnrNHgpbp4cMOXiiiwCoVlZbNGf6eExGiUinJ.png" group-title="GalxyTV",Qello Concerts
 https://stream-us-east-1.getpublica.com/playlist.m3u8?live=1&network_id=1936

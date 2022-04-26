@@ -13,6 +13,52 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
 
+
+# https://watch.talk.tv/
+#EXTINF:-1 tvg-logo="https://watch.talk.tv/images/TalkTV-Logo.png" group-title="",Talk TV UK
+https://newsuk-talkradiotv-brightcove.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://watch.talk.tv/images/TalkTV-Logo.png" group-title="",Talk TV UK
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00738-newsuk-talkradiotv-ono/playlist.m3u8
+# https://beta.talk.tv/popout-player?selectedStation=talkradio
+#EXTINF:-1 tvg-logo="https://watch.talk.tv/images/TalkTV-Logo.png" group-title="",Talk TV UK (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCm0yTweyAa0PwEIp0l3N_gA&live=1
+#EXTINF:-1 tvg-logo="https://watch.talk.tv/images/TalkTV-Logo.png" group-title="",Talk TV UK (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCm0yTweyAa0PwEIp0l3N_gA/live
+#EXTINF:-1 tvg-logo="https://beta.talk.tv/talktv/assets/talkradio-thumbnail.png" group-title="",Talk Radio  UK
+https://radio.talkradio.co.uk/stream
+
+
+#EXTINF:-1 ,CMC
+https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,EuropaPress
+https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,RTVE La 1
+https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+#EXTINF:-1 ,Humanity Documentaries UK
+https://alchimie-humanitydocumentariesuk-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Explore UK
+https://alchimie-explorebytvplayeruk-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,EuroNews UK
+https://alchimie-euronewsuk-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Movies Central UK
+https://alchimie-moviescentraltvplayeruk-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Luxe UK
+https://alchimie-luxeuk-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Law
+https://p-alchimie-services-live-rp-01.akamaized.net/rp_1/law_and_crime_rp/playlist_scte.m3u8
+#EXTINF:-1 ,Venn TV
+https://venntv-ono.amagi.tv/playlist.m3u8
+
+# https://planetatv.online/ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9noTD3O.jpg" group-title="",Music
+https://hd.chileservidores.cl:1936/canalcosta/canalcosta/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/58a5zeF.jpg" group-title="",Kids
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UwzEfT4.jpg" group-title="",Movies
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NtmBXuB.jpg" group-title="",Radio Touch TV
+https://mediacpstreamchile.com:1936/8118/8118/playlist.m3u8
+
 # https://www.jaybirdtv.com/
 #EXTINF:-1 tvg-id="WFMZDT1.us" tvg-logo="https://cdn.jaybirdtv.com/images/default_news_background_320x160.jpg" group-title="Local",WFMZ-DT1 69News
 https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
@@ -473,6 +519,111 @@ plugin://plugin.video.sendtokodi/?https://www.twitch.tv/tropoja7v
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h78hAGo.jpg" group-title="",RADIO STUDIO 95 TV LIVE (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/studio95melitotv
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GsEk47e.jpg" group-title="",etb basque (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCOHCRQDAr9HC5d59XvziJFQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GsEk47e.jpg" group-title="",etb basque (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCOHCRQDAr9HC5d59XvziJFQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tZ4Whtc.jpg" group-title="",etb basque
+https://live-dvr.eitb-fastly.cross-media.es/live-content/eitbbasque-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://images14.eitb.eus/multimedia/recursos/img/logo_eitbeus_cabecera3.png" group-title="",etb 1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF:-1 tvg-logo="https://images14.eitb.eus/multimedia/recursos/img/logo_eitbeus_cabecera3.png" group-title="",etb 2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4W9dEeR.jpg" group-title="",IB3 TELEVISIO (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCff_CBVJDTHP4wOHPjP5BMg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4W9dEeR.jpg" group-title="",IB3 TELEVISIO (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCff_CBVJDTHP4wOHPjP5BMg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TZUc4ul.jpg" group-title="",Television de Galicia (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCz46p3cffUXUSGUtcnw_Ouw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TZUc4ul.jpg" group-title="",Television de Galicia (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCz46p3cffUXUSGUtcnw_Ouw/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TZUc4ul.jpg" group-title="",Television de Galicia Europa (CRTVG)
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TZUc4ul.jpg" group-title="",Television de Galicia America (CRTVG)
+http://america-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZj7Xh8.png" group-title="",Dobrogea TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCc5vhBLfkX4MSOEwjismqHw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZj7Xh8.png" group-title="",Dobrogea TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCc5vhBLfkX4MSOEwjismqHw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qNDWMHq.jpg" group-title="",telefe Salta (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCy-r-BQ5BQRU6rzGS73-WBQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qNDWMHq.jpg" group-title="",telefe Salta (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCy-r-BQ5BQRU6rzGS73-WBQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72CSHs1.jpg" group-title="",FOX Canlı Yayın (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJe13zu6MyE6Oueac41KAqg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72CSHs1.jpg" group-title="",FOX Canlı Yayın (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCJe13zu6MyE6Oueac41KAqg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5kE6mIr.jpg" group-title="",Televisa Guadalajara (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRujF_YxVVFmTRWURQH-Cww&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5kE6mIr.jpg" group-title="",Televisa Guadalajara (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCRujF_YxVVFmTRWURQH-Cww/live
+
+#EXTINF:-1 tvg-logo="https://www.nmas.com.mx/screen_n+.png" group-title="",N+ Noticias
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nmas.com.mx/screen_n+.png" group-title="",N+ Foro
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_6.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nmas.com.mx/screen_n+.png" group-title="",N+ Noticiero Televisa
+https://channel07-notusa.akamaized.net/hls/live/2036971-b/event01/index_6.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AwHAe5p.jpg" group-title="",Televisa Tijuana (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCjwXjnO3BGePtB7gSKEpoqA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AwHAe5p.jpg" group-title="",Televisa Tijuana (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCjwXjnO3BGePtB7gSKEpoqA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C6DvuDI.jpg" group-title="",Cronica TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCT7KFGv6s2a-rh2Jq8ZdM1g&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C6DvuDI.jpg" group-title="",Cronica TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2XqUrC7.jpg" group-title="",Excélsior TV (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UClqo4ZAAZ01HQdCTlovCgkA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2XqUrC7.jpg" group-title="",Excélsior TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UClqo4ZAAZ01HQdCTlovCgkA/live
+
+#EXTINF:-1 tvg-logo="https://www.globovision.com/static/img/gv-logo.png" group-title="",Globovision (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCfJtBtmhnIyfUB6RqXeImMw&live=1
+#EXTINF:-1 tvg-logo="https://www.globovision.com/static/img/gv-logo.png" group-title="",Globovision (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCfJtBtmhnIyfUB6RqXeImMw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RYYL3pq.jpg" group-title="",Televisio Sant Cugat (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCoFs7RGrmWQkqU5KNNGvCjA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RYYL3pq.jpg" group-title="",Televisio Sant Cugat (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCoFs7RGrmWQkqU5KNNGvCjA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Xez6pN.png" group-title="",Canal Sur (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCqwjtgaJflHga2aPWphG5PQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Xez6pN.png" group-title="",Canal Sur (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqwjtgaJflHga2aPWphG5PQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wv6FqsD.jpg" group-title="",Televisa Del Bajio (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC-uYy4_jIvDoJ4wigEv1S5A&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wv6FqsD.jpg" group-title="",Televisa Del Bajio (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-uYy4_jIvDoJ4wigEv1S5A/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cLkvcLB.jpg" group-title="",Televisa Mexicali (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCcmuFsMIIIHO3LBqeBVfm8Q&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cLkvcLB.jpg" group-title="",Televisa Mexicali (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCcmuFsMIIIHO3LBqeBVfm8Q/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OCtaFNZ.jpg" group-title="",Televisa Guerrero (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCnxTRk2K1iNsQkgpWXxyj4w&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OCtaFNZ.jpg" group-title="",Televisa Guerrero (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCnxTRk2K1iNsQkgpWXxyj4w/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/um8LRUi.jpg" group-title="",Telewizja wPolsce (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCPiu4CZlknkTworskK79CPg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/um8LRUi.jpg" group-title="",Telewizja wPolsce (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCPiu4CZlknkTworskK79CPg/live
 
 #######
 

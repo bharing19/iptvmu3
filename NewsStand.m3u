@@ -811,6 +811,11 @@ http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rdgyfiD.png" group-title="News",NationTV 22 (STK) - Thailand
 plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x6eoldf
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/om2rwrb.jpg" group-title="",Negocios TV (STK) - Spain
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwd8Byi93KbnsYmCcKLExvQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/om2rwrb.jpg" group-title="",Negocios TV - Spain
+https://live.gooru.live/negocios/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bvltjuh.jpg" group-title="News",News 1 - Thailand
 https://server1.streamssl.com/stream/news1.m3u8
 
@@ -879,6 +884,8 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCyQpfuhftLvrm
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YIqHKFj.jpg" group-title="News",Palitra News - Georgia
 https://livestream.palitra.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vlUGW6L.jpg" group-title="News",Palitra News - Georgia (SLT) (Giniko)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://www.giniko.com/watch.php?id=320
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3vAu3Uo.png" group-title="News",Pro TV - Romania
 https://cmero-ott-live-web-avod-sec.ssl.cdn.cra.cz/fWCZmLtPnkchrDUleISFOQ==,1646116846/channels/cme-ro-voyo-news/playlist-live_lq.m3u8|Referer=https://media.cms.protvplus.ro/
@@ -1038,7 +1045,7 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCIvaYmXn910QM
 
 ##########
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o8We8lU.jpg" group-title="",★★★★★★★★★★Business News - Stock Market - Crypto★★★★★★★★★★
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o8We8lU.jpg" group-title="",★★★★★★★★★★World Business News - Stock Market - Crypto★★★★★★★★★★
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/watch?v=_daTfgc4u3k
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CKCtZo7.png" group-title="Business",30A Investment Pitch
@@ -1058,6 +1065,9 @@ https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mLqaIT4.png" group-title="Business",Biz TV
 https://thegateway.app/BizAndYou/LimeLightBizTV/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7XOvtqd.png" group-title="Business",Black Business
+https://2-fss-2.streamhoster.com/pl_120/200434-107550-1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nI03f6R.png" group-title="Business",Bloomberg Asia
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nI03f6R.png" group-title="Business",Bloomberg Asia Event
@@ -1065,6 +1075,10 @@ https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/90vvgua.jpg" group-title="Business",Bloomberg Australia
 https://www.bloomberg.com/media-manifest/streams/aus.m3u8
+
+# https://www.bloombergtv.bg/video
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y023HNH.png" group-title="Business",bloomberg BG
+https://e106-ts.cdn.bg/bloomberg/fls/bloomberg.stream/playlist.m3u8?at=861adfd11949ec2bb03093dfd63dc5c2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bwq7nBe.jpg" group-title="Business",Bloomberg Europe
 https://www.bloomberg.com/media-manifest/streams/eu.m3u8
@@ -1083,6 +1097,11 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCU1Pp4a-TwbrB
 https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RnRKh7h.jpg" group-title="Business",Bloomberg QuickTake Now (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UChirEOpgFCupRAk5etXqPaA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T635QAi.jpg" group-title="Business",bloomberg quint news (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/c/BloombergQuintNews
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T635QAi.jpg" group-title="Business",bloomberg quint news (STK) (OPT-2)
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/x890v1q
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o1ddbaY.png" group-title="Business",Bloomberg TV+
 https://f507e97fa86541f2b8af93557ee82930.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_Bloomberg/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
@@ -1139,6 +1158,14 @@ https://linear-68.frequency.stream/dist/localnow/68/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rl4nROp.png" group-title="Business",DeFinance
 https://decentric-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5f7656f4095fd738e74dbc53_defiance-live/b67fe0d4-a8eb-45c9-b750-c58119ae477e/0.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JgXE03l.png" group-title="Business",Di TV - Sweeden
+https://httpcache0-03837-cachelive2.dna.ip-only.net/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" group-title="Business",EBC Financial News (YT) (c_id) - Taiwan 1
+plugin://plugin.video.youtube/play/?channel_id=UCuzqko_GKcj9922M1gUo__w&live=1
+#EXTINF:-1 tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" group-title="Business",EBC Financial News (YT) (c_id) - Taiwan 2
+plugin://plugin.video.youtube/play/?channel_id=UCuzqko_GKcj9922M1gUo__w&live=2
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KbDOQsS.png" group-title="Business",ET Now - India
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
 
@@ -1185,6 +1212,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC7O2MfJaDVPUX
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jgEKj6t.jpg" group-title="Business",Kalkine TV : Business News - Australia (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCqqvuhldqUbRrvfek50N9w/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F5o6Uu2.jpg" group-title="Business",LDTV - Spain
+plugin://plugin.video.sendtokodi/?https://www.dailymotion.com/video/xnm032
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8XNVkrJ.png" group-title="Business",NDTV Profit - India
 https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,512,.smil/playlist.m3u8
 
@@ -1193,6 +1223,9 @@ https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/itAmJ1w.jpg" group-title="Business",Secure Trading Institute (STI) (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9voNLQa-0dTZFRgK8O3fMw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8yaWwOc.jpg" group-title="Business",Seoul Economic Network (SEN) (STK) - South Korea
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC3p-0EWA8OXko2EUDUXAy5w
 
 #EXTINF:-1 tvg-logo="https://d.stockcharts.com/img/scc-logo-light.png" group-title="Business",StockCharts TV
 https://iptv-all.lanesh4d0w.codes/united-states/stockchartstv
@@ -1207,6 +1240,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqoSrYgusd8Zd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Oq3Le9Q.jpg" group-title="Business",TFNN LIVE - Stocks and Options Trading News and Education (STK)
 plugin://plugin.video.sendtokodi/https://www.youtube.com/channel/UCq7gWVoeUqWZhPjiel9bAdg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZs5h4V.jpg" group-title="Business",WOW TV (STK) - South Korea
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCF8AeLlUbEpKju6v1H6p8Eg/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wfuklsn.png" group-title="Business",Yahoo! Finance
 https://yahoo-vizio.amagi.tv/playlist.m3u8

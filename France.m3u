@@ -6,6 +6,9 @@
 plugin://plugin.video.youtube/play/?video_id=tNkZsRW7h2c
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rInp4S7.jpg" group-title="",iDAL Production FRANCE (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCbtuKhUrh3e0pyodF_QUtew/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6NcOgln.png" group-title="Radio",Lucas LEMPEREUR
 plugin://plugin.video.dailymotion_com/?url=x7yrzoq&mode=playLiveVideo
 

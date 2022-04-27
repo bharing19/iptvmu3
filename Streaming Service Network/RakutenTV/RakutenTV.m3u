@@ -8,11 +8,14 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wsgAfeg.png" group-title="",1+1 International
 https://1plus1-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MgcXJ53.jpg" group-title="",AfricaNews (EU) 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MgcXJ53.jpg" group-title="",AfricaNews (EU)
 https://rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pYqTkpp.png" group-title="",AFV Family (EU)
 https://futuretoday-afv-family-2-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/05RcpPW.jpg" group-title="",Are We There Yet?
+https://amg00353-lionsgatestudio-arewethereyet-rakuten-hqfmx.amagi.tv/hls/amagi_hls_data_rakutenAA-arewethereyet-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ftb8TNb.jpg" group-title="",Baby Shark TV (EU)
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -180,6 +183,9 @@ https://ictv-ukraine-rakuten.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UQIAFWx.jpg" group-title="",Hallo elterrn (EU) (German)
 https://targetvideo-parenting-media-halloeltern-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gLCvRiA.jpg" group-title="",High Street TV Shopping 1
+https://amg00834-asiabroadcastsa-abs-hstv1-rakuten-hvqc1.amagi.tv/playlist.m3u8
+
 EXTINF:-1 tvg-logo="https://i.imgur.com/3rghGcX.png" group-title="",Horse and Country free (UK)
 https://hncfree-rakutenuk.amagi.tv/playlist.m3u8
 
@@ -213,6 +219,9 @@ https://inwonder-eng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ENAVFXW.png" group-title="",Inwonder (German)
 https://inwonder-ger-rakuten.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ogdrH77.jpg" group-title="",KIDZ BOP
+https://amg00377-kidzbop-kidzbop-rakuten-ur4iu.amagi.tv/hls/amagi_hls_data_rakutenAA-kidzbop-rakuten/CDN/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CR3Ok5g.png" group-title="",Kino (German)
 https://rakuten-deutsches-kino-1-eu.rakuten.wurl.tv/playlist.m3u8
 
@@ -242,8 +251,17 @@ https://motorsportnetwork-motor1tv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SWazNdb.jpg" group-title="",Moviesphere UK
 https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ov0YD65.jpg" group-title="",Museum TV Fast
+https://amg01492-secomsasmediart-museumtv-en-rakuten-39duu.amagi.tv/hls/amagi_hls_data_rakutenAA-museumtv-en-rakuten/CDN/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nAb5HRj.jpg" group-title="",Mytime (Spain)
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Cyxya4.jpg" group-title="",MyTime Movie Network (UK)
+https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pdaAvPf.jpg" group-title="",MyZen Fit
+https://amg01255-secomcofites-my-myzen-en-rakuten-cyxqh.amagi.tv/hls/amagi_hls_data_rakutenAA-myzen-en-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fD7Cd5k.png" group-title="",People are awesome (EU)
 https://jukin-peopleareawesome-2-eu.rakuten.wurl.tv/playlist.m3u8
@@ -253,6 +271,9 @@ https://deaplaneta-planetakidz-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pbYGgPq.jpg" group-title="",Planet Knowledge (EU)
 https://vod365-planet-knowledge-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DfweG9C.jpg" group-title="",Players TV
+https://amg00379-playerstv-playerstv-rakuten-o0ew5.amagi.tv/hls/amagi_hls_data_rakutenAA-playerstv-rakuten/CDN/master.m3u8
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/98bHB7n.jpg" group-title="",PlayWorks (EU)
 https://playworksdigital-playworks-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
@@ -544,6 +565,9 @@ https://runtime-espana-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uCvGTNY.jpg" group-title="",Rush Street
 https://rushstreet-rakuten.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2C86Dlm.jpg" group-title="",Shorts
+https://amg00784-shortsinternati-shortstvfastuk-rakuten-fo7jn.amagi.tv/hls/amagi_hls_data_rakutenAA-shortstvfastuk-rakuten/CDN/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zTUJhMr.png" group-title="",Sofy TV
 https://sofytv-rakuten.amagi.tv/playlist.m3u8
 
@@ -581,8 +605,14 @@ https://vitor-theboatshow-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1dqzy1e.jpg" group-title="",The Design Network (EU)
 https://thedesignnetwork-tdn-6-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t9E1S6o.jpg" group-title="",The Film Detective
+https://filmdetective-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-film-detective-rakuten/CDN/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y7DWr5g.jpg" group-title="",The Guardian (EU)
 https://rakuten-guardian-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YOfoRYx.jpg" group-title="",The Jewellery Channel (TJC)
+https://amg00128-shoplc-shoplctjc-rakuten-mh7yd.amagi.tv/hls/amagi_hls_data_rakutenAA-shoplc-tjc-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2tU9uiI.png" group-title="",The Lego Channel (EU)
 https://futuretoday-thelegochannel-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -599,11 +629,11 @@ https://rakuten-toppfilmer-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EvmiUPl.jpg" group-title="",Travel XP (EU)
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QKNzD78.jpg" group-title="",Unbeaten
+https://unbeaten-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-inverleigh-unbeaten-rakuten/CDN/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tI4qSuq.png" group-title="",VennTV (EU)
 https://venntv-rakuteneu.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kKXjivZ.png" group-title="",WeatherSpy (EU)
-https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e7ZQJmp.png" group-title="",Viki (DE) LG
 https://newidco-rakutenviki-2-de.lg.wurl.tv/playlist.m3u8
@@ -619,6 +649,9 @@ https://newidco-rakutenviki-2-gb.lg.wurl.tv/playlist.m3u8
 https://newidco-rakutenviki-1-it.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e7ZQJmp.png" group-title="",Viki (US) LG
 https://newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kKXjivZ.png" group-title="",WeatherSpy (EU)
+https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kuTO86F.jpg" group-title="",WildEarth
 https://wildearth-rakuten.amagi.tv/playlist.m3u8

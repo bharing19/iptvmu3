@@ -5,6 +5,12 @@
 0.0.0.0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s0X4ANG.png" group-title="",Streamlink Tester Required
 0.0.0.0
+
+
+# https://www.gbc.gi/tv/watch-live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aUd8yOZ.png" group-title="",GBC TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://api.new.livestream.com/accounts/14143407/events/9828641/
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lFkbTLS.jpg" group-title="Radio",WALN Cable Radio (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://api.new.livestream.com/accounts/547428/events/8536866/
 

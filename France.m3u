@@ -986,8 +986,9 @@ plugin://plugin.video.youtube/play/?channel_id=UCiDkpVr5l4FjeLjlfq9rNVw&live=1
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCiDkpVr5l4FjeLjlfq9rNVw/live
 
 # https://www.lci.fr/direct/
+# http://azrotv.com/iphone/Fr/ch1/lci.php
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI FR" tvg-logo="https://i.ibb.co/42qRB2Y/lci.png" group-title="actualités",LCI
-http://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+http://azrotv.com/m3u8/pplayer/fra.php/https://lci-hls-live.tf1.fr/video/ZNsR2L2DD_HhrTDQxM0hUg/1651707536/out/v1/1330f53e0d214a9ead65ac455bf79786/index_5.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI FR" tvg-logo="https://i.ibb.co/42qRB2Y/lci.png" group-title="actualités",LCI (TT)
 plugin://script.module.7of9-live/play/753/play.pvr
 
@@ -1330,9 +1331,9 @@ http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
 #EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France FR" tvg-logo="https://i.imgur.com/caMQgOj.jpg" group-title="Actualités",RT France
 https://rt-france-gd.secure2.footprint.net/1107_2500Kb.m3u8
 # https://www.youtube.com/channel/UCqEVwTnDzlzKOGYNFemqnYA
-#EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France FR" tvg-logo="https://i.imgur.com/caMQgOj.jpg" group-title="Actualités",RT France (YT) (c_id)
+EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France FR" tvg-logo="https://i.imgur.com/caMQgOj.jpg" group-title="Actualités",RT France (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCqEVwTnDzlzKOGYNFemqnYA&live=1
-#EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France FR" tvg-logo="https://i.imgur.com/caMQgOj.jpg" group-title="Actualités",RT France (STK)
+EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="RT France FR" tvg-logo="https://i.imgur.com/caMQgOj.jpg" group-title="Actualités",RT France (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqEVwTnDzlzKOGYNFemqnYA/live
 
 #EXTINF:-1 tvg-id="rtl.fr" tvg-name="RTL FR" tvg-logo="https://i.imgur.com/l3dYwWa.png" group-title="Radio",RTL (DM) 
@@ -1436,7 +1437,6 @@ http://mv2.tvfrancophonie.org/live/Stream1/chunklist_w671289549_b776739.m3u8
 
 EXTINF:-1 tvg-id="Teva.fr" tvg-name="Téva FR" tvg-logo="https://i.imgur.com/PVWGHit.png" group-title="généraliste",Téva
 
-
 # https://www.twitch.tv/top80radio
 #EXTINF:-1 tvg-logo="https://www.top80radio.com/wp-content/uploads/2020/04/Top-80-radio-200x200-1.png" group-title="Radio",Top80Radio (TWITCH) (C_N)
 plugin://plugin.video.twitch/?mode=play&channel_name=top80radio
@@ -1445,7 +1445,6 @@ plugin://plugin.video.twitch/?mode=play&channel_name=top80radio
 plugin://plugin.video.dailymotion_com/?url=x89yjnn&mode=playLiveVideo
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pRajVwP.png" group-title="",Top Santé TV (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://www.dailymotion.com/video/x89yjnn
-
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/30tUMWq.png" group-title="",Toute l'Histoire
 
@@ -1497,28 +1496,24 @@ plugin://plugin.video.youtube/play/?channel_id=UC5BRZBCjOqMO9BqWnubqtJA&live=1
 #EXTINF:-1 tvg-id="TVVendee.fr" tvg-name="TV Vendée FR" tvg-logo="https://i.imgur.com/1VcXicN.jpg" group-title="Locale",TV Vendée (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5BRZBCjOqMO9BqWnubqtJA/live
 
-
-
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="généraliste",TF1 (OPT-5)
-http://edge.iptvnetwork.net/live/TF1/playlist.m3u8
-#http://stream.suboroiptv.tv:80/TF1/playlist.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="généraliste",TF1 (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://azrotv.com/iphone/Fr/ch2/t1.php
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="généraliste",TF1 (TT)
 plugin://script.module.7of9-live/play/504/play.pvr
 
-EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Séries Films FR" tvg-logo="https://i.ibb.co/41Dt9TY/TF1Serie.png" group-title="thématique",TF1 Series & films
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Séries Films FR" tvg-logo="https://i.ibb.co/41Dt9TY/TF1Serie.png" group-title="thématique",TF1 Series & films (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://azrotv.com/iphone/Fr/ch2/tfs.php
 
-
-EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX FR" tvg-logo="https://i.imgur.com/LLbpKZh.png" group-title="généraliste",TFX
-
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX FR" tvg-logo="https://i.imgur.com/LLbpKZh.png" group-title="généraliste",TFX (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://azrotv.com/iphone/Fr/ch1/nt1.php
 
 #EXTINF:-1 tvg-id="Tiji.fr" tvg-name="Tiji FR" tvg-logo="https://i.imgur.com/J5FMleF.jpg" group-title="Anime",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index.m3u8
 #EXTINF:-1 ttvg-id="Tiji.fr" tvg-name="Tiji FR" vg-logo="https://i.imgur.com/J5FMleF.jpg" group-title="Anime",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index_1.m3u8
 
-
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FR" tvg-logo="https://i.ibb.co/XL20Y0z/TMC.png" group-title="généraliste",TMC
-http://stream.suboroiptv.tv/TMC/playlist.m3u8
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FR" tvg-logo="https://i.ibb.co/XL20Y0z/TMC.png" group-title="généraliste",TMC (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://azrotv.com/iphone/Fr/ch2/tm.php
 
 # https://www.youtube.com/channel/UCE5RkgB9e4fNRQp-WUbkgOw
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kwlvb2r.jpg" group-title="généraliste",TV1 France (c_id) (YT)

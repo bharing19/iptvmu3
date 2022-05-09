@@ -12,6 +12,79 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
+## USA Education Channel
+
+# https://www.azwestern.edu/communications-and-marketing/television-services
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UWCwrUl.png" group-title="Education",AWC TV - Arizona
+https://arizonawesterncol.secure.footprint.net/egress/bhandler/arizonawesterncol/streama/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CP63jgM.png" group-title="Education",ED TV - Arizona
+https://arizonawesterncol.secure.footprint.net/egress/bhandler/arizonawesterncol/streamb/manifest.m3u8
+
+# http://ualruniversitytelevision.viebit.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nhBOiAq.jpg" group-title="Education",UALR TV - Arkansas
+https://vblive-c.viebit.com/65ea794b-dd82-41ce-8e98-a9177289a063/playlist.m3u8
+
+# https://thelink.harding.edu/hu16/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YS5ME5U.png" group-title="Education",HU16 1 - Arkansas
+https://reflect-harding.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YS5ME5U.png" group-title="Education",HU16 2 - Arkansas
+https://reflect-harding.cablecast.tv/live-6/live/live.m3u8
+
+# https://www.uctv.tv/watch/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WGErhb5.png" group-title="Education",University of California Television (UCTV)
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+
+# https://reflect-beachtv.cablecast.tv/CablecastPublicSite/watch/1?channel=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xEzjVth.png" group-title="Education",BeachTV - California
+https://reflect-beachtv.cablecast.tv/live-3/live/live.m3u8
+
+# http://thesoutheasternchannel.com/live-stream/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SI0rwt1.png" group-title="Education",Southeastern Channel - Louisiana
+https://reflect-live-selu.cablecast.tv/live/live.m3u8
+
+# https://www.montgomerycollege.edu/offices/advancement-and-community-engagement/mctv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q61irGC.jpg" group-title="Education",Montgomery College Television (MCTV) - Maryland
+https://livestream.com/accounts/469832/events/7502318
+
+# https://www.lcc.edu/tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rnhTjz0.jpg" group-title="Education",LCC TV - Michigan
+https://streaming.lcc.edu:88/hlsme/lcctv.m3u8
+
+# https://www.lindenwood.edu/lutv/lutv-hd-streaming/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z9KMJGi.jpg" group-title="Education",LUTV - Missouri
+https://lutv-vod.lindenwood.edu/live-4/live/live.m3u8
+
+# http://orangetvnetwork.syr.edu/live-stream/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8QItjPp.png" group-title="Education",Orange Television Network (OTN) - New York
+https://t06808-lh.akamaihd.net/i/t06808a_1@676472/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc
+
+# https://templetv.net/watch-live/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9jNDudk.jpg" group-title="Education",Temple TV (TUTV) - Pennsylvania
+https://streaming.temple.edu/tutvlive/_definst_/mp4:8BRYCQMB/playlist.m3u8
+
+# https://www.ghstv.org/live-stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BVAl2tW.jpg" group-title="Education",Germantown High School Television (GHS-TV) - Tennessee
+https://streams.helnix.com/autoHLS/0e9d4f49cf770f2d/0e9d4f49cf770f2d.m3u8
+
+# http://watchtstv.com/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yE5vgIr.png" group-title="Education",Texas Student TV (TSTV)
+http://tstv-stream.tsm.utexas.edu/hls/livestream.m3u8
+
+# https://www.nvcc.edu/tvcenter/nvcctvlive.html
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GFPk4vJ.png" group-title="Education",Northern Virginia Community College (NVCC-TV)
+https://cs.ebmcdn.net/eastbay-live-hs-1/nvcc/mp4:nvcc/playlist.m3u8
+
+# https://watch.seattlecolleges.tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d3KGGms.jpg" group-title="",SCCtv - Washington
+https://5caeec96c1972.streamlock.net/broadcast/scctv/playlist.m3u8
+# http://live.seattlecolleges.tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d3KGGms.jpg" group-title="",SCCtv Live Event (Not24/7)
+https://5caeec96c1972.streamlock.net/live/event/playlist.m3u8
+# https://knw.seattlecolleges.tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EgDKOvI.png" group-title="",SCCtv - Knowledge Northwest Broadcast
+https://5caeec96c1972.streamlock.net/broadcast/knw/playlist.m3u8
+
+####
 
 
 # https://watch.talk.tv/

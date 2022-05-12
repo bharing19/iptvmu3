@@ -12,6 +12,21 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
+
+
+# http://cocolatv.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5LSS9Ef.png" group-title="Entertainment",Cocola Broadcasting Companies (CBC) (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/cocolatv
+
+# https://kmbytv.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ka24xqZ.png" group-title="Music",KMBY 19.4 (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/kmbytv
+
+# https://kkdjtv.com/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LQijM2n.png" group-title="Music",KKDJ TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.twitch.tv/kkdjtv
+
+
 ## USA Education Channel
 
 # https://www.azwestern.edu/communications-and-marketing/television-services

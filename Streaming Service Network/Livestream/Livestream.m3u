@@ -22,6 +22,14 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https://api.new.livestr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wo21DNg.jpg" group-title="",TCTKids
 plugin://plugin.video.streamlink-tester/?action=play&url=https://api.new.livestream.com/accounts/29565692/events/9321713/
 
+# http://www.wivmtv.com/livestream.htm
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i0EpwF6.jpg" group-title="Local",WIVM-TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://api.new.livestream.com/accounts/17488475/events/4802826/
+
+# https://www.tampa.gov/cable-communication/programs/webcast
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qLZfAMb.jpg" group-title="Government",CTTV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=https://api.new.livestream.com/accounts/12251681/events/9945201/
+
 # https://www.gbc.gi/tv/watch-live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUd8yOZ.png" group-title="",GBC TV (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://api.new.livestream.com/accounts/14143407/events/9828641/

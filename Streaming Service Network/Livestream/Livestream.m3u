@@ -7,6 +7,21 @@
 0.0.0.0
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vATdg7f.png" group-title="",Dog TV (SLT)
+plugin://plugin.video.streamlink-tester/?action=play&url=http://api.new.livestream.com/accounts/29590904/events/9415369/
+
+# https://mountain-topmedia.com/mtn-top-tv/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lweTLUK.png" group-title="",Mountain Top TV
+plugin://plugin.video.streamlink-tester/?action=play&url=http://api.new.livestream.com/accounts/6461963/events/4113877
+
+# https://watch.tct.tv/daily-programming/videos/tct
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TKXRZcZ.png" group-title="",TCT HD
+plugin://plugin.video.streamlink-tester/?action=play&url=https://api.new.livestream.com/accounts/29565692/events/9276365/
+
+# https://watch.tct.tv/daily-programming/videos/tctkids-live-stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wo21DNg.jpg" group-title="",TCTKids
+plugin://plugin.video.streamlink-tester/?action=play&url=https://api.new.livestream.com/accounts/29565692/events/9321713/
+
 # https://www.gbc.gi/tv/watch-live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUd8yOZ.png" group-title="",GBC TV (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://api.new.livestream.com/accounts/14143407/events/9828641/

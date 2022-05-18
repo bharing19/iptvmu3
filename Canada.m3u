@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-logo="https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/raw/master/Images/Logo%20Pays/Ca.png?raw=true",★★★★★★★★★★[COLOR red]Canada English[/COLOR]★★★★★★★★★★
 https://upload.wikimedia.org/wikipedia/commons/2/2c/%22O_Canada%22%2C_performed_by_the_United_States_Third_Marine_Aircraft_Wing_Band.oga
-#EXTINF:-1 ,update 22/04/13
+#EXTINF:-1 ,update 22/05/18
 0.0.0.0
 
 
@@ -162,6 +162,11 @@ https://6ec0e0181a60431a899f1aae5e76a016.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zXWgbVk.png" group-title="",Amazing Discoveries TV
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LGOUeGK.jpg" group-title="",Basilica Cathedral of St.John NewFoundLand (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCeBMTyUFh2MYcfqjWb4G5Og&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LGOUeGK.jpg" group-title="",Basilica Cathedral of St.John NewFoundLand (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/user/brianwlake/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IGnBg0p.jpg" group-title="",Bible Discovery TV (Monday, Wednesday, and Friday for Live Prayer right here at 3:00pm EST)
 https://2-fss-1.streamhoster.com/pl_122/200226-88032-1/playlist.m3u8
@@ -370,6 +375,11 @@ https://api.v3.invintus.com/StreamURI/persis/2917038973/cvtv21.stream/media.m3u8
 #https://www.cvtv.org/livefeed/23
 #EXTINF:-1 tvg-logo="https://www.cvtv.org/img/logo.png" group-title="Community",cvtv Channel 23
 https://api.v3.invintus.com/StreamURI/persis/2917038973/cvtv23.stream/media.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s4H8upO.jpg" group-title="",ET Canada (YT) (c_id) (Not24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCKY5PiEq8Tl9r7f3qittXng&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s4H8upO.jpg" group-title="",ET Canada (STK) (Not24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/c/ETCanadaOfficial/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="",EWTN Canada
 https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
@@ -654,6 +664,16 @@ https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KmyGaBd.png" group-title="Weather",The Weather Network (OPT-2)
 https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
 #https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/index_2000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vXQjmQc.jpg" group-title="Legislative",Toronto City Council (YT) (c_id) (Not24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCfe2rzOnQzgEDvNzRRPUJsA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vXQjmQc.jpg" group-title="Legislative",Toronto City Council (STK) (Not24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/c/TorontoCityCouncilLive/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eSDhPiR.png" group-title="Legislative",Toronto City Planning (YT) (c_id) (Not24/7)
+plugin://plugin.video.youtube/play/?channel_id=UCudbgOL5gua8MaaUXUpElSQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eSDhPiR.png" group-title="Legislative",Toronto City Planning (STK) (Not24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/c/TorontoCityPlanning/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mrvxWF1.jpg" group-title="",Toronto Transit Commission (YT) (c_id) (Not 24/7)
 plugin://plugin.video.youtube/play/?channel_id=UCGO-x25PyOx0IDm9A1dC5Ag&live=1

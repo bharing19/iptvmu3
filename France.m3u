@@ -291,7 +291,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCMgaz88skVo7HF6ZWlioetw&live=1
 #EXTINF:-1 tvg-id="3ABN.fr" tvg-name="3ABN Français" tvg-logo="https://i.imgur.com/KtpSSXU.jpg" group-title="Religion",3ABN francais (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMgaz88skVo7HF6ZWlioetw/live
 
-EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FR" tvg-logo="https://i.imgur.com/3PjeT6M.jpg" group-title="généraliste",6ter
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter FR" tvg-logo="https://i.imgur.com/3PjeT6M.jpg" group-title="généraliste",6ter
+https://s4.tntendirect.com/6ter/live/chunks.m3u8
 
 # https://www.youtube.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3AelRxI.png" group-title="régionale",7ALimoges (c_id) (YT)
@@ -334,15 +335,17 @@ EXTINF:-1 tvg-id="Animaux.fr" tvg-name="Animaux FR" tvg-logo="https://i.imgur.co
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zCONKdx.jpg" group-title="Anime",Amuse Animation
 https://amuse-amuseanimation-2-fr.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="documentaires",Arte
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="Documentaires",Arte
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1729?protocol=hls
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="documentaires",Arte
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="Documentaires",Arte
 https://edge-1192-ch-gv.filmon.com/live/1729.low.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="documentaires",Arte (OPT-2)
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="Documentaires",Arte (OPT-2)
 http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8?|X-Forwarded-For=217.70.184.38
-#EXTINF:-1  tvg-id="ARTE.fr" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="documentaires",Arte (TT) 
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="Documentaires",Arte (OPT-3)
+https://s4.tntendirect.com/arte/live/chunks.m3u8
+#EXTINF:-1  tvg-id="ARTE.fr" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="Documentaires",Arte (TT) 
 plugin://script.module.7of9-live/play/327/play.pvr
-#EXTINF:-1  tvg-id="ARTE.fr" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="documentaires",Arte (SLT)
+#EXTINF:-1  tvg-id="ARTE.fr" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png"group-title="Documentaires",Arte (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://www.callofliberty.fr/tv/7-ARTE/7-ARTE.php
 
 #  http://www.freeintertv.com/view/id-1156/ 
@@ -362,9 +365,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCMkQQZsNdRVZ3N7Oj6jVnyg&live=1
 #EXTINF:-1 tvg-name="AstrocenterTV" tvg-logo="https://i.imgur.com/J7kdtWw.png" group-title="",AstrocenterTV (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMkQQZsNdRVZ3N7Oj6jVnyg/live
 
-
 # https://www.youtube.com/channel/UCd9hPbPHI0XKWhxYLtmyvFA
-#EXTINF:-1 tvg-id="ASTV.fr" tvg-name="ASTV FR" tvg-logo="https://www.tele-astv.fr/img/LOGO%20CARRE.png"group-title="régionale",ASTV Grande-Synthe (YT) (UPD) (OFFLINE)
+EXTINF:-1 tvg-id="ASTV.fr" tvg-name="ASTV FR" tvg-logo="https://www.tele-astv.fr/img/LOGO%20CARRE.png"group-title="régionale",ASTV Grande-Synthe (YT)
 plugin://plugin.video.youtube/play/?video_id=CIC87bQ7CVA
 # https://www.youtube.com/channel/UC0XkRJqxFGeZTta1OUqq3fw
 #EXTINF:-1 tvg-id="ASTV.fr" tvg-name="ASTV FR" tvg-logo="https://www.tele-astv.fr/img/LOGO%20CARRE.png"group-title="régionale",ASTV Grande-Synthe (YT) (c_id)
@@ -455,51 +457,53 @@ plugin://script.module.7of9-live/play/453/play.pvr
 plugin://script.module.7of9-live/play/454/play.pvr
 
 # https://www.bfmtv.com/en-direct/
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFMTV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="actualités",BFM TV
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFMTV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="Actualités",BFM TV
 https://bfmtvalive1-a.akamaihd.net/2cc377e69b5f492e91de57728c82f907/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
 https://bfmtvalive1-a.akamaihd.net/2cc377e69b5f492e91de57728c82f907/eu-central-1/876450610001/profile_1/b0486ae3ca4147b0953f02e67e80ac8d/chunklist_ssaiV.m3u8
 # https://www.dailymotion.com/BFMTV
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFMTV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="actualités",BFM TV (DM) (OPT-2)
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFMTV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="Actualités",BFM TV (DM) (OPT-2)
 plugin://plugin.video.dailymotion_com/?url=xgz4t1&mode=playLiveVideo
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFMTV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="actualités",BFM TV (Pour VLC)
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFMTV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="Actualités",BFM TV 
+https://s4.tntendirect.com/bmftv/live/chunks.m3u8
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFMTV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="Actualités",BFM TV (Pour VLC)
 https://www.dailymotion.com/video/xgz4t1#tab_embed.m3u8
 # https://www.youtube.com/channel/UCXwDLMDV86ldKoFVc_g8P0g
-#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFMTV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="actualités",BFM TV (opt-3)
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFMTV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="Actualités",BFM TV (opt-3)
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2765?protocol=hls
 #plugin://plugin.video.youtube/play/?video_id=fjaT5H2abcU
 
 # https://www.bfmtv.com/economie/en-direct/
-#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business FR" tvg-logo="https://i.imgur.com/ltJ077W.jpg" group-title="actualités",BFM Business
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM Business FR" tvg-logo="https://i.imgur.com/ltJ077W.jpg" group-title="Actualités",BFM Business
 https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/master.m3u8
 https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_ESYTLS@664128/index_1100_av-b.m3u8?sd=10&rebase=on
 
 # https://www.bfmtv.com/bfm-dici/alpes-du-sud/en-direct/
-#EXTINF:-1 tvg-id="BFMDICI.fr" tvg-name="BFM DICI Alpes du Sud FR" tvg-logo="https://i.imgur.com/V4fdTfU.jpg" group-title="actualités",BFM DICI Alpes du Sud
+#EXTINF:-1 tvg-id="BFMDICI.fr" tvg-name="BFM DICI Alpes du Sud FR" tvg-logo="https://i.imgur.com/V4fdTfU.jpg" group-title="Actualités",BFM DICI Alpes du Sud
 https://bfmdicialpes-lh.akamaihd.net/i/BFMDICIAlpes_ESYTLS@67259/master.m3u8
 https://bfmdicialpes-lh.akamaihd.net/i/BFMDICIAlpes_ESYTLS@67259/index_2000_av-p.m3u8?sd=10&rebase=on
 
 # https://www.bfmtv.com/bfm-dici/haute-provence/en-direct/
-#EXTINF:-1 tvg-id="BFMDICI.fr" tvg-name="BFM DICI Haute-Provence FR" tvg-logo="https://i.imgur.com/V4fdTfU.jpg" group-title="actualités",BFM DICI Haute-Provence
+#EXTINF:-1 tvg-id="BFMDICI.fr" tvg-name="BFM DICI Haute-Provence FR" tvg-logo="https://i.imgur.com/V4fdTfU.jpg" group-title="Actualités",BFM DICI Haute-Provence
 https://bfmdiciprovence-lh.akamaihd.net/i/BFMDICIProvence_ESYTLS@327955/master.m3u8
 https://bfmdiciprovence-lh.akamaihd.net/i/BFMDICIProvence_ESYTLS@327955/index_2000_av-p.m3u8?sd=10&rebase=on
 
 # https://www.bfmtv.com/grand-lille/en-direct/
-#EXTINF:-1  tvg-id="BFMLille.fr" tvg-name="BFM Lille FR" tvg-logo="https://i.ibb.co/ykXy6CY/grand-lille.png" group-title="actualités",BFM Lille
+#EXTINF:-1  tvg-id="BFMLille.fr" tvg-name="BFM Lille FR" tvg-logo="https://i.ibb.co/ykXy6CY/grand-lille.png" group-title="Actualités",BFM Lille
 https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/playlist.m3u8
 https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist_w689856501_b1464000.m3u8
 
 # update link : # https://www.bfmtv.com/grand-littoral/en-direct/
-#EXTINF:-1 tvg-id="France"  tvg-name="BFM TV FR" tvg-logo="https://i.ibb.co/Dk0rx4M/grand-littoral.png" group-title="actualités",BFM Littoral
+#EXTINF:-1 tvg-id="France"  tvg-name="BFM TV FR" tvg-logo="https://i.ibb.co/Dk0rx4M/grand-littoral.png" group-title="Actualités",BFM Littoral
 https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
 https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/chunklist_w1683899868_b1464000.m3u8
 
 # https://www.bfmtv.com/lyon/en-direct/
-#EXTINF:-1 tvg-id="BFMLyon.fr"  tvg-name="BFM Lyon FR" tvg-logo="https://i.ibb.co/8Y3FB3B/LYON.png" group-title="actualités",BFM Lyon
+#EXTINF:-1 tvg-id="BFMLyon.fr"  tvg-name="BFM Lyon FR" tvg-logo="https://i.ibb.co/8Y3FB3B/LYON.png" group-title="Actualités",BFM Lyon
 https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/master.m3u8
 https://bfmlyon-lh.akamaihd.net/i/BFMLYON_ESYTLS@797041/index_1100_av-p.m3u8?sd=10&rebase=on
 
 # https://www.bfmtv.com/paris/en-direct/
-#EXTINF:-1 tvg-id="BFMParis.fr"  tvg-name="BFM Paris FR" tvg-logo="https://i.imgur.com/qCqsuoZ.png" group-title="actualités",BFM Paris
+#EXTINF:-1 tvg-id="BFMParis.fr"  tvg-name="BFM Paris FR" tvg-logo="https://i.imgur.com/qCqsuoZ.png" group-title="Actualités",BFM Paris
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/master.m3u8
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8?sd=10&rebase=on
 
@@ -513,14 +517,16 @@ https://biptv.tv/live/biptvstream_orig/index.m3u8
 https://biptv.tv/live/biptvstream.m3u8
 
 # https://www.bsmart.fr
-#EXTINF:-1 tvg-id="BSmartTV.fr" tvg-name="B Smart TV FR" tvg-logo="https://i.imgur.com/VCrkp5V.png" group-title="actualités",bsmart (DM)
+#EXTINF:-1 tvg-id="BSmartTV.fr" tvg-name="B Smart TV FR" tvg-logo="https://i.imgur.com/VCrkp5V.png" group-title="Actualités",bsmart (DM)
 plugin://plugin.video.dailymotion_com/?url=x7tn4fp&mode=playLiveVideo
-#EXTINF:-1 tvg-id="BSmartTV.fr" tvg-name="B Smart TV FR" tvg-logo="https://i.imgur.com/VCrkp5V.png" group-title="actualités",bsmart (Pour VLC)
+#EXTINF:-1 tvg-id="BSmartTV.fr" tvg-name="B Smart TV FR" tvg-logo="https://i.imgur.com/VCrkp5V.png" group-title="Actualités",bsmart (Pour VLC)
 https://www.dailymotion.com/video/x7tn4fp#tab_embed.m3u8
 
-# https://www.dailymotion.com/video/x5gv5rr 
+# https://www.dailymotion.com/video/x5gv5rr
 #EXTINF:-1 tvg-id="C8.fr" tvg-name="C8 FR" tvg-logo="https://i.imgur.com/C4ApWGr.jpg" group-title="généraliste",C8 (DM)
 plugin://plugin.video.dailymotion_com/?url=x5gv5rr&mode=playLiveVideo
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="C8 FR" tvg-logo="https://i.imgur.com/C4ApWGr.jpg" group-title="généraliste",C8
+https://s4.tntendirect.com/d8/live/chunks.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-name="C8 FR" tvg-logo="https://i.imgur.com/C4ApWGr.jpg" group-title="généraliste",C8 (Pour VLC)
 https://www.dailymotion.com/video/x5gv5rr#tab_embed.m3u8
 #EXTINF:-1 tvg-id="C8.fr" tvg-name="C8 FR" tvg-logo="https://i.imgur.com/C4ApWGr.jpg" group-title="généraliste",C8 (TT)
@@ -570,6 +576,8 @@ https://livefr.cgtn.com/1000f/prog_index.m3u8
 #EXTINF:-1 tvg-id="Cgtn.fr" tvg-name="CGTN FR" tvg-logo="https://i.imgur.com/P6v0b5N.png" group-title="généraliste",CGTN Francais (TWITCH) (C_N)
 plugin://plugin.video.twitch/?mode=play&channel_name=cgtn_live_french
 
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="Cherie 25 FR" tvg-logo="https://i.imgur.com/dQWQmGL.png" group-title="thématique",Cherie 25
+https://s4.tntendirect.com/cherie25/live/chunks.m3u8
 #EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="Cherie 25 FR" tvg-logo="https://i.imgur.com/dQWQmGL.png" group-title="thématique",Cherie 25 (OPT-2)
 https://cherie25hls-lh.akamaihd.net/i/cherie25hls_1@579096/master.m3u8?|X-Forwarded-For=217.70.184.38
 
@@ -607,6 +615,8 @@ https://www.dailymotion.com/video/x69bhnf#tab_embed.m3u8
 # https://www.cnews.fr/le-direct #
 #EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews FR" tvg-logo="https://i.imgur.com/q5TOZ29.png" group-title="actualités",CNEWS (DM)
 plugin://plugin.video.dailymotion_com/?url=x3b68jn&mode=playLiveVideo
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews FR" tvg-logo="https://i.imgur.com/q5TOZ29.png" group-title="actualités",CNEWS 
+https://s4.tntendirect.com/cnews/live/chunks.m3u8
 #EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews FR" tvg-logo="https://i.imgur.com/q5TOZ29.png" group-title="actualités",CNEWS (Pour VLC)
 https://www.dailymotion.com/video/x3b68jn#tab_embed.m3u8
 #EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews FR" tvg-logo="https://i.imgur.com/q5TOZ29.png" group-title="actualités",CNEWS (TT)
@@ -616,7 +626,7 @@ plugin://plugin.video.streamlink-tester/?action=play&url=https://dsh-m010.live-l
 
 
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar
-http://144.217.253.140/Cstar/tracks-v1a1/index.m3u8
+https://s2.tntendirect.com/d17/live/chunks.m3u8
 # update link : # https://www.dailymotion.com/video/x5gv5v0
 #EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar FR" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="généraliste",CStar (DM) (GEO)
 plugin://plugin.video.dailymotion_com/?url=x5gv5v0&mode=playLiveVideo
@@ -755,11 +765,13 @@ plugin://plugin.video.youtube/play/?channel_id=UCJldRgT_D7Am-ErRHQZ90uw&live=1
 #EXTINF:-1 tvg-id="FranceInter.fr" tvg-name="France Inter FR" tvg-logo="https://i.imgur.com/SPX7isy.png" group-title="actualités",France Inter (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCJldRgT_D7Am-ErRHQZ90uw/live
 
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="généraliste",France 2 (opt 3)
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="généraliste",France 2
+https://cdn.mmsiptv.com/live/france2/chunks.m3u8
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="généraliste",France 2 (opt-2)
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1717?protocol=hls
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="généraliste",France 2 (OPT-4)
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="généraliste",France 2 (OPT-3)
 http://95.211.153.98/live/france2/chunks.m3u8
-#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="généraliste",France 2 (OPT-5)
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="généraliste",France 2 (OPT-4)
 http://190.2.138.13/france2/tracks-v1a1/mono.m3u8?token=test
 
 # Filmon
@@ -768,18 +780,22 @@ https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3893?p
 #EXTINF:-1 tvg-id="France3Rhone.fr" tvg-name="France 3 Rhone FR" tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="généraliste",France 3 rhone-alpes
 https://nowontv.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3890?protocol=hls
 
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/R1qAZ5N.jpg" group-title="généraliste",France 3 
+https://cdn.mmsiptv.com/live/france3/chunks.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/R1qAZ5N.jpg" group-title="généraliste",France 3 (OPT-2)
 http://edge9.iptvnetwork.net/live/france3/chunks.m3u8
 #EXTINF:-1 tvg-id="France3.fr" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/dxwUHhv.png" group-title="généraliste",France 3 (OPT-3)
 http://95.211.153.98/live/france3/chunks.m3u8
 
-
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="généraliste",France 4 
+https://cdn.mmsiptv.com/live/france4/chunks.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="généraliste",France 4 (OPT-2)
 http://edge9.iptvnetwork.net/live/france4/chunks.m3u8
 #EXTINF:-1 tvg-id="France4.fr" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="généraliste",France 4 (OPT-3)
 http://95.211.153.98/live/france4/chunks.m3u8
 
-
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="généraliste",France 5 
+https://cdn.mmsiptv.com/live/france5/chunks.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="généraliste",France 5 (OPT-2)
 http://edge9.iptvnetwork.net/live/france5/chunks.m3u8
 #EXTINF:-1 tvg-id="France5.fr" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="généraliste",France 5 (OPT-3)
@@ -1018,6 +1034,8 @@ plugin://plugin.video.dailymotion_com/?url=x6hczsw&mode=playLiveVideo
 plugin://plugin.video.dailymotion_com/?url=x3x5e37&mode=playLiveVideo
 #EXTINF:-1 tvg-id="L’Equipe.fr" tvg-name="LEquipe 21 FR" tvg-logo="https://i.ibb.co/bvhBK1y/LEquipe-21.png" group-title="Sport",L'Equipe 21 (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://allfoot.info/y/3/18.php
+#EXTINF:-1 tvg-id="L’Equipe.fr" tvg-name="L'Equipe Live 4 FR" tvg-logo="https://i.ibb.co/bvhBK1y/LEquipe-21.png" group-title="Sport",L'Equipe 21
+https://s4.tntendirect.com/lequipe21/live/chunks.m3u8
 
 #EXTINF:-1 tvg-id="lest-eclair.fr" tvg-country="Fr" tvg-language="French" tvg-logo="https://i.imgur.com/eNzCVc9.png" group-title="",L'Est-éclair TV (DM)
 plugin://plugin.video.dailymotion_com/?url=x85046c&amp;mode=playLiveVideo
@@ -1061,7 +1079,9 @@ https://shls-m6-france-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="généraliste",M6
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="généraliste",M6 (OPT-2)
-http://flusonic-4.platinum-tv.com/M6/tracks-v1a1/mono.m3u8?token=test
+https://s4.tntendirect.com/m6/live/chunks.m3u8
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="généraliste",M6 (OPT-3)
+https://mmsiptv.com/live/m6/playlist.m3u8
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="généraliste",M6 (TT)
 plugin://script.module.7of9-live/play/321/play.pvr
 
@@ -1164,6 +1184,8 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCeGvSi1Tb8OV7
 
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ 12 FR" tvg-logo="https://i.imgur.com/Zdh9bTw.png" group-title="Musique",NRJ12
 https://nrj12hls-lh.akamaihd.net/i/nrj12hls_1@579113/index_720_av-b.m3u8?|X-Forwarded-For=217.70.184.38
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ 12 FR" tvg-logo="https://i.imgur.com/Zdh9bTw.png" group-title="Musique",NRJ12
+https://s4.tntendirect.com/nrj12/live/chunks.m3u8
 
 #EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="NRJ Hits FR" tvg-logo="https://i.imgur.com/Qp2eWJW.png" group-title="Musique",NRJ HITS
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w582372968_b981072.m3u8
@@ -1312,6 +1334,9 @@ plugin://plugin.video.twitch/?channel_id=160670081&amp;mode=play
 
 #EXTINF:-1 tvg-id="Rmc.fr" tvg-name="RMC FR" tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="Radio",RMC
 https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bTqmEUy.png" group-title="",RMC DECOUVERTE
+https://s4.tntendirect.com/rmcdecouverte/live/chunks.m3u8
 
 #EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="RMC Sport 1" tvg-logo="https://i.imgur.com/cnTi1XC.png" group-title="Sport",RMC Sport 1 (TT)
 plugin://script.module.7of9-live/play/598/play.pvr
@@ -1496,14 +1521,23 @@ plugin://plugin.video.youtube/play/?channel_id=UC5BRZBCjOqMO9BqWnubqtJA&live=1
 #EXTINF:-1 tvg-id="TVVendee.fr" tvg-name="TV Vendée FR" tvg-logo="https://i.imgur.com/1VcXicN.jpg" group-title="Locale",TV Vendée (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC5BRZBCjOqMO9BqWnubqtJA/live
 
+
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="généraliste",TF1
+https://cdn.mmsiptv.com/live/tf1/chunks.m3u8
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="généraliste",TF1 (OPT-2)
+https://s4.tntendirect.com/tf1/live/chunks.m3u8
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="généraliste",TF1 (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://azrotv.com/iphone/Fr/ch2/t1.php
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FR" tvg-logo="https://i.ibb.co/M8GjLmy/TF1.png" group-title="généraliste",TF1 (TT)
 plugin://script.module.7of9-live/play/504/play.pvr
 
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Séries Films FR" tvg-logo="https://i.ibb.co/41Dt9TY/TF1Serie.png" group-title="thématique",TF1 Series & films
+https://s4.tntendirect.com/hd1/live/chunks.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 Séries Films FR" tvg-logo="https://i.ibb.co/41Dt9TY/TF1Serie.png" group-title="thématique",TF1 Series & films (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://azrotv.com/iphone/Fr/ch2/tfs.php
 
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX FR" tvg-logo="https://i.imgur.com/LLbpKZh.png" group-title="généraliste",TFX 
+https://s4.tntendirect.com/nt1/live/chunks.m3u8
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX FR" tvg-logo="https://i.imgur.com/LLbpKZh.png" group-title="généraliste",TFX (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://azrotv.com/iphone/Fr/ch1/nt1.php
 
@@ -1512,6 +1546,8 @@ https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249
 #EXTINF:-1 ttvg-id="Tiji.fr" tvg-name="Tiji FR" vg-logo="https://i.imgur.com/J5FMleF.jpg" group-title="Anime",TIJI
 https://shls-tiji-tv-prod-dub.shahid.net/out/v1/ee05878a88474f408ff04495d44cc249/index_1.m3u8
 
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FR" tvg-logo="https://i.ibb.co/XL20Y0z/TMC.png" group-title="généraliste",TMC
+https://s4.tntendirect.com/tmc/live/chunks.m3u8
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC FR" tvg-logo="https://i.ibb.co/XL20Y0z/TMC.png" group-title="généraliste",TMC (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://azrotv.com/iphone/Fr/ch2/tm.php
 
@@ -1524,7 +1560,6 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCE5RkgB9e4fNR
 #EXTINF:-1 tvg-logo="https://www.tv2vie.org/static/img/logo-tv2vie.png" group-title="",TV2Vie
 https://oraocdn.net:1943/tv2vie-ssl/chunks.m3u8?nimblesessionid=80849547
 
-# 
 #EXTINF:-1 tvg-id="France" tvg-name="TV3V" tvg-logo="https://i.ibb.co/ZY9Q2Qf/logo-tv3v.png" group-title="régionale",TV3V
 https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jZjmZyk.png" group-title="régionale",TV3v
@@ -1687,7 +1722,8 @@ https://www.dailymotion.com/video/x7mxymy#tab_embed.m3u8
 #EXTINF:-1 tvg-id="winamax.fr" tvg-name="Winamax TV FR" tvg-logo="https://i.imgur.com/GIVJ6iD.png" group-title="Sport",Winamax TV (TWITCH)
 plugin://plugin.video.twitch/?channel_id=644597699&amp;mode=play
 
-
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 FR" tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="généraliste",W9
+https://s4.tntendirect.com/w9/live/chunks.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 FR" tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="généraliste",W9 (TT)
 plugin://script.module.7of9-live/play/503/play.pvr
 

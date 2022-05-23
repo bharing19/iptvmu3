@@ -12,7 +12,10 @@ https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/inde
 #EXTINF:-1 ,Noovo 2 (kodi 19)
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/index/de22f34f/live/stream/h264/v1/3500000/manifest.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aEmD9ze.jpg" group-title="",TV Rerun Club by MGM (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC3ndD2cB161KQjeMbUXNbQg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aEmD9ze.jpg" group-title="",TV Rerun Club by MGM (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC3ndD2cB161KQjeMbUXNbQg/live
 
 # http://cocolatv.com/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5LSS9Ef.png" group-title="Entertainment",Cocola Broadcasting Companies (CBC) (STK)
@@ -282,6 +285,16 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCuaMJTqQ_W7qz
 plugin://plugin.video.youtube/play/?channel_id=UCintIUOJEktQBfhEI9XXpuw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YocYNNV.jpg" group-title="",Telugu Filmnagar  (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCintIUOJEktQBfhEI9XXpuw/live
+
+# https://www.youtube.com/channel/UCT15tYkg7jE75TSfSxt8eSQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kgjf4el.jpg" group-title="",Sonal Films Bangla 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCT15tYkg7jE75TSfSxt8eSQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kgjf4el.jpg" group-title="",Sonal Films Bangla 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCT15tYkg7jE75TSfSxt8eSQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kgjf4el.jpg" group-title="",Sonal Films Bangla 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCT15tYkg7jE75TSfSxt8eSQ&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kgjf4el.jpg" group-title="",Sonal Films Bangla 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCT15tYkg7jE75TSfSxt8eSQ&live=4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m4LWd24.jpg" group-title="",Mango Music (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCWqyzn3cDkRDh3kRGWrIQwA&live=1

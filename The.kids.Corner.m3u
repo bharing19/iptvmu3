@@ -106,10 +106,15 @@ plugin://plugin.video.youtube/play/?channel_id=UCyu8StPfZWapR6rfW_JgqcA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SHRESKu.jpg" group-title="Kids",DC Kids (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCyu8StPfZWapR6rfW_JgqcA/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HS1dhjb.jpg" group-title="Kids",Disney Junior (YT) (c_id)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HS1dhjb.jpg" group-title="Kids",Disney Junior 1 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCNcdbMyA59zE-Vk668bKWOg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HS1dhjb.jpg" group-title="Kids",Disney Junior 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNcdbMyA59zE-Vk668bKWOg&live=2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HS1dhjb.jpg" group-title="Kids",Disney Junior (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCNcdbMyA59zE-Vk668bKWOg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zWCqwWQ.jpg" group-title="Kids",Disney Princess (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCKUyqTCe-s0SVeLQbayv3hA/live
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG.png" group-title="Kids",Dora TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus

@@ -284,6 +284,14 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9qgVkKRZUXcg
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="Kids",New Kid TV (1080p)
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ohHmkfl.jpg" group-title="Kids",Netflix After School 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCpInjhuJ1WUekcFeXPPyGGg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ohHmkfl.jpg" group-title="Kids",Netflix After School 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCpInjhuJ1WUekcFeXPPyGGg&live=2
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YojIAZw.jpg" group-title="Kids",Netflix Jr. (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCAJnyTWJPpKXuwgWQDdNWrQ/live
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="Kids",Nick Pluto TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 

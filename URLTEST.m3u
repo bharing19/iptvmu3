@@ -271,35 +271,41 @@ plugin://plugin.video.youtube/play/?channel_id=UCqR2tCs8ufgAjRd6rn4a2wg&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l7R8hZE.jpg" group-title="",Studio Yuva Live (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqR2tCs8ufgAjRd6rn4a2wg/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NLmohv6.jpg" group-title="",CINEPLEX CINEMA (YT) (c_id)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NLmohv6.jpg" group-title="Movies",CINEPLEX CINEMA (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UC-PCkf3J-0zgwv7vZncgwig&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NLmohv6.jpg" group-title="",CINEPLEX CINEMA (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NLmohv6.jpg" group-title="Movies",CINEPLEX CINEMA (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-PCkf3J-0zgwv7vZncgwig/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UchnW7E.jpg" group-title="",Telugu Scenes (YT) (c_id)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UchnW7E.jpg" group-title="Movies",Telugu Scenes (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCPOB-yzPKvCMOpx_4aGziIg&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UchnW7E.jpg" group-title="",Telugu Scenes (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UchnW7E.jpg" group-title="Movies",Telugu Scenes (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCPOB-yzPKvCMOpx_4aGziIg/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DCU1xhV.jpg" group-title="",Bee Movies Arabic (YT) (c_id)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DCU1xhV.jpg" group-title="Movies",Bee Movies Arabic (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCuaMJTqQ_W7qztqZ_zyErJg&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DCU1xhV.jpg" group-title="",Bee Movies Arabic (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DCU1xhV.jpg" group-title="Movies",Bee Movies Arabic (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YocYNNV.jpg" group-title="",Telugu Filmnagar  (YT) (c_id)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YocYNNV.jpg" group-title="Movies",Telugu Filmnagar  (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCintIUOJEktQBfhEI9XXpuw&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YocYNNV.jpg" group-title="",Telugu Filmnagar  (STK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YocYNNV.jpg" group-title="Movies",Telugu Filmnagar  (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCintIUOJEktQBfhEI9XXpuw/live
 
 # https://www.youtube.com/channel/UCT15tYkg7jE75TSfSxt8eSQ
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kgjf4el.jpg" group-title="",Sonal Films Bangla 1 (YT) (c_id)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kgjf4el.jpg" group-title="Movies",Sonal Films Bangla 1 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCT15tYkg7jE75TSfSxt8eSQ&live=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kgjf4el.jpg" group-title="",Sonal Films Bangla 2 (YT) (c_id)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kgjf4el.jpg" group-title="Movies",Sonal Films Bangla 2 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCT15tYkg7jE75TSfSxt8eSQ&live=2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kgjf4el.jpg" group-title="",Sonal Films Bangla 3 (YT) (c_id)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kgjf4el.jpg" group-title="Movies",Sonal Films Bangla 3 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCT15tYkg7jE75TSfSxt8eSQ&live=3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Kgjf4el.jpg" group-title="",Sonal Films Bangla 4 (YT) (c_id)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kgjf4el.jpg" group-title="Movies",Sonal Films Bangla 4 (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCT15tYkg7jE75TSfSxt8eSQ&live=4
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yfbQMQd.jpg" group-title="Movies",WEE5 Entertainment 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCHbltAi70uvnOsa5VM0yaDA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yfbQMQd.jpg" group-title="Movies",WEE5 Entertainment 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCHbltAi70uvnOsa5VM0yaDA&live=2
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m4LWd24.jpg" group-title="",Mango Music (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCWqyzn3cDkRDh3kRGWrIQwA&live=1

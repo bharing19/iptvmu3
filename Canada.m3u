@@ -376,12 +376,6 @@ plugin://plugin.video.youtube/play/?channel_id=UC3cR_DttIClGcE5StsIbyXA&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/snUGe84.png" group-title="Sport",Curling Canada (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC3cR_DttIClGcE5StsIbyXA/live
 
-#https://www.cvtv.org/livefeed/21 
-#EXTINF:-1 tvg-logo="https://www.cvtv.org/img/logo.png" group-title="Community",cvtv Channel 21
-https://api.v3.invintus.com/StreamURI/persis/2917038973/cvtv21.stream/media.m3u8
-#https://www.cvtv.org/livefeed/23
-#EXTINF:-1 tvg-logo="https://www.cvtv.org/img/logo.png" group-title="Community",cvtv Channel 23
-https://api.v3.invintus.com/StreamURI/persis/2917038973/cvtv23.stream/media.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s4H8upO.jpg" group-title="",ET Canada (YT) (c_id) (Not24/7)
 plugin://plugin.video.youtube/play/?channel_id=UCKY5PiEq8Tl9r7f3qittXng&live=1

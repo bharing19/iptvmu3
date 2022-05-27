@@ -21,8 +21,6 @@ https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 https://c.streamhoster.com/link/hls/WwsdfD/SjBk6Q5smzo/r/JETSETNET/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.glewed.tv/wp-content/uploads/2021/01/LM-GLEWED-300x450.png" group-title="",Living Modern
 https://2-fss-2.streamhoster.com/pl_138/amlst:201686-1312888/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.glewed.tv/wp-content/uploads/2021/05/newSurvivorNetTV600x900-300x450.png" group-title="",SurvivorNet TV
-https://linear-178.frequency.stream/dist/glewedtv/178/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.glewed.tv/wp-content/uploads/2020/06/TheFirstPoster-300x450.jpg" group-title="",The First
 https://redseat-thefirst-glewedtv.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.glewed.tv/wp-content/uploads/2020/09/NewsyPosterV2-300x450.jpg" group-title="",Newsy
@@ -47,6 +45,8 @@ https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=856
 
 
+EXTINF:-1 tvg-logo="https://www.glewed.tv/wp-content/uploads/2021/05/newSurvivorNetTV600x900-300x450.png" group-title="",SurvivorNet TV (OFFLINE)
+https://linear-178.frequency.stream/dist/glewedtv/178/hls/master/playlist.m3u8
 EXTINF:-1 tvg-logo="https://www.glewed.tv/wp-content/uploads/2022/01/ACEv2-300x450.jpg" group-title="",American Classic Entertainment (ACE) (OFFLINE)
 https://104.143.4.5:12000/aspen.m3u8
 EXTINF:-1 tvg-logo="https://www.glewed.tv/wp-content/uploads/2020/07/FunRoadsTVPoster-300x450.jpg" group-title="",Fun Roads TV (OFFLINE)

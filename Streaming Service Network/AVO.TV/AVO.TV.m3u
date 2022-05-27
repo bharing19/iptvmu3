@@ -67,6 +67,8 @@ https://d8d22be51c0e4951a293d65fc61b76d8.mediatailor.us-east-1.amazonaws.com/v1/
 https://ce50f5bb01704612b973d9ec00239ec6.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-2/live_016/SD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fit/w:80/h:45/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9wcm9kL3ZpZXdtZWRpYS9sb2dvLzgwNWI2NjQyLTIzM2YtNDNmMS05MmEzLTIwYTJjNzYzYzc3NQ" group-title="",Auto Allstars
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2744
+#EXTINF:-1 tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fit/w:80/h:45/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9wcm9kL3ZpZXdtZWRpYS9sb2dvL2ZmMTNhMzAzLWQxYTEtNGFmYi05ZTQ0LTNmZTJhZDYxMThhNA" group-title="",Auto Allstars (OPT-2)
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_099/HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fit/w:80/h:45/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9wcm9kL3ZpZXdtZWRpYS9sb2dvL2EzNTFhMGExLTgyMjUtNGNlOS1hNTA1LTE0YmVlZTEyYjRjYg" group-title="",Race Central
 https://5f0d32c69f8a498a838b6365fb20fa91.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-6/live_076/SD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fit/w:80/h:45/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9wcm9kL3RocmlsbG9uZS9sb2dvLzRhZWY2OTY3LWVhNjMtNDlhYS04YmU5LWRhZGJkOTUxMTQ3Yg" group-title="",Thrill One Sport
@@ -75,8 +77,6 @@ https://stitcheraws.unreel.me/wse-node05.powr.com/live/60ad16189590a654243e9655/
 https://610babb2ad5147f4a3a353e9193a3db9.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-9/live_121/HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fit/w:80/h:45/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9wcm9kL3ZpZXdtZWRpYS9sb2dvLzdjYzA0NDhlLTk0ODAtNGJlMi04OWVmLTQxNmUyNTJkODY4OQ" group-title="",Unreel
 https://dca74a46948e480eb80ee453d9812624.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia10/live_139/HD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fit/w:80/h:45/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9wcm9kL3ZpZXdtZWRpYS9sb2dvL2ZmMTNhMzAzLWQxYTEtNGFmYi05ZTQ0LTNmZTJhZDYxMThhNA" group-title="",Auto Allstars
-https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_099/HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fit/w:80/h:45/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9wcm9kL3ZpZXdtZWRpYS9sb2dvLzQ5YzQ3OGJkLTQwOGItNGI4OS05NjMxLTQwYWRmY2M4MzMzNw" group-title="",Allied ESports
 https://viewmedia-xod.unreel.me/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout_avo/4Y159JIH94W35FZAX5JW/254.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LMByfw7.png" group-title="",★★★★★Movies★★★★★

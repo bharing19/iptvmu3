@@ -279,10 +279,8 @@ https://cbcsportshd1-f.akamaihd.net/i/cbcsports_3@31222/master.m3u8
 #EXTINF:-1 tvg-id="CBCSports3.ca" tvg-name="CBCSports3 CA" tvg-logo="https://i.imgur.com/1ov9HzY.jpg" group-title="Sports",CBC Sports 4 (Not 24/7)
 https://cbcsportshd1-f.akamaihd.net/i/cbcsports_4@60238/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oMGwB0O.jpg" group-title="Sport",CBC OC Olympic Channel (SLT)
-plugin://plugin.video.streamlink-tester/?action=play&url=http://link.theplatform.com/s/ExhSPC/I4J5_4HlEuaO/meta.smil?feed=CBC%20Gem%20Live%20Linear%20-%20PROD&manifest=m3u&format=smil&mbr=true
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oMGwB0O.jpg" group-title="Sport",CBC OC Olympic Channel (STK)
-plugin://plugin.video.sendtokodi/?http://link.theplatform.com/s/ExhSPC/I4J5_4HlEuaO/meta.smil?feed=CBC%20Gem%20Live%20Linear%20-%20PROD&manifest=m3u&format=smil&mbr=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SuyVhio.png" group-title="Sports",CBC Olympics
+https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_71.m3u8
 
 # https://cfjctoday.com/streaming/ https://view.vzaar.com/playlists/14389
 EXTINF:-1 tvg-logo="https://i.imgur.com/gmDfwMF.png" group-title="",CFJC Live (token)
@@ -338,20 +336,20 @@ plugin://plugin.video.youtube/play/?channel_id=UCZ9Z3-VJcSMSqrWRORMlRjQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZE1Z7Wf.jpg" group-title="Legislative",Committee of Adjustment - City of Ottawa (STK) (not 24/7)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZ9Z3-VJcSMSqrWRORMlRjQ/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC | English
-https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC | Floor
-https://bcsecurelivehls-i.akamaihd.net/hls/live/680603/1242843915001_2/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC Live Event Only
-https://bcsecurelivehls-i.akamaihd.net/hls/live/680605/1242843915001_4/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC Live Event Only
-https://bcsecurelivehls-i.akamaihd.net/hls/live/680606/1242843915001_5/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC Live Event Only
-https://bcsecurelivehls-i.akamaihd.net/hls/live/680607/1242843915001_6/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC Live Event Only
-https://bcsecurelivehls-i.akamaihd.net/hls/live/680608/1242843915001_7/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC Live Event Only
-https://bcsecurelivehls-i.akamaihd.net/hls/live/680609/1242843915001_8/master.m3u8
+# https://www.cpac.ca/
+#EXTINF:-1 tvg-id="Cable.Public.Affairs.TV.(CPAC).ca" tvg-name="" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC | English
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 tvg-id="Cable.Public.Affairs.TV.(CPAC).ca" tvg-name="" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC | English (OPT-2)
+https://cpac-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 tvg-id="Cable.Public.Affairs.(French).(CPAC).ca" tvg-name="" tvg-country="CA" tvg-language="French" tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC | Francais : on play - setting : toggle audio stream
+https://cpac-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 tvg-id="Cable.Public.Affairs.(French).(CPAC).ca" tvg-name="" tvg-country="CA" tvg-language="French" tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC | francais (OPT-2) : on play - setting : toggle audio stream
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 tvg-id="Cable.Public.Affairs.TV.(CPAC).ca" tvg-name="" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC | English Audio Feed
+https://cpac-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/live-audio_track_0_0_eng=96000.m3u8
+#EXTINF:-1 tvg-id="Cable.Public.Affairs.(French).(CPAC).ca" tvg-name="" tvg-country="CA" tvg-language="French" tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",CPAC | Francais Audio Feed
+https://cpac-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/live-audio_track_1_1_fre=96000.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",cpac (YT) (c_id) (Not 24/7)
 plugin://plugin.video.youtube/play/?channel_id=UCFZSV_So_OaXgXVzgu58tJQ&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KCgFUCQ.png" group-title="Legislative",cpac (STK) (Not 24/7)
@@ -438,8 +436,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCGPU8_iKvmGJwVERzwN0h7Q&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hcyOiFY.jpg" group-title="",KOFO Radio Listening Toronto Area Live 24/7 Scanner Traffic
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCGPU8_iKvmGJwVERzwN0h7Q/live
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="Kids",Knowledge Kids
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="Kids",Knowledge and Kids
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 
 # https://www.youtube.com/channel/UCJI0dlZn0CiOjnS8MuKLFVA
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8I8Lmr7.jpg" group-title="Legislative",Legislative Assembly Alberta (c_id) (YT)

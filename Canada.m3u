@@ -276,6 +276,8 @@ https://cbcsportshd1-f.akamaihd.net/i/cbcsports_1@31211/master.m3u8
 https://cbcsportshd1-f.akamaihd.net/i/cbcsports_2@31187/master.m3u8
 #EXTINF:-1 tvg-id="CBCSports3.ca" tvg-name="CBCSports3 CA" tvg-logo="https://i.imgur.com/1ov9HzY.jpg" group-title="Sports",CBC Sports 3 (Not 24/7)
 https://cbcsportshd1-f.akamaihd.net/i/cbcsports_3@31222/master.m3u8
+#EXTINF:-1 tvg-id="CBCSports3.ca" tvg-name="CBCSports3 CA" tvg-logo="https://i.imgur.com/1ov9HzY.jpg" group-title="Sports",CBC Sports 4 (Not 24/7)
+https://cbcsportshd1-f.akamaihd.net/i/cbcsports_4@60238/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMGwB0O.jpg" group-title="Sport",CBC OC Olympic Channel (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=http://link.theplatform.com/s/ExhSPC/I4J5_4HlEuaO/meta.smil?feed=CBC%20Gem%20Live%20Linear%20-%20PROD&manifest=m3u&format=smil&mbr=true

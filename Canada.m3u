@@ -517,13 +517,47 @@ plugin://plugin.video.twitch/?mode=play&channel_name=novascotiatelevision
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QMtHZwR.png" group-title="",Nova Scotia TV - Dartmouth (STK)
 plugin://plugin.video.sendtokodi/?https://www.twitch.tv/novascotiatelevision
 
-# http://ntv.ca/web-tv/
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="",NTV Newfoundland
-https://2-fss-1.streamhoster.com/pl_122/201748-1282644-1/playlist.m3u8
+# http://ntv.ca/ https://watch.ntv.ca/ http://ntv.ca/schedule/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="",NTV Newfoundland
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="",NTV Newfoundland
+https://2-fss-1.streamhoster.com/pl_122/201748-1282644-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="",NTV Newfoundland (SLT)
 plugin://plugin.video.streamlink-tester/?action=play&url=https://c.streamhoster.com/embed/media/Wwsd4L/iBSBWpa9sr2/S1PftBsAMPu_5
+# http://ntv.ca/web-cams/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="CAM",NTV - St John's Skycam
+https://2-fss-2.streamhoster.com/pl_126/201748-1330900-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="CAM",NTV - Quidi Vidi Lake
+https://2-fss-2.streamhoster.com/pl_126/201748-1288230-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="CAM",NTV - Downtown Cam
+https://2-fss-2.streamhoster.com/pl_126/201748-1336964-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="CAM",NTV - Pub Cam
+https://2-fss-2.streamhoster.com/pl_126/201748-1336960-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="CAM",NTV - Corner Brook
+https://2-fss-2.streamhoster.com/pl_126/201748-1288232-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="CAM",NTV - Grand Falls-Windsor
+https://2-fss-2.streamhoster.com/pl_126/201748-1330902-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="CAM",NTV - Quidi Vidi Gut
+https://2-fss-2.streamhoster.com/pl_126/201748-1529822-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="CAM",NTV - St. Philips
+https://2-fss-2.streamhoster.com/pl_126/201748-1298538-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="CAM",NTV - Logy Bay Road
+https://2-fss-2.streamhoster.com/pl_126/201748-2266290-1/playlist.m3u8
+# http://ntv.ca/weather-centre/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="Weather Animations",NTV - Newfoundland Wind
+http://ntv.ca/weather/animations/4_NF_Wind.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="Weather Animations",NTV - Labrador Wind
+http://ntv.ca/weather/animations/3_Lab_Wind.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="Weather Animations",NTV - Radar
+http://ntv.ca/weather/animations/2_NF_RADAR_WEB.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="Weather Animations",NTV - Radar Sat
+http://ntv.ca/weather/animations/1_NL_SATRAD.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="Weather Animations",NTV - Future Cast
+http://ntv.ca/weather/animations/FUTURECAST_WEB.mp4
+
+# https://www.canadianradiodirectory.com/newfoundland-labrador/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TAHr715.png" group-title="Radio",CHOZ OZFM 94.7mhz St. John's
+http://s7.voscast.com:10876/OZFM#.mp3
 
 # https://saultonline.com/onntv/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h1u4XyU.png" group-title="",ONNtv Ontario (OFFLINE)
@@ -1104,25 +1138,6 @@ plugin://plugin.video.youtube/play/?video_id=-udQfmF3jnM
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0z1qyLf.png" group-title="",Confederation Bridge (YT)
 plugin://plugin.video.youtube/play/?video_id=YqDtoIrU38k
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="",NTV Newfoundland - CAM View of St. John’s Harbour
-https://2-fss-2.streamhoster.com/pl_138/201748-1330900-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="",NTV Newfoundland - CAM View of Quidi Vidi Lake
-https://2-fss-2.streamhoster.com/pl_118/201748-1288230-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="",NTV Newfoundland - CAM View Downtown
-https://2-fss-2.streamhoster.com/pl_120/201748-1336964-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="",NTV Newfoundland - CAM View of George Street looking west
-https://2-fss-2.streamhoster.com/pl_118/201748-1336960-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="",NTV Newfoundland - CAM View of Corner Brook 
-https://2-fss-1.streamhoster.com/pl_122/201748-1288232-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="",NTV Newfoundland - CAM View of the busy intersection of Union Street
-https://2-fss-2.streamhoster.com/pl_138/201748-1330902-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="",NTV Newfoundland - CAM View Of Quidi Vidi Brewery
-https://2-fss-2.streamhoster.com/pl_118/201748-1529822-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X5CJ3jz.png" group-title="",NTV Newfoundland - CAM View of Bell Island
-https://2-fss-2.streamhoster.com/pl_138/201748-1298538-1/playlist.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://github.com/eboutilier/OTT/blob/master/TV-NB.png?raw=true" group-title="Politique",Assemblée législative du Nouveau-Brunswick

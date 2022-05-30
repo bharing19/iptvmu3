@@ -57,6 +57,9 @@ plugin://plugin.video.youtube/play/?channel_id=UCtj2xA6lW9BPE4BxnhxQQkw&live=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Or8lfZY.png" group-title="chaîne de télévision Kabyle",Belmediatv (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/user/bellahdjel/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FQUFWAk.jpg" group-title="Radio",Canadian Pinoy Radio-Montreal (STK) (Non 24/7)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCAEDRKAof_vZLRLVoyIJpgw/live
+
 # https://savoir.tv/endirect
 #EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-name="Canal Savoir CA" tvg-logo="https://i.imgur.com/27PqVAR.png" group-title="Educatif",Canal Savoir (360p)
 https://hls.savoir.media/live/stream.m3u8

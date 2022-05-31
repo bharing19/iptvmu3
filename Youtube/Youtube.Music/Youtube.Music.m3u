@@ -1,0 +1,1407 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aL83Qwa.png" ,★★★★★★★★★★Youtube Music★★★★★★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aL83Qwa.png" ,★★★★★Youtube Music (Addon Send To Kodi Required)★★★★★
+0.0.0.0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XjXl1Lh.jpg" group-title="Music",9eleven beats (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCZHIHJDeN5k34_sw3suCgAw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9RnJKeS.jpg" group-title="Music",947 Joburg (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCYTTndlEZ-zBvVAxtayuNEA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TLnn55L.jpg" group-title="Music",90M Music (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCGhXr3Tp6mYbh1vVk9PedWA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5UYb0H.jpg" group-title="Music",Above & Beyond (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCVE-ybBDg3UHSUylEVdPAsw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rMUUDAo.jpg" group-title="Music",Akashic Records Reggae (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCbKZDwN_OjHLY9uyGR-HZCg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7w7kUJ9.jpg" group-title="Music",Anjunadeep (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCbDgBFAketcO26wz-pR6OKA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PkLtheL.jpg" group-title="Music",Arizona Vibes (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUViGnP6IeTWxqcOWQyqkTg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rvGdoUC.jpg" group-title="Music",AsfaltRecords (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCa1UYrU2QHwfNihohSoMyAw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OtunwlF.jpg" group-title="Music",A State Of Trance (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCalCDSmZAYD73tqVZ4l8yJg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RDXIK1V.jpg" group-title="Music",Ballistic Live (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUztwhbfcaHlWAY3A5Yzymw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4bYjh28.jpg" group-title="Music",Bass Rebels (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC39WpxsSjJ76sAoXf5nRO5w/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j2SEcx9.jpg" group-title="Music",Bass Samurai (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCvIn8USlQCRDvmXWX5_aHuQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/usQRsjQ.jpg" group-title="Music",Bass Waves (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCWqHUzvTCyFprpqtKGKXCPg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ReRZ8f0.jpg" group-title="Music",Best Relaxing Jazz (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCFMtLPz8j06OWRsOjGZBGig/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/03PD2Wp.jpg" group-title="Music",Blues Radio International (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCbzOT-iuTHKN4O6FU1Y1Qmg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjf1hbz.jpg" group-title="Music",Brioni Faith (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCB78IvlyDmKVt45928rGQQg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fN0xO7H.jpg" group-title="Music",Cafe De Anatolia (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC1Tr6S-XLBk1NzNX1jErWMg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3XBbvry.jpg" group-title="Music",Cafe De Anatolia ETHNO WORLD (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCrJ9Cdr93XCbU_waM0gbBqQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tdrKK4p.jpg" group-title="Music",Cafe De Anatolia LOUNGE (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCehwgzlM3jtgWJjkIUgyITw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P70zSgn.jpg" group-title="Music",Camel (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwzwODzBxzW_Cg1LrZWauyw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CyPs4KC.jpg" group-title="Music",Cherry 葵 - Nightcore Radio 24/7 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCrG8mytOLrC_t5vu7To4ajA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wc0Ih0Z.jpg" group-title="Music",CHILLAF (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC6vAEm6jrb8w4jXxVX_v9TQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JiO4Kbd.jpg" group-title="Music",Circus Records (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCN3Qs8QcRcNmn7W-0WHAqgA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9YLuVAY.jpg" group-title="Music",Colorize (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0N5WnyEJPWvPdETBRN0dkg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b3CQ6rV.jpg" group-title="Music",Cryo Chamber (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCVHOgH4XEyYx-ZEaya1XqCQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L6kgQ93.jpg" group-title="Music",Deep Radio (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCj5p6zwE1JNF43uQZrAXowA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Yzweh5m.jpg" group-title="Music",Deep Territory (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCnfmB-zAnhvM13i8CczCA6g/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kek9f0e.jpg" group-title="Music",Defected Records (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCnOxaDXBiBXg9Nn9hKWu6aw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1aUr61p.jpg" group-title="Music",Digital Society Recordings (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCKD47437F_kIe-XF3gtSJmw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tOQ17CK.jpg" group-title="Music",Disco Polo Lajf (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0rdUtnXyfzgQQz25wrkbSQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lDNqOkN.jpg" group-title="Music",DjScenester (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCvNnrOcWTufu15GvcRlU8aA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mOr3x8C.jpg" group-title="Music",DnBRadio - Drum & Bass (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCp4k5evFksXCvBdl6YXrWlw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QsqWxdD.jpg" group-title="Music",Don's Tunes (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCYY_YLVWFI_IZ51Eu6x9bgA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r4JRZJ2.jpg" group-title="Music",Drift Deeper (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-Fz2H1x64qbCIX97_tMR-g/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ny0k3cs.jpg" group-title="Music",DUDEK P56. (OFICJALNY KANAŁ) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCBW0jP0hbFOinfjUlKV-pXg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V25w7Ts.jpg" group-title="Music",EBSM Electro Body Synth Music (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqeULMdbwF6GPONSjKFqT1Q/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B8NyOPp.jpg" group-title="Music",Edmness Music (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCbxvHXK27TjPlxblgrfYqPQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M5cuWbD.jpg" group-title="Music",Electronic Chill (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCnwacgrGqUG9pYaTnYLS0Vw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dLOLMFd.jpg" group-title="Music",ElectroPosé (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCpO0OSNAFLRUpGrNz-bJJHA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8P1JpHJ.jpg" group-title="Music",Elliptical Sun Music (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqs6-itsaTOJkGXXRb_0pbA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lKnDEa6.jpg" group-title="Music",ELLO TV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCXdLsO-b4Xjf0f9xtD_YHzg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7A2whs.jpg" group-title="Music",Enhanced Music (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCGXkgynD9YyoEIVyqpaUElw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cBWrJvQ.jpg" group-title="Music",Epidemic Acoustic (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCm_DCqBaoewBmFJ68JT7H3g/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b4xM2Z2.jpg" group-title="Music",Epidemic Electronic (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMg7TTDtUXq2yTu3uqqoprQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mCHIl7D.jpg" group-title="Music",Fear N Loathing (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCGOHFpsA_rZ3zk2VdQCU2qQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tsd3tZe.jpg" group-title="Music",Fimbul Radio (Live Viking Music 24/7) (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCLTQVYwu-M-MnfOJDKlFnOQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YKePAVl.png" group-title="Music",Fly FM (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCEpTWSFqICafylnJ0tdQpeA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/laXiMO8.jpg" group-title="Music",Gentleman (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCgeu2xe0XRscaKyvBt3WgmQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UWq5cLH.jpg" group-title="Music",Intricate Records (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC-OvFbT6K1aY9nsnmkbsF_g/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gbej9HQ.jpg" group-title="Music",Ivy Station Records (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCv7qaGzuEfLhKxAZf4eZONg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gdc2m0m.jpg" group-title="Music",Jam House (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCtSk2QKfWVeKvVQTOCTBm1g/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXEc7Vl.jpg" group-title="Music",JPatz (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCIa5NEerRvkC2Wd6lRG9xyg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/01OTMmS.jpg" group-title="Music",Keep It Underground (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCrt9lFSd7y1nPQ-L76qE8MQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cQsDBRN.jpg" group-title="Music",Kontor FM (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCjyiHWU_MCr5eus7_2GnZsA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sDnTWyR.jpg" group-title="Music",Mad Radio 106.2 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCzPB5j0mU-0TORZ-7-u8y0w/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vnqYPJe.jpg" group-title="Music",MAD TV GREECE (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCs3cho4vcDuCze0tk3W9iVQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fEVokNi.jpg" group-title="Music",Magic Music Mix (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCIitwYtRrd2JGTTe1B0IAJA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TDpLkGu.png" group-title="Music",Max Oazo - Workout Music (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCeI_Ji5Wc1YQvG2dCHZJINw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ffmBLG.jpg" group-title="Music",Moow Records (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCtNQ8haXrVTkVdQ-DYvh1Xw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RdO0imQ.jpg" group-title="Music",MTV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCxAICW_LdkfFYwTqTHHE0vg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2ymPyXL.jpg" group-title="Music",NCS Arcade (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCiJnBO_XuDsi1SSRAmt4n5g/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QzIgP62.jpg" group-title="Music",NevoMusic (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCkaUg9b9LplVoJdx1JwwyOg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PuSmp8e.jpg" group-title="Music",Nice Guys (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCMmt12UKW571UWtJAgWkWqg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9qVSBY.jpg" group-title="Music",proteh (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCR2D48i5MCMYwVKbgYIAftQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CtZGKzh.jpg" group-title="Music",rare phonk (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC8d8GkPcfQGa8lWAnqhElWg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RjOFeQ3.jpg" group-title="Music",Reflections (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCV8pMjLasWLdoANBOICgahw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qUrwHWK.jpg" group-title="Music",Revealed Music (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCnhHe0_bk_1_0So41vsZvWw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DOquhVh.jpg" group-title="Music",Rtv Music (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCi-aUVwZR5U8GBNOy0CC4ww/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MW2VzkQ.jpg" group-title="Music",Shuffle Radio (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCLKWQY37ITxK3LSsrbsv05A/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rkp8q7r.jpg" group-title="Music",Slow Burn Records (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCoMpldtC-xZTDnMRZSGN3nQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RT3DFtv.jpg" group-title="Music",Solitude Productions (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UClwNBIBuQglLOYKz9TWXCcA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tqwYjmN.jpg" group-title="Music",Spinnin' Records (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCpDJl2EmP7Oh90Vylx0dZtA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zv2MI4j.jpg" group-title="Music",State Azure (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UClKIjbgtWGzHtXhBDS_I0pg/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hYsGM4V.jpg" group-title="Music",Stay See (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCzcn2eAUHZ2Ba3x7hZF6q2w/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WPipoCp.png" group-title="Music",Steppas Records (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCqHGnllp5qGnU7lwGisIA4Q/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9F65CKC.jpg" group-title="Music",Studio Batch 92 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCJ-tVaYhLR8ga6On2KZmmqA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yXE9ERq.jpg" group-title="Music",the bootleg boy 2 (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCwkTfp14Sj7o6q9_8ADJpnA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/obtJWnN.png" group-title="Music",The Insomniac Stream (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCsT_ZVNLmRGMXlLXnepE6kA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1EGAEwH.jpg" group-title="MUSIC",The K-POP (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCoRXPcv8XK5fAplLbk9PTww/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DZdN41j.jpg" group-title="Music",The Psychedelic Muse (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCAepXw94EhaO0CZV9f5D3fQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CSnmkwM.jpg" group-title="Music",Timeless Tracks (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCxE_ukybv-G2JBsBvm5b8hQ/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DOjOcV7.jpg" group-title="Music",TMTV (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCmKkZ6C1NRFC3qrciDfs-Nw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KOexgQ7.png" group-title="Music",Trancentral (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCPvkTCeGc0U7KUL5QVcKF-w/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KfmM46K.jpg" group-title="Music",UPROXX Music (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCI2HI_aQ_S3v4vfDQgNtK1g/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wDM61uY.jpg" group-title="Music",Versus Music (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCigSgBzRaVs1xGuCEEwzuZA/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/77n8aNd.jpg" group-title="Music",WIND MUSIC (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCH1Cy3MZ8BxJLNzOoFb4zOw/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9UResSD.jpg" group-title="Music",Zerothree (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC9Cji0FR8j-E8IVwTT_X3Ug/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aL83Qwa.png" ,★★★★★Youtube Music (Addon Youtube + API Required)★★★★★
+0.0.0.0
+
+# https://www.youtube.com/c/4pmOfficial
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Q7jFTE.jpg" group-title="Music",4pm 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCOTCvT8_hERSqkORg9qQgUQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0Q7jFTE.jpg" group-title="Music",4pm 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCOTCvT8_hERSqkORg9qQgUQ&live=2
+
+# https://www.youtube.com/c/24Relax
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yjKI4N8.jpg" group-title="Music",24Relax 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQFC6xLJy3NzxGXRkaPrlYQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yjKI4N8.jpg" group-title="Music",24Relax 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQFC6xLJy3NzxGXRkaPrlYQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yjKI4N8.jpg" group-title="Music",24Relax 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQFC6xLJy3NzxGXRkaPrlYQ&live=3
+
+# https://www.youtube.com/c/AcrylicLabel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wvai0ni.jpg" group-title="Music",Acrylic Label 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCIfaZ-JCuLzoFNMXRKv8NnA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wvai0ni.jpg" group-title="Music",Acrylic Label 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCIfaZ-JCuLzoFNMXRKv8NnA&live=2
+
+# https://www.youtube.com/channel/UCDf6reK_hHcz0d7KWBhmPhA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbxvjZZ.jpg" group-title="Music",Art of Minimal Techno Trip 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCDf6reK_hHcz0d7KWBhmPhA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbxvjZZ.jpg" group-title="Music",Art of Minimal Techno Trip 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCDf6reK_hHcz0d7KWBhmPhA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbxvjZZ.jpg" group-title="Music",Art of Minimal Techno Trip 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCDf6reK_hHcz0d7KWBhmPhA&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbxvjZZ.jpg" group-title="Music",Art of Minimal Techno Trip 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCDf6reK_hHcz0d7KWBhmPhA&live=4
+
+# https://www.youtube.com/channel/UClvNJkDHdc1gvFGN_Fr_qPw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1I1qBap.jpg" group-title="Music",Artemis Music 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UClvNJkDHdc1gvFGN_Fr_qPw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1I1qBap.jpg" group-title="Music",Artemis Music 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UClvNJkDHdc1gvFGN_Fr_qPw&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1I1qBap.jpg" group-title="Music",Artemis Music 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UClvNJkDHdc1gvFGN_Fr_qPw&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1I1qBap.jpg" group-title="Music",Artemis Music 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UClvNJkDHdc1gvFGN_Fr_qPw&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1I1qBap.jpg" group-title="Music",Artemis Music 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UClvNJkDHdc1gvFGN_Fr_qPw&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1I1qBap.jpg" group-title="Music",Artemis Music 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UClvNJkDHdc1gvFGN_Fr_qPw&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1I1qBap.jpg" group-title="Music",Artemis Music 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UClvNJkDHdc1gvFGN_Fr_qPw&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1I1qBap.jpg" group-title="Music",Artemis Music 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UClvNJkDHdc1gvFGN_Fr_qPw&live=8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1I1qBap.jpg" group-title="Music",Artemis Music 9 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UClvNJkDHdc1gvFGN_Fr_qPw&live=9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1I1qBap.jpg" group-title="Music",Artemis Music 10 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UClvNJkDHdc1gvFGN_Fr_qPw&live=10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1I1qBap.jpg" group-title="Music",Artemis Music 11 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UClvNJkDHdc1gvFGN_Fr_qPw&live=11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1I1qBap.jpg" group-title="Music",Artemis Music 12 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UClvNJkDHdc1gvFGN_Fr_qPw&live=12
+
+# https://www.youtube.com/channel/UC4oGGWLbLp4hfvBViLUwVnw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8dXSVIQ.jpg" group-title="Music",Awesome Music 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC4oGGWLbLp4hfvBViLUwVnw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8dXSVIQ.jpg" group-title="Music",Awesome Music 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC4oGGWLbLp4hfvBViLUwVnw&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8dXSVIQ.jpg" group-title="Music",Awesome Music 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC4oGGWLbLp4hfvBViLUwVnw&live=3
+
+# https://www.youtube.com/channel/UC72KL7bnHVeeFETHOxtvl_g
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5GUubtb.jpg" group-title="Music",Best Russian Music 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC72KL7bnHVeeFETHOxtvl_g&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5GUubtb.jpg" group-title="Music",Best Russian Music 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC72KL7bnHVeeFETHOxtvl_g&live=2
+
+# https://www.youtube.com/channel/UCQINXHZqCU5i06HzxRkujfg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MoYd7ww.jpg" group-title="Music",BGM channel 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQINXHZqCU5i06HzxRkujfg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MoYd7ww.jpg" group-title="Music",BGM channel 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQINXHZqCU5i06HzxRkujfg&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MoYd7ww.jpg" group-title="Music",BGM channel 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQINXHZqCU5i06HzxRkujfg&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MoYd7ww.jpg" group-title="Music",BGM channel 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQINXHZqCU5i06HzxRkujfg&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MoYd7ww.jpg" group-title="Music",BGM channel 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQINXHZqCU5i06HzxRkujfg&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MoYd7ww.jpg" group-title="Music",BGM channel 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQINXHZqCU5i06HzxRkujfg&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MoYd7ww.jpg" group-title="Music",BGM channel 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQINXHZqCU5i06HzxRkujfg&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MoYd7ww.jpg" group-title="Music",BGM channel 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQINXHZqCU5i06HzxRkujfg&live=8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MoYd7ww.jpg" group-title="Music",BGM channel 9 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQINXHZqCU5i06HzxRkujfg&live=9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MoYd7ww.jpg" group-title="Music",BGM channel 10 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQINXHZqCU5i06HzxRkujfg&live=10
+
+# https://www.youtube.com/channel/UCxKxjNPyL9UO5LRWHzp5JxA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S9ypCVx.jpg" group-title="Music",Black&White Music 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCxKxjNPyL9UO5LRWHzp5JxA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S9ypCVx.jpg" group-title="Music",Black&White Music 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCxKxjNPyL9UO5LRWHzp5JxA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S9ypCVx.jpg" group-title="Music",Black&White Music 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCxKxjNPyL9UO5LRWHzp5JxA&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S9ypCVx.jpg" group-title="Music",Black&White Music 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCxKxjNPyL9UO5LRWHzp5JxA&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S9ypCVx.jpg" group-title="Music",Black&White Music 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCxKxjNPyL9UO5LRWHzp5JxA&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S9ypCVx.jpg" group-title="Music",Black&White Music 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCxKxjNPyL9UO5LRWHzp5JxA&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S9ypCVx.jpg" group-title="Music",Black&White Music 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCxKxjNPyL9UO5LRWHzp5JxA&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S9ypCVx.jpg" group-title="Music",Black&White Music 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCxKxjNPyL9UO5LRWHzp5JxA&live=8
+
+# https://www.youtube.com/channel/UCjsFT-AcPA2RuyrlvEcNv1A
+#EXTINF:-1 tvg-logo="https://i.imgur.com/saXlJOh.jpg" group-title="Music",Bossa Coffee Shop 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCjsFT-AcPA2RuyrlvEcNv1A&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/saXlJOh.jpg" group-title="Music",Bossa Coffee Shop 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCjsFT-AcPA2RuyrlvEcNv1A&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/saXlJOh.jpg" group-title="Music",Bossa Coffee Shop 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCjsFT-AcPA2RuyrlvEcNv1A&live=3
+
+# https://www.youtube.com/channel/UC_a3QaX8FwHEgoCKvcOKukA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XcydcAZ.jpg" group-title="Music",Box Hits Fox 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC_a3QaX8FwHEgoCKvcOKukA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XcydcAZ.jpg" group-title="Music",Box Hits Fox 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC_a3QaX8FwHEgoCKvcOKukA&live=2
+
+# https://www.youtube.com/c/cafedelmar
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ukhEXzr.jpg" group-title="Music",Café del Mar (Official) 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCha0QKR45iw7FCUQ3-1PnhQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ukhEXzr.jpg" group-title="Music",Café del Mar (Official) 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCha0QKR45iw7FCUQ3-1PnhQ&live=2
+
+# https://www.youtube.com/channel/UCJhjE7wbdYAae1G25m0tHAA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZMRWIW.jpg" group-title="Music",Cafe Music BGM channel 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJhjE7wbdYAae1G25m0tHAA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZMRWIW.jpg" group-title="Music",Cafe Music BGM channel 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJhjE7wbdYAae1G25m0tHAA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZMRWIW.jpg" group-title="Music",Cafe Music BGM channel 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJhjE7wbdYAae1G25m0tHAA&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZMRWIW.jpg" group-title="Music",Cafe Music BGM channel 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJhjE7wbdYAae1G25m0tHAA&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZMRWIW.jpg" group-title="Music",Cafe Music BGM channel 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJhjE7wbdYAae1G25m0tHAA&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZMRWIW.jpg" group-title="Music",Cafe Music BGM channel 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJhjE7wbdYAae1G25m0tHAA&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZMRWIW.jpg" group-title="Music",Cafe Music BGM channel 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJhjE7wbdYAae1G25m0tHAA&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZMRWIW.jpg" group-title="Music",Cafe Music BGM channel 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJhjE7wbdYAae1G25m0tHAA&live=8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZMRWIW.jpg" group-title="Music",Cafe Music BGM channel 9 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJhjE7wbdYAae1G25m0tHAA&live=9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZMRWIW.jpg" group-title="Music",Cafe Music BGM channel 10 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJhjE7wbdYAae1G25m0tHAA&live=10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZMRWIW.jpg" group-title="Music",Cafe Music BGM channel 11 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJhjE7wbdYAae1G25m0tHAA&live=11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PZMRWIW.jpg" group-title="Music",Cafe Music BGM channel 12 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJhjE7wbdYAae1G25m0tHAA&live=12
+
+# https://www.youtube.com/user/Mega12910
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H2orVx7.jpg" group-title="Music",Chill Vibes Club 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNO8Lmy6s5ibqudOZ6vjNLA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H2orVx7.jpg" group-title="Music",Chill Vibes Club 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNO8Lmy6s5ibqudOZ6vjNLA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H2orVx7.jpg" group-title="Music",Chill Vibes Club 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNO8Lmy6s5ibqudOZ6vjNLA&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H2orVx7.jpg" group-title="Music",Chill Vibes Club 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNO8Lmy6s5ibqudOZ6vjNLA&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H2orVx7.jpg" group-title="Music",Chill Vibes Club 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNO8Lmy6s5ibqudOZ6vjNLA&live=5
+
+# https://www.youtube.com/channel/UCmDM6zuSTROOnZnjlt2RJGQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qzd5LqH.jpg" group-title="Music",ChillYourMind 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCmDM6zuSTROOnZnjlt2RJGQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qzd5LqH.jpg" group-title="Music",ChillYourMind 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCmDM6zuSTROOnZnjlt2RJGQ&live=1
+
+# https://www.youtube.com/c/CollegeMusic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q8wdGPM.jpg" group-title="Music",College Music 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCWzZ5TIGoZ6o-KtbGCyhnhg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q8wdGPM.jpg" group-title="Music",College Music 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCWzZ5TIGoZ6o-KtbGCyhnhg&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q8wdGPM.jpg" group-title="Music",College Music 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCWzZ5TIGoZ6o-KtbGCyhnhg&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q8wdGPM.jpg" group-title="Music",College Music 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCWzZ5TIGoZ6o-KtbGCyhnhg&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q8wdGPM.jpg" group-title="Music",College Music 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCWzZ5TIGoZ6o-KtbGCyhnhg&live=5
+
+# https://www.youtube.com/channel/UCrcfRtdHb11YJEloTSaOYvw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rAXj14A.jpg" group-title="Music",Dark Monkey Music 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCrcfRtdHb11YJEloTSaOYvw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rAXj14A.jpg" group-title="Music",Dark Monkey Music 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCrcfRtdHb11YJEloTSaOYvw&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rAXj14A.jpg" group-title="Music",Dark Monkey Music 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCrcfRtdHb11YJEloTSaOYvw&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rAXj14A.jpg" group-title="Music",Dark Monkey Music 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCrcfRtdHb11YJEloTSaOYvw&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rAXj14A.jpg" group-title="Music",Dark Monkey Music 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCrcfRtdHb11YJEloTSaOYvw&live=5
+
+# https://www.youtube.com/channel/UCoz1lMrTRwDf_woKJKCkA2A
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZDnekoC.jpg" group-title="Music",Deep Disco Records 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCoz1lMrTRwDf_woKJKCkA2A&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZDnekoC.jpg" group-title="Music",Deep Disco Records 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCoz1lMrTRwDf_woKJKCkA2A&live=2
+
+# https://www.youtube.com/channel/UCfA1MFrLwPVf7iI1VBzEEzQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lD9XK4Y.jpg" group-title="Music",Deep Feelings Nation 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCfA1MFrLwPVf7iI1VBzEEzQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lD9XK4Y.jpg" group-title="Music",Deep Feelings Nation 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCfA1MFrLwPVf7iI1VBzEEzQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lD9XK4Y.jpg" group-title="Music",Deep Feelings Nation 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCfA1MFrLwPVf7iI1VBzEEzQ&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lD9XK4Y.jpg" group-title="Music",Deep Feelings Nation 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCfA1MFrLwPVf7iI1VBzEEzQ&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lD9XK4Y.jpg" group-title="Music",Deep Feelings Nation 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCfA1MFrLwPVf7iI1VBzEEzQ&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lD9XK4Y.jpg" group-title="Music",Deep Feelings Nation 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCfA1MFrLwPVf7iI1VBzEEzQ&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lD9XK4Y.jpg" group-title="Music",Deep Feelings Nation 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCfA1MFrLwPVf7iI1VBzEEzQ&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lD9XK4Y.jpg" group-title="Music",Deep Feelings Nation 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCfA1MFrLwPVf7iI1VBzEEzQ&live=8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lD9XK4Y.jpg" group-title="Music",Deep Feelings Nation 9 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCfA1MFrLwPVf7iI1VBzEEzQ&live=9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lD9XK4Y.jpg" group-title="Music",Deep Feelings Nation 10 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCfA1MFrLwPVf7iI1VBzEEzQ&live=10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lD9XK4Y.jpg" group-title="Music",Deep Feelings Nation 11 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCfA1MFrLwPVf7iI1VBzEEzQ&live=11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lD9XK4Y.jpg" group-title="Music",Deep Feelings Nation 12 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCfA1MFrLwPVf7iI1VBzEEzQ&live=12
+
+# https://www.youtube.com/c/DeepLegacy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1UeHitp.jpg" group-title="Music",Deep Legacy 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNpUrH2KLq5dfwU_wohD9fA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1UeHitp.jpg" group-title="Music",Deep Legacy 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNpUrH2KLq5dfwU_wohD9fA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1UeHitp.jpg" group-title="Music",Deep Legacy 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNpUrH2KLq5dfwU_wohD9fA&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1UeHitp.jpg" group-title="Music",Deep Legacy 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNpUrH2KLq5dfwU_wohD9fA&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1UeHitp.jpg" group-title="Music",Deep Legacy 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNpUrH2KLq5dfwU_wohD9fA&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1UeHitp.jpg" group-title="Music",Deep Legacy 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNpUrH2KLq5dfwU_wohD9fA&live=6
+
+# https://www.youtube.com/channel/UCEs4I8yKSsAh2Hll677DPKw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nhx4ysa.jpg" group-title="Music",Deepology 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCEs4I8yKSsAh2Hll677DPKw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nhx4ysa.jpg" group-title="Music",Deepology 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCEs4I8yKSsAh2Hll677DPKw&live=2
+
+# https://www.youtube.com/channel/UC2Ia71WKR-2KqSuya6I_avg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MbKpfCI.jpg" group-title="Music",Deep Mixes 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC2Ia71WKR-2KqSuya6I_avg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MbKpfCI.jpg" group-title="Music",Deep Mixes 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC2Ia71WKR-2KqSuya6I_avg&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MbKpfCI.jpg" group-title="Music",Deep Mixes 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC2Ia71WKR-2KqSuya6I_avg&live=3
+
+# https://www.youtube.com/channel/UCH6jZFM-JmdjELYUDfXmfTg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7vTOZHi.jpg" group-title="Music",Deep Wave 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCH6jZFM-JmdjELYUDfXmfTg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7vTOZHi.jpg" group-title="Music",Deep Wave 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCH6jZFM-JmdjELYUDfXmfTg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7vTOZHi.jpg" group-title="Music",Deep Wave 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCH6jZFM-JmdjELYUDfXmfTg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7vTOZHi.jpg" group-title="Music",Deep Wave 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCH6jZFM-JmdjELYUDfXmfTg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7vTOZHi.jpg" group-title="Music",Deep Wave 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCH6jZFM-JmdjELYUDfXmfTg&live=1
+
+# https://www.youtube.com/channel/UCdgqABAA72AmJzAQUJTt_-Q
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b0FaGkG.jpg" group-title="Music",DG Music - Bass Boosted 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCdgqABAA72AmJzAQUJTt_-Q&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b0FaGkG.jpg" group-title="Music",DG Music - Bass Boosted 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCdgqABAA72AmJzAQUJTt_-Q&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b0FaGkG.jpg" group-title="Music",DG Music - Bass Boosted 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCdgqABAA72AmJzAQUJTt_-Q&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b0FaGkG.jpg" group-title="Music",DG Music - Bass Boosted 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCdgqABAA72AmJzAQUJTt_-Q&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b0FaGkG.jpg" group-title="Music",DG Music - Bass Boosted 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCdgqABAA72AmJzAQUJTt_-Q&live=5
+
+# https://www.youtube.com/channel/UCaXq-C9xPjKQpIvtzV4mTug
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FKcb4u8.jpg" group-title="Music",DG Music - Bass Music 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCaXq-C9xPjKQpIvtzV4mTug&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FKcb4u8.jpg" group-title="Music",DG Music - Bass Music 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCaXq-C9xPjKQpIvtzV4mTug&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FKcb4u8.jpg" group-title="Music",DG Music - Bass Music 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCaXq-C9xPjKQpIvtzV4mTug&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FKcb4u8.jpg" group-title="Music",DG Music - Bass Music 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCaXq-C9xPjKQpIvtzV4mTug&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FKcb4u8.jpg" group-title="Music",DG Music - Bass Music 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCaXq-C9xPjKQpIvtzV4mTug&live=5
+
+# https://www.youtube.com/c/EDMRelaxWithMe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4O8F5CR.jpg" group-title="Music",EDM Relax With Me 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCMqSSFgutr9w7pirHKy7KoQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4O8F5CR.jpg" group-title="Music",EDM Relax With Me 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCMqSSFgutr9w7pirHKy7KoQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4O8F5CR.jpg" group-title="Music",EDM Relax With Me 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCMqSSFgutr9w7pirHKy7KoQ&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4O8F5CR.jpg" group-title="Music",EDM Relax With Me 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCMqSSFgutr9w7pirHKy7KoQ&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4O8F5CR.jpg" group-title="Music",EDM Relax With Me 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCMqSSFgutr9w7pirHKy7KoQ&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4O8F5CR.jpg" group-title="Music",EDM Relax With Me 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCMqSSFgutr9w7pirHKy7KoQ&live=6
+
+# https://www.youtube.com/c/EpidemicPop
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pok70jU.jpg" group-title="Music",Epidemic Pop 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCzMxEa-lDX2AfgotszScOFg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pok70jU.jpg" group-title="Music",Epidemic Pop 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCzMxEa-lDX2AfgotszScOFg&live=2
+
+# https://www.youtube.com/channel/UC2KaFB7GY5R61rRRL_2oo9w
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTd9Wz6.png" group-title="Music",ExpertMusic Business 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC2KaFB7GY5R61rRRL_2oo9w&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTd9Wz6.png" group-title="Music",ExpertMusic Business 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC2KaFB7GY5R61rRRL_2oo9w&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTd9Wz6.png" group-title="Music",ExpertMusic Business 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC2KaFB7GY5R61rRRL_2oo9w&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTd9Wz6.png" group-title="Music",ExpertMusic Business 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC2KaFB7GY5R61rRRL_2oo9w&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTd9Wz6.png" group-title="Music",ExpertMusic Business 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC2KaFB7GY5R61rRRL_2oo9w&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTd9Wz6.png" group-title="Music",ExpertMusic Business 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC2KaFB7GY5R61rRRL_2oo9w&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTd9Wz6.png" group-title="Music",ExpertMusic Business 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC2KaFB7GY5R61rRRL_2oo9w&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VTd9Wz6.png" group-title="Music",ExpertMusic Business 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC2KaFB7GY5R61rRRL_2oo9w&live=8
+
+# https://www.youtube.com/c/FREQUENZY
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KySIotp.png" group-title="Music",frequenzy 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UClRJcsRS9YETAAj0nG_pX6g&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KySIotp.png" group-title="Music",frequenzy 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UClRJcsRS9YETAAj0nG_pX6g&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KySIotp.png" group-title="Music",frequenzy 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UClRJcsRS9YETAAj0nG_pX6g&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KySIotp.png" group-title="Music",frequenzy 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UClRJcsRS9YETAAj0nG_pX6g&live=4
+
+# https://www.youtube.com/c/PerfectSound
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIBR4kq.jpg" group-title="Music",Future House Radio 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCE7gceSq79z8uW7cTe86UaA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIBR4kq.jpg" group-title="Music",Future House Radio 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCE7gceSq79z8uW7cTe86UaA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CIBR4kq.jpg" group-title="Music",Future House Radio 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCE7gceSq79z8uW7cTe86UaA&live=3
+
+# https://www.youtube.com/channel/UCgCxf7jtqPIeSLuF7Gje5hg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XZJ8EWt.jpg" group-title="Music",Go! Deep 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCgCxf7jtqPIeSLuF7Gje5hg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XZJ8EWt.jpg" group-title="Music",Go! Deep 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCgCxf7jtqPIeSLuF7Gje5hg&live=1
+
+# https://www.youtube.com/channel/UCw527CsYYlcRVR3W2ywMV0A
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sK6asNC.jpg" group-title="Music",Helios Deep 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCw527CsYYlcRVR3W2ywMV0A&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sK6asNC.jpg" group-title="Music",Helios Deep 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCw527CsYYlcRVR3W2ywMV0A&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sK6asNC.jpg" group-title="Music",Helios Deep 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCw527CsYYlcRVR3W2ywMV0A&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sK6asNC.jpg" group-title="Music",Helios Deep 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCw527CsYYlcRVR3W2ywMV0A&live=4
+
+# https://www.youtube.com/c/hospitalrecords
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cERl7dT.jpg" group-title="Music",Hospital Records 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCw49uOTAJjGUdoAeUcp7tOg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cERl7dT.jpg" group-title="Music",Hospital Records 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCw49uOTAJjGUdoAeUcp7tOg&live=2
+
+# https://www.youtube.com/channel/UCxHgTz3aZsLY0Ed7jF3stJQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A3aAEvG.jpg" group-title="Music",HQ - Bass Music 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCxHgTz3aZsLY0Ed7jF3stJQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A3aAEvG.jpg" group-title="Music",HQ - Bass Music 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCxHgTz3aZsLY0Ed7jF3stJQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A3aAEvG.jpg" group-title="Music",HQ - Bass Music 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCxHgTz3aZsLY0Ed7jF3stJQ&live=3
+
+# https://www.youtube.com/user/IndieFolkRadio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qI0E4YO.jpg" group-title="Music",Indie & Folk Radio 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCaQXLVrkAbr72huoBS4yIYg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qI0E4YO.jpg" group-title="Music",Indie & Folk Radio 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCaQXLVrkAbr72huoBS4yIYg&live=2
+
+# https://www.youtube.com/c/jekarecord
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bXSkhix.jpg" group-title="Music",JK Records 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJfAgO2DEWq_CAFvP1HPLaQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bXSkhix.jpg" group-title="Music",JK Records 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJfAgO2DEWq_CAFvP1HPLaQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bXSkhix.jpg" group-title="Music",JK Records 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJfAgO2DEWq_CAFvP1HPLaQ&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bXSkhix.jpg" group-title="Music",JK Records 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJfAgO2DEWq_CAFvP1HPLaQ&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bXSkhix.jpg" group-title="Music",JK Records 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJfAgO2DEWq_CAFvP1HPLaQ&live=5
+
+# https://www.youtube.com/channel/UCEAW_kmPVjxTC50vuLyKOQA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BFkrfG5.jpg" group-title="Music",Kral Müzik 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCEAW_kmPVjxTC50vuLyKOQA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BFkrfG5.jpg" group-title="Music",Kral Müzik 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCEAW_kmPVjxTC50vuLyKOQA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BFkrfG5.jpg" group-title="Music",Kral Müzik 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCEAW_kmPVjxTC50vuLyKOQA&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BFkrfG5.jpg" group-title="Music",Kral Müzik 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCEAW_kmPVjxTC50vuLyKOQA&live=4
+
+# https://www.youtube.com/channel/UCf69z7VtcSTygbNKdFn4ELg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Mkgfdx.jpg" group-title="Music",Krelez 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCf69z7VtcSTygbNKdFn4ELg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3Mkgfdx.jpg" group-title="Music",Krelez 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCf69z7VtcSTygbNKdFn4ELg&live=2
+
+# https://www.youtube.com/channel/UCNnQqoYFCqLID3GAMkGtS6A
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgNF1VZ.jpg" group-title="Music",Legend Music - Música Electrónica 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNnQqoYFCqLID3GAMkGtS6A&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgNF1VZ.jpg" group-title="Music",Legend Music - Música Electrónica 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNnQqoYFCqLID3GAMkGtS6A&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgNF1VZ.jpg" group-title="Music",Legend Music - Música Electrónica 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNnQqoYFCqLID3GAMkGtS6A&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgNF1VZ.jpg" group-title="Music",Legend Music - Música Electrónica 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNnQqoYFCqLID3GAMkGtS6A&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgNF1VZ.jpg" group-title="Music",Legend Music - Música Electrónica 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNnQqoYFCqLID3GAMkGtS6A&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgNF1VZ.jpg" group-title="Music",Legend Music - Música Electrónica 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNnQqoYFCqLID3GAMkGtS6A&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgNF1VZ.jpg" group-title="Music",Legend Music - Música Electrónica 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNnQqoYFCqLID3GAMkGtS6A&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgNF1VZ.jpg" group-title="Music",Legend Music - Música Electrónica 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNnQqoYFCqLID3GAMkGtS6A&live=8
+
+# https://www.youtube.com/c/LTBMusic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Wt6RXW.jpg" group-title="Music",LTB Music 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCpNDViJ9ezD1yEY8JaLm5xQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Wt6RXW.jpg" group-title="Music",LTB Music 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCpNDViJ9ezD1yEY8JaLm5xQ&live=2
+
+# https://www.youtube.com/c/MagicClub295
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gH3qqi9.jpg" group-title="Music",Magic Club 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCAJ1rjf90IFwNGlZUYuoP1Q&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gH3qqi9.jpg" group-title="Music",Magic Club 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCAJ1rjf90IFwNGlZUYuoP1Q&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gH3qqi9.jpg" group-title="Music",Magic Club 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCAJ1rjf90IFwNGlZUYuoP1Q&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gH3qqi9.jpg" group-title="Music",Magic Club 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCAJ1rjf90IFwNGlZUYuoP1Q&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gH3qqi9.jpg" group-title="Music",Magic Club 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCAJ1rjf90IFwNGlZUYuoP1Q&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gH3qqi9.jpg" group-title="Music",Magic Club 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCAJ1rjf90IFwNGlZUYuoP1Q&live=6
+
+# https://www.youtube.com/channel/UCQwg3vAuBdMEs7sSvXQtMag
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gqOriNb.jpg" group-title="Music",Magic Club Mix 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQwg3vAuBdMEs7sSvXQtMag&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gqOriNb.jpg" group-title="Music",Magic Club Mix 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQwg3vAuBdMEs7sSvXQtMag&live=2
+
+# https://www.youtube.com/c/MaxiMusicRadio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DTuC1DE.jpg" group-title="Music",Maxi Music Radio 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCb4KNX6YdplctHGwWF34Kuw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DTuC1DE.jpg" group-title="Music",Maxi Music Radio 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCb4KNX6YdplctHGwWF34Kuw&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DTuC1DE.jpg" group-title="Music",Maxi Music Radio 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCb4KNX6YdplctHGwWF34Kuw&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DTuC1DE.jpg" group-title="Music",Maxi Music Radio 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCb4KNX6YdplctHGwWF34Kuw&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DTuC1DE.jpg" group-title="Music",Maxi Music Radio 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCb4KNX6YdplctHGwWF34Kuw&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DTuC1DE.jpg" group-title="Music",Maxi Music Radio 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCb4KNX6YdplctHGwWF34Kuw&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DTuC1DE.jpg" group-title="Music",Maxi Music Radio 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCb4KNX6YdplctHGwWF34Kuw&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DTuC1DE.jpg" group-title="Music",Maxi Music Radio 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCb4KNX6YdplctHGwWF34Kuw&live=8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DTuC1DE.jpg" group-title="Music",Maxi Music Radio 9 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCb4KNX6YdplctHGwWF34Kuw&live=9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DTuC1DE.jpg" group-title="Music",Maxi Music Radio 10 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCb4KNX6YdplctHGwWF34Kuw&live=10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DTuC1DE.jpg" group-title="Music",Maxi Music Radio 11 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCb4KNX6YdplctHGwWF34Kuw&live=17
+
+# https://www.youtube.com/c/Memphis666
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ZIFXMl.jpg" group-title="Music",Memphis 66.6 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCDDZK1QYIHo-wHl0RR82Ryw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ZIFXMl.jpg" group-title="Music",Memphis 66.6 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCDDZK1QYIHo-wHl0RR82Ryw&live=2
+
+# https://www.youtube.com/c/MinimalGroupOfficial
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9pmvIU5.jpg" group-title="Music",Minimal Group 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCqY3gnYuuzONai4jUhnCv6g&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9pmvIU5.jpg" group-title="Music",Minimal Group 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCqY3gnYuuzONai4jUhnCv6g&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9pmvIU5.jpg" group-title="Music",Minimal Group 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCqY3gnYuuzONai4jUhnCv6g&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9pmvIU5.jpg" group-title="Music",Minimal Group 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCqY3gnYuuzONai4jUhnCv6g&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9pmvIU5.jpg" group-title="Music",Minimal Group 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCqY3gnYuuzONai4jUhnCv6g&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9pmvIU5.jpg" group-title="Music",Minimal Group 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCqY3gnYuuzONai4jUhnCv6g&live=6
+
+# https://www.youtube.com/channel/UCTJ9Qg-1vBu2pP_YrWUfGnQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EgqHg0j.jpg" group-title="Music",Miracle Music 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCTJ9Qg-1vBu2pP_YrWUfGnQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EgqHg0j.jpg" group-title="Music",Miracle Music 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCTJ9Qg-1vBu2pP_YrWUfGnQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EgqHg0j.jpg" group-title="Music",Miracle Music 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCTJ9Qg-1vBu2pP_YrWUfGnQ&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EgqHg0j.jpg" group-title="Music",Miracle Music 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCTJ9Qg-1vBu2pP_YrWUfGnQ&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EgqHg0j.jpg" group-title="Music",Miracle Music 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCTJ9Qg-1vBu2pP_YrWUfGnQ&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EgqHg0j.jpg" group-title="Music",Miracle Music 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCTJ9Qg-1vBu2pP_YrWUfGnQ&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EgqHg0j.jpg" group-title="Music",Miracle Music 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCTJ9Qg-1vBu2pP_YrWUfGnQ&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EgqHg0j.jpg" group-title="Music",Miracle Music 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCTJ9Qg-1vBu2pP_YrWUfGnQ&live=8
+
+# https://www.youtube.com/c/MonstafluffMusic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/THg6sAt.jpg" group-title="Music",Monstafluff Music 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCMwePVHRpDdfeUcwtDZu2Dw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/THg6sAt.jpg" group-title="Music",Monstafluff Music 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCMwePVHRpDdfeUcwtDZu2Dw&live=2
+
+# https://www.youtube.com/channel/UCX4sShAQf01LYjYQhG2ZgKg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GZlKSfp.jpg" group-title="Music",Monstercat Silk 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCX4sShAQf01LYjYQhG2ZgKg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GZlKSfp.jpg" group-title="Music",Monstercat Silk 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCX4sShAQf01LYjYQhG2ZgKg&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GZlKSfp.jpg" group-title="Music",Monstercat Silk 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCX4sShAQf01LYjYQhG2ZgKg&live=3
+
+# https://www.youtube.com/c/musicbrokers
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dRgbYFo.jpg" group-title="Music",Music Brokers 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCyKs4L4EULCfySbTybA9bAg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dRgbYFo.jpg" group-title="Music",Music Brokers 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCyKs4L4EULCfySbTybA9bAg&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dRgbYFo.jpg" group-title="Music",Music Brokers 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCyKs4L4EULCfySbTybA9bAg&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dRgbYFo.jpg" group-title="Music",Music Brokers 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCyKs4L4EULCfySbTybA9bAg&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dRgbYFo.jpg" group-title="Music",Music Brokers 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCyKs4L4EULCfySbTybA9bAg&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dRgbYFo.jpg" group-title="Music",Music Brokers 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCyKs4L4EULCfySbTybA9bAg&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dRgbYFo.jpg" group-title="Music",Music Brokers 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCyKs4L4EULCfySbTybA9bAg&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dRgbYFo.jpg" group-title="Music",Music Brokers 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCyKs4L4EULCfySbTybA9bAg&live=8
+
+# https://www.youtube.com/channel/UCKU0iO0axnimO3b0G-BOO_g
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3DM3WXd.jpg" group-title="Music",Music UC 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKU0iO0axnimO3b0G-BOO_g&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3DM3WXd.jpg" group-title="Music",Music UC 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKU0iO0axnimO3b0G-BOO_g&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3DM3WXd.jpg" group-title="Music",Music UC 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKU0iO0axnimO3b0G-BOO_g&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3DM3WXd.jpg" group-title="Music",Music UC 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKU0iO0axnimO3b0G-BOO_g&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3DM3WXd.jpg" group-title="Music",Music UC 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKU0iO0axnimO3b0G-BOO_g&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3DM3WXd.jpg" group-title="Music",Music UC 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKU0iO0axnimO3b0G-BOO_g&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3DM3WXd.jpg" group-title="Music",Music UC 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKU0iO0axnimO3b0G-BOO_g&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3DM3WXd.jpg" group-title="Music",Music UC 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKU0iO0axnimO3b0G-BOO_g&live=8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3DM3WXd.jpg" group-title="Music",Music UC 9 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKU0iO0axnimO3b0G-BOO_g&live=9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3DM3WXd.jpg" group-title="Music",Music UC 10 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKU0iO0axnimO3b0G-BOO_g&live=10
+
+# https://www.youtube.com/channel/UCC9rwt1T2i4klATksN6prdQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jmNhzTp.jpg" group-title="Music",N&T Party 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCC9rwt1T2i4klATksN6prdQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jmNhzTp.jpg" group-title="Music",N&T Party 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCC9rwt1T2i4klATksN6prdQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jmNhzTp.jpg" group-title="Music",N&T Party 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCC9rwt1T2i4klATksN6prdQ&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jmNhzTp.jpg" group-title="Music",N&T Party 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCC9rwt1T2i4klATksN6prdQ&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jmNhzTp.jpg" group-title="Music",N&T Party 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCC9rwt1T2i4klATksN6prdQ&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jmNhzTp.jpg" group-title="Music",N&T Party 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCC9rwt1T2i4klATksN6prdQ&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jmNhzTp.jpg" group-title="Music",N&T Party 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCC9rwt1T2i4klATksN6prdQ&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jmNhzTp.jpg" group-title="Music",N&T Party 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCC9rwt1T2i4klATksN6prdQ&live=8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jmNhzTp.jpg" group-title="Music",N&T Party 9 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCC9rwt1T2i4klATksN6prdQ&live=9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jmNhzTp.jpg" group-title="Music",N&T Party 10 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCC9rwt1T2i4klATksN6prdQ&live=10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jmNhzTp.jpg" group-title="Music",N&T Party 11 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCC9rwt1T2i4klATksN6prdQ&live=11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jmNhzTp.jpg" group-title="Music",N&T Party 12 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCC9rwt1T2i4klATksN6prdQ&live=12
+
+# https://www.youtube.com/c/NightrideFM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Na4Libu.jpg" group-title="Music",Nightride FM 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJ80_CMnIOrKtMyFbIFIQ7A&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Na4Libu.jpg" group-title="Music",Nightride FM 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJ80_CMnIOrKtMyFbIFIQ7A&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Na4Libu.jpg" group-title="Music",Nightride FM 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJ80_CMnIOrKtMyFbIFIQ7A&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Na4Libu.jpg" group-title="Music",Nightride FM 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCJ80_CMnIOrKtMyFbIFIQ7A&live=4
+
+# https://www.youtube.com/c/JackFrancisComposer
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CHiJTcv.jpg" group-title="Music",OCB Relax Music 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCb1ANUIW7arUUDI-Mwz65rw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CHiJTcv.jpg" group-title="Music",OCB Relax Music 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCb1ANUIW7arUUDI-Mwz65rw&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CHiJTcv.jpg" group-title="Music",OCB Relax Music 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCb1ANUIW7arUUDI-Mwz65rw&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CHiJTcv.jpg" group-title="Music",OCB Relax Music 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCb1ANUIW7arUUDI-Mwz65rw&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CHiJTcv.jpg" group-title="Music",OCB Relax Music 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCb1ANUIW7arUUDI-Mwz65rw&live=5
+
+# https://www.youtube.com/c/OldWorldRadio2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zUVcM9o.jpg" group-title="Music",Old World Radio 2 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCihCtNZnFkG62U4na9JsPJQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zUVcM9o.jpg" group-title="Music",Old World Radio 2 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCihCtNZnFkG62U4na9JsPJQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zUVcM9o.jpg" group-title="Music",Old World Radio 2 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCihCtNZnFkG62U4na9JsPJQ&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zUVcM9o.jpg" group-title="Music",Old World Radio 2 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCihCtNZnFkG62U4na9JsPJQ&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zUVcM9o.jpg" group-title="Music",Old World Radio 2 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCihCtNZnFkG62U4na9JsPJQ&live=4
+
+# https://www.youtube.com/c/petebellis
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xfl8NHg.jpg" group-title="Music",Pete Bellis & Tommy 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCPaLi5xEyzuffjwXHJfeBJQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xfl8NHg.jpg" group-title="Music",Pete Bellis & Tommy 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCPaLi5xEyzuffjwXHJfeBJQ&live=2
+
+# https://www.youtube.com/channel/UCMU_0vDdmJgffx3Yqby5qAw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ve91Vaf.jpg" group-title="Music",Pillezky [Radio] 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCMU_0vDdmJgffx3Yqby5qAw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ve91Vaf.jpg" group-title="Music",Pillezky [Radio] 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCMU_0vDdmJgffx3Yqby5qAw&live=2
+
+# https://www.youtube.com/channel/UC-Pw4XjmhDgQwMO6PBT_FFA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e7leZw1.jpg" group-title="Music",Pill Of Trance 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC-Pw4XjmhDgQwMO6PBT_FFA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e7leZw1.jpg" group-title="Music",Pill Of Trance 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC-Pw4XjmhDgQwMO6PBT_FFA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e7leZw1.jpg" group-title="Music",Pill Of Trance 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC-Pw4XjmhDgQwMO6PBT_FFA&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e7leZw1.jpg" group-title="Music",Pill Of Trance 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC-Pw4XjmhDgQwMO6PBT_FFA&live=4
+
+# https://www.youtube.com/channel/UCKHw0rWmF4alXQ2oRUxByKA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgRtIoP.jpg" group-title="Music",Pill Rave [Records] 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKHw0rWmF4alXQ2oRUxByKA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KgRtIoP.jpg" group-title="Music",Pill Rave [Records] 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKHw0rWmF4alXQ2oRUxByKA&live=2
+
+# https://www.youtube.com/user/snakedemente
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YcmHLN7.jpg" group-title="Music",Playlists Kool 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCGYd74QGEh7Bhu0GVtIZ6Fg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YcmHLN7.jpg" group-title="Music",Playlists Kool 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCGYd74QGEh7Bhu0GVtIZ6Fg&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YcmHLN7.jpg" group-title="Music",Playlists Kool 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCGYd74QGEh7Bhu0GVtIZ6Fg&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YcmHLN7.jpg" group-title="Music",Playlists Kool 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCGYd74QGEh7Bhu0GVtIZ6Fg&live=4
+
+# https://www.youtube.com/channel/UCFm4zM6-08kb9abXDk4fxXQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/myMMQuQ.jpg" group-title="Music",PMB Music 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCFm4zM6-08kb9abXDk4fxXQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/myMMQuQ.jpg" group-title="Music",PMB Music 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCFm4zM6-08kb9abXDk4fxXQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/myMMQuQ.jpg" group-title="Music",PMB Music 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCFm4zM6-08kb9abXDk4fxXQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/myMMQuQ.jpg" group-title="Music",PMB Music 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCFm4zM6-08kb9abXDk4fxXQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/myMMQuQ.jpg" group-title="Music",PMB Music 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCFm4zM6-08kb9abXDk4fxXQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/myMMQuQ.jpg" group-title="Music",PMB Music 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCFm4zM6-08kb9abXDk4fxXQ&live=1
+
+# https://www.youtube.com/channel/UC9qr4fem8L5HEx0IDoktEpw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/awW2GaN.jpg" group-title="Music",Pop Internacionais 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC9qr4fem8L5HEx0IDoktEpw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/awW2GaN.jpg" group-title="Music",Pop Internacionais 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC9qr4fem8L5HEx0IDoktEpw&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/awW2GaN.jpg" group-title="Music",Pop Internacionais 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC9qr4fem8L5HEx0IDoktEpw&live=3
+
+# https://www.youtube.com/channel/UCTS9U13K42rCcRWJsdPW8yA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nATl2yO.jpg" group-title="Music",Queen Deep 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCTS9U13K42rCcRWJsdPW8yA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nATl2yO.jpg" group-title="Music",Queen Deep 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCTS9U13K42rCcRWJsdPW8yA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nATl2yO.jpg" group-title="Music",Queen Deep 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCTS9U13K42rCcRWJsdPW8yA&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nATl2yO.jpg" group-title="Music",Queen Deep 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCTS9U13K42rCcRWJsdPW8yA&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nATl2yO.jpg" group-title="Music",Queen Deep 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCTS9U13K42rCcRWJsdPW8yA&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nATl2yO.jpg" group-title="Music",Queen Deep 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCTS9U13K42rCcRWJsdPW8yA&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nATl2yO.jpg" group-title="Music",Queen Deep 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCTS9U13K42rCcRWJsdPW8yA&live=7
+
+# https://www.youtube.com/c/RadioRecordRussia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLrQE0m.jpg" group-title="Music",Radio Record 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRKIdBctvF1TY9z62m-jazg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLrQE0m.jpg" group-title="Music",Radio Record 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRKIdBctvF1TY9z62m-jazg&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLrQE0m.jpg" group-title="Music",Radio Record 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRKIdBctvF1TY9z62m-jazg&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLrQE0m.jpg" group-title="Music",Radio Record 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRKIdBctvF1TY9z62m-jazg&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLrQE0m.jpg" group-title="Music",Radio Record 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRKIdBctvF1TY9z62m-jazg&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLrQE0m.jpg" group-title="Music",Radio Record 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRKIdBctvF1TY9z62m-jazg&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLrQE0m.jpg" group-title="Music",Radio Record 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRKIdBctvF1TY9z62m-jazg&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLrQE0m.jpg" group-title="Music",Radio Record 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRKIdBctvF1TY9z62m-jazg&live=8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLrQE0m.jpg" group-title="Music",Radio Record 9 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRKIdBctvF1TY9z62m-jazg&live=9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLrQE0m.jpg" group-title="Music",Radio Record 10 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRKIdBctvF1TY9z62m-jazg&live=10
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLrQE0m.jpg" group-title="Music",Radio Record 11 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRKIdBctvF1TY9z62m-jazg&live=11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLrQE0m.jpg" group-title="Music",Radio Record 12 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRKIdBctvF1TY9z62m-jazg&live=12
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FLrQE0m.jpg" group-title="Music",Radio Record 13 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCRKIdBctvF1TY9z62m-jazg&live=13
+
+# https://www.youtube.com/c/RadioTubeTR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OVbFi4I.jpg" group-title="Music",Radio Tube 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC2Zgju5LSmKlDjjVwE3EhAA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OVbFi4I.jpg" group-title="Music",Radio Tube 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC2Zgju5LSmKlDjjVwE3EhAA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OVbFi4I.jpg" group-title="Music",Radio Tube 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC2Zgju5LSmKlDjjVwE3EhAA&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OVbFi4I.jpg" group-title="Music",Radio Tube 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC2Zgju5LSmKlDjjVwE3EhAA&live=4
+
+# https://www.youtube.com/c/RapMafia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/olQmXYP.jpg" group-title="Music",Rap Mafia 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC-MMd_17p3qNSTVbLdiYzow&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/olQmXYP.jpg" group-title="Music",Rap Mafia 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC-MMd_17p3qNSTVbLdiYzow&live=2
+
+# https://www.youtube.com/c/RazNitzanMusic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rDsOd2y.jpg" group-title="Music",RazNitzanMusic 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCsoHXOnM64WwLccxTgwQ-KQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rDsOd2y.jpg" group-title="Music",RazNitzanMusic 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCsoHXOnM64WwLccxTgwQ-KQ&live=2
+
+# https://www.youtube.com/c/RelaxCafeMusic/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yC76gCe.jpg" group-title="Music",Relax Cafe Music 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCaCE5pzy49M8nQ59plgmFOA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yC76gCe.jpg" group-title="Music",Relax Cafe Music 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCaCE5pzy49M8nQ59plgmFOA&live=2
+
+# https://www.youtube.com/c/RelaxMixer
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NPhT5AO.jpg" group-title="Music",Relax Mixer : Calm Ambience 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCCSlVfJRvuDSxCsRAQf4S-w&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NPhT5AO.jpg" group-title="Music",Relax Mixer : Calm Ambience 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCCSlVfJRvuDSxCsRAQf4S-w&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NPhT5AO.jpg" group-title="Music",Relax Mixer : Calm Ambience 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCCSlVfJRvuDSxCsRAQf4S-w&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NPhT5AO.jpg" group-title="Music",Relax Mixer : Calm Ambience 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCCSlVfJRvuDSxCsRAQf4S-w&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NPhT5AO.jpg" group-title="Music",Relax Mixer : Calm Ambience 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCCSlVfJRvuDSxCsRAQf4S-w&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NPhT5AO.jpg" group-title="Music",Relax Mixer : Calm Ambience 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCCSlVfJRvuDSxCsRAQf4S-w&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NPhT5AO.jpg" group-title="Music",Relax Mixer : Calm Ambience 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCCSlVfJRvuDSxCsRAQf4S-w&live=7
+
+# https://www.youtube.com/channel/UC7bX_RrH3zbdp5V4j5umGgw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oyhw7Ng.jpg" group-title="Music",Relax Music 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC7bX_RrH3zbdp5V4j5umGgw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oyhw7Ng.jpg" group-title="Music",Relax Music 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC7bX_RrH3zbdp5V4j5umGgw&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oyhw7Ng.jpg" group-title="Music",Relax Music 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC7bX_RrH3zbdp5V4j5umGgw&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oyhw7Ng.jpg" group-title="Music",Relax Music 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC7bX_RrH3zbdp5V4j5umGgw&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oyhw7Ng.jpg" group-title="Music",Relax Music 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC7bX_RrH3zbdp5V4j5umGgw&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oyhw7Ng.jpg" group-title="Music",Relax Music 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC7bX_RrH3zbdp5V4j5umGgw&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oyhw7Ng.jpg" group-title="Music",Relax Music 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC7bX_RrH3zbdp5V4j5umGgw&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oyhw7Ng.jpg" group-title="Music",Relax Music 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC7bX_RrH3zbdp5V4j5umGgw&live=8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oyhw7Ng.jpg" group-title="Music",Relax Music 9 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC7bX_RrH3zbdp5V4j5umGgw&live=9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oyhw7Ng.jpg" group-title="Music",Relax Music 10 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC7bX_RrH3zbdp5V4j5umGgw&live=10
+
+# https://www.youtube.com/c/RGNmusic
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xgD9zpm.jpg" group-title="Music",RGN 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCScsWMNqHAIjEUMIl7z2pbw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xgD9zpm.jpg" group-title="Music",RGN 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCScsWMNqHAIjEUMIl7z2pbw&live=2
+
+# https://www.youtube.com/channel/UCcMIaCFi8d6tj34TUEFm6Mw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IklwHm7.jpg" group-title="Music",Rock For You 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCcMIaCFi8d6tj34TUEFm6Mw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IklwHm7.jpg" group-title="Music",Rock For You 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCcMIaCFi8d6tj34TUEFm6Mw&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IklwHm7.jpg" group-title="Music",Rock For You 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCcMIaCFi8d6tj34TUEFm6Mw&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IklwHm7.jpg" group-title="Music",Rock For You 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCcMIaCFi8d6tj34TUEFm6Mw&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IklwHm7.jpg" group-title="Music",Rock For You 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCcMIaCFi8d6tj34TUEFm6Mw&live=5
+
+# https://www.youtube.com/channel/UCiIWdzEVNH8okhlapR9a-xA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/znmch4G.jpg" group-title="Music",Rock Music 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCiIWdzEVNH8okhlapR9a-xA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/znmch4G.jpg" group-title="Music",Rock Music 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCiIWdzEVNH8okhlapR9a-xA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/znmch4G.jpg" group-title="Music",Rock Music 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCiIWdzEVNH8okhlapR9a-xA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/znmch4G.jpg" group-title="Music",Rock Music 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCiIWdzEVNH8okhlapR9a-xA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/znmch4G.jpg" group-title="Music",Rock Music 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCiIWdzEVNH8okhlapR9a-xA&live=1
+
+# https://www.youtube.com/user/ChannelSNTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYmDlg0.jpg" group-title="Music",Romantic Piano 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCyNjOVtEqv_0xrLf-dvNCpw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dYmDlg0.jpg" group-title="Music",Romantic Piano 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCyNjOVtEqv_0xrLf-dvNCpw&live=1
+
+# https://www.youtube.com/c/RUDEEP-NO1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XOATjO1.jpg" group-title="Music",RU - DEEP 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCmkzwRz2b_Bzi7CnWcCqGZA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XOATjO1.jpg" group-title="Music",RU - DEEP 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCmkzwRz2b_Bzi7CnWcCqGZA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XOATjO1.jpg" group-title="Music",RU - DEEP 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCmkzwRz2b_Bzi7CnWcCqGZA&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XOATjO1.jpg" group-title="Music",RU - DEEP 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCmkzwRz2b_Bzi7CnWcCqGZA&live=4
+
+# https://www.youtube.com/channel/UC3-KaS-XEv6atGIHNk2payQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o09ht5k.jpg" group-title="Music",Sarah Menescal 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC3-KaS-XEv6atGIHNk2payQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o09ht5k.jpg" group-title="Music",Sarah Menescal 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC3-KaS-XEv6atGIHNk2payQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o09ht5k.jpg" group-title="Music",Sarah Menescal 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC3-KaS-XEv6atGIHNk2payQ&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o09ht5k.jpg" group-title="Music",Sarah Menescal 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC3-KaS-XEv6atGIHNk2payQ&live=4
+
+# https://www.youtube.com/channel/UCXRNDIccfjKqa2ggI6MeY_w
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XTblIdm.jpg" group-title="Music",Shop Café Vintage 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCXRNDIccfjKqa2ggI6MeY_w&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XTblIdm.jpg" group-title="Music",Shop Café Vintage 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCXRNDIccfjKqa2ggI6MeY_w&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XTblIdm.jpg" group-title="Music",Shop Café Vintage 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCXRNDIccfjKqa2ggI6MeY_w&live=3
+
+# https://www.youtube.com/channel/UCoAar8yGHsD7FcGrWz3rxFg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jORyt78.jpg" group-title="Music",Slap House 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCoAar8yGHsD7FcGrWz3rxFg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jORyt78.jpg" group-title="Music",Slap House 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCoAar8yGHsD7FcGrWz3rxFg&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jORyt78.jpg" group-title="Music",Slap House 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCoAar8yGHsD7FcGrWz3rxFg&live=3
+
+# https://www.youtube.com/channel/UCv7YyZqMZOHlguozyLp4wdg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uqgqB6q.jpg" group-title="Music",Soft Rock Ever 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCv7YyZqMZOHlguozyLp4wdg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uqgqB6q.jpg" group-title="Music",Soft Rock Ever 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCv7YyZqMZOHlguozyLp4wdg&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uqgqB6q.jpg" group-title="Music",Soft Rock Ever 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCv7YyZqMZOHlguozyLp4wdg&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uqgqB6q.jpg" group-title="Music",Soft Rock Ever 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCv7YyZqMZOHlguozyLp4wdg&live=4
+
+# https://www.youtube.com/c/SoothingRelaxation
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FhuF6Tf.jpg" group-title="Music",Soothing Relaxation 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCjzHeG1KWoonmf9d5KBvSiw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FhuF6Tf.jpg" group-title="Music",Soothing Relaxation 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCjzHeG1KWoonmf9d5KBvSiw&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FhuF6Tf.jpg" group-title="Music",Soothing Relaxation 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCjzHeG1KWoonmf9d5KBvSiw&live=3
+
+# https://www.youtube.com/channel/UC961ko9mCxvoHaeMUJb4Lfg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbHvX1R.jpg" group-title="Music",Spirit Tribe Awakening 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC961ko9mCxvoHaeMUJb4Lfg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbHvX1R.jpg" group-title="Music",Spirit Tribe Awakening 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC961ko9mCxvoHaeMUJb4Lfg&live=2
+
+# https://www.youtube.com/channel/UCQJwQEiPNmhEjcikg36NYgQ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uMBKtst.jpg" group-title="Music",Soul Deep Collection 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQJwQEiPNmhEjcikg36NYgQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uMBKtst.jpg" group-title="Music",Soul Deep Collection 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQJwQEiPNmhEjcikg36NYgQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uMBKtst.jpg" group-title="Music",Soul Deep Collection 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQJwQEiPNmhEjcikg36NYgQ&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uMBKtst.jpg" group-title="Music",Soul Deep Collection 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQJwQEiPNmhEjcikg36NYgQ&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uMBKtst.jpg" group-title="Music",Soul Deep Collection 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQJwQEiPNmhEjcikg36NYgQ&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uMBKtst.jpg" group-title="Music",Soul Deep Collection 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQJwQEiPNmhEjcikg36NYgQ&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uMBKtst.jpg" group-title="Music",Soul Deep Collection 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQJwQEiPNmhEjcikg36NYgQ&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uMBKtst.jpg" group-title="Music",Soul Deep Collection 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCQJwQEiPNmhEjcikg36NYgQ&live=8
+
+# https://www.youtube.com/channel/UCqWgRrEdjP35XiULZIruR8A
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9gypPjo.jpg" group-title="Music",Sunkissed 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCqWgRrEdjP35XiULZIruR8A&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9gypPjo.jpg" group-title="Music",Sunkissed 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCqWgRrEdjP35XiULZIruR8A&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9gypPjo.jpg" group-title="Music",Sunkissed 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCqWgRrEdjP35XiULZIruR8A&live=3
+
+# https://www.youtube.com/channel/UCCnkv5jgU1zR_8IxKEyzSrg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JiHh9cm.jpg" group-title="Music",Sweet Music 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCCnkv5jgU1zR_8IxKEyzSrg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JiHh9cm.jpg" group-title="Music",Sweet Music 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCCnkv5jgU1zR_8IxKEyzSrg&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JiHh9cm.jpg" group-title="Music",Sweet Music 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCCnkv5jgU1zR_8IxKEyzSrg&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JiHh9cm.jpg" group-title="Music",Sweet Music 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCCnkv5jgU1zR_8IxKEyzSrg&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JiHh9cm.jpg" group-title="Music",Sweet Music 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCCnkv5jgU1zR_8IxKEyzSrg&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JiHh9cm.jpg" group-title="Music",Sweet Music 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCCnkv5jgU1zR_8IxKEyzSrg&live=6
+
+# https://www.youtube.com/c/The80sGuy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ubb82LN.jpg" group-title="Music",The '80s Guy 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC6ghlxmJNMd8BE_u1HR-bTg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ubb82LN.jpg" group-title="Music",The '80s Guy 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC6ghlxmJNMd8BE_u1HR-bTg&live=2
+
+# https://www.youtube.com/channel/UC0fiLCwTmAukotCXYnqfj0A
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B5xd1hF.jpg" group-title="Music",the bootleg boy 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC0fiLCwTmAukotCXYnqfj0A&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B5xd1hF.jpg" group-title="Music",the bootleg boy 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC0fiLCwTmAukotCXYnqfj0A&live=2
+
+# https://www.youtube.com/channel/UChs0pSaEoNLV4mevBFGaoKA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wxPvAkL.jpg" group-title="Music",The Good Life Radio x Sensual Musique 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UChs0pSaEoNLV4mevBFGaoKA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wxPvAkL.jpg" group-title="Music",The Good Life Radio x Sensual Musique 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UChs0pSaEoNLV4mevBFGaoKA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wxPvAkL.jpg" group-title="Music",The Good Life Radio x Sensual Musique 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UChs0pSaEoNLV4mevBFGaoKA&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wxPvAkL.jpg" group-title="Music",The Good Life Radio x Sensual Musique 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UChs0pSaEoNLV4mevBFGaoKA&live=4
+
+# https://www.youtube.com/c/TheGrandSound
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0b3XysP.jpg" group-title="Music",The Grand Sound 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC14ap4T608Zz_Mz4eezhIqw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0b3XysP.jpg" group-title="Music",The Grand Sound 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UC14ap4T608Zz_Mz4eezhIqw&live=2
+
+# https://www.youtube.com/c/tomorrowland
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlcqJu0.jpg" group-title="Music",Tomorrowland (YT) 1 (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCsN8M73DMWa8SPp5o_0IAQQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GlcqJu0.jpg" group-title="Music",Tomorrowland (YT) 2 (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCsN8M73DMWa8SPp5o_0IAQQ&live=2
+
+# https://www.youtube.com/c/toostmusicBESTWORLDMUSIC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M1QsZJf.jpg" group-title="Music",TOOST MUSIC - Best World Music 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCOEpW998qV0oDnAFNFE3PTA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M1QsZJf.jpg" group-title="Music",TOOST MUSIC - Best World Music 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCOEpW998qV0oDnAFNFE3PTA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M1QsZJf.jpg" group-title="Music",TOOST MUSIC - Best World Music 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCOEpW998qV0oDnAFNFE3PTA&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M1QsZJf.jpg" group-title="Music",TOOST MUSIC - Best World Music 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCOEpW998qV0oDnAFNFE3PTA&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M1QsZJf.jpg" group-title="Music",TOOST MUSIC - Best World Music 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCOEpW998qV0oDnAFNFE3PTA&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M1QsZJf.jpg" group-title="Music",TOOST MUSIC - Best World Music 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCOEpW998qV0oDnAFNFE3PTA&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M1QsZJf.jpg" group-title="Music",TOOST MUSIC - Best World Music 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCOEpW998qV0oDnAFNFE3PTA&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M1QsZJf.jpg" group-title="Music",TOOST MUSIC - Best World Music 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCOEpW998qV0oDnAFNFE3PTA&live=8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M1QsZJf.jpg" group-title="Music",TOOST MUSIC - Best World Music 9 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCOEpW998qV0oDnAFNFE3PTA&live=9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M1QsZJf.jpg" group-title="Music",TOOST MUSIC - Best World Music 10 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCOEpW998qV0oDnAFNFE3PTA&live=10
+
+# https://www.youtube.com/user/Valdiviation
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0D4xPGj.jpg" group-title="Music",Tranquil Music 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCqNYK5QArQRZSIR8v6_FCfA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0D4xPGj.jpg" group-title="Music",Tranquil Music 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCqNYK5QArQRZSIR8v6_FCfA&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0D4xPGj.jpg" group-title="Music",Tranquil Music 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCqNYK5QArQRZSIR8v6_FCfA&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0D4xPGj.jpg" group-title="Music",Tranquil Music 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCqNYK5QArQRZSIR8v6_FCfA&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0D4xPGj.jpg" group-title="Music",Tranquil Music 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCqNYK5QArQRZSIR8v6_FCfA&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0D4xPGj.jpg" group-title="Music",Tranquil Music 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCqNYK5QArQRZSIR8v6_FCfA&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0D4xPGj.jpg" group-title="Music",Tranquil Music 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCqNYK5QArQRZSIR8v6_FCfA&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0D4xPGj.jpg" group-title="Music",Tranquil Music 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCqNYK5QArQRZSIR8v6_FCfA&live=8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0D4xPGj.jpg" group-title="Music",Tranquil Music 9 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCqNYK5QArQRZSIR8v6_FCfA&live=9
+
+# https://www.youtube.com/c/TrapFlowOfficial
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B5eVdjl.jpg" group-title="Music",Trap Flow 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCvFaV_cKiu2ulk8NtVrC7gQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B5eVdjl.jpg" group-title="Music",Trap Flow 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCvFaV_cKiu2ulk8NtVrC7gQ&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B5eVdjl.jpg" group-title="Music",Trap Flow 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCvFaV_cKiu2ulk8NtVrC7gQ&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B5eVdjl.jpg" group-title="Music",Trap Flow 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCvFaV_cKiu2ulk8NtVrC7gQ&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B5eVdjl.jpg" group-title="Music",Trap Flow 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCvFaV_cKiu2ulk8NtVrC7gQ&live=5
+
+# https://www.youtube.com/channel/UCNLwZd3HaSDqw0HkDNBhTSA 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SPKhrBf.jpg" group-title="Music",Trippy Cat Music 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNLwZd3HaSDqw0HkDNBhTSA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SPKhrBf.jpg" group-title="Music",Trippy Cat Music 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCNLwZd3HaSDqw0HkDNBhTSA&live=2
+
+# https://www.youtube.com/c/THRKygo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OS5uM8f.jpg" group-title="Music",Tropical House Radio 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwuMGwU6kX_lvkrYoVQWBGw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OS5uM8f.jpg" group-title="Music",Tropical House Radio 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwuMGwU6kX_lvkrYoVQWBGw&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OS5uM8f.jpg" group-title="Music",Tropical House Radio 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwuMGwU6kX_lvkrYoVQWBGw&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OS5uM8f.jpg" group-title="Music",Tropical House Radio 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwuMGwU6kX_lvkrYoVQWBGw&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OS5uM8f.jpg" group-title="Music",Tropical House Radio 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwuMGwU6kX_lvkrYoVQWBGw&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OS5uM8f.jpg" group-title="Music",Tropical House Radio 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwuMGwU6kX_lvkrYoVQWBGw&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OS5uM8f.jpg" group-title="Music",Tropical House Radio 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwuMGwU6kX_lvkrYoVQWBGw&live=7
+
+# https://www.youtube.com/channel/UCSpRrZxPRYM2HldT3virnFA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynyixwY.jpg" group-title="Music",Tsunami Music 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCSpRrZxPRYM2HldT3virnFA&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ynyixwY.jpg" group-title="Music",Tsunami Music 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCSpRrZxPRYM2HldT3virnFA&live=1
+
+# https://www.youtube.com/c/MusicLabWork
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8r6XD8u.jpg" group-title="Music",Work Music Lab 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwVQIkAtyZzQSA-OY1rsGig&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8r6XD8u.jpg" group-title="Music",Work Music Lab 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwVQIkAtyZzQSA-OY1rsGig&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8r6XD8u.jpg" group-title="Music",Work Music Lab 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwVQIkAtyZzQSA-OY1rsGig&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8r6XD8u.jpg" group-title="Music",Work Music Lab 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwVQIkAtyZzQSA-OY1rsGig&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8r6XD8u.jpg" group-title="Music",Work Music Lab 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwVQIkAtyZzQSA-OY1rsGig&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8r6XD8u.jpg" group-title="Music",Work Music Lab 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwVQIkAtyZzQSA-OY1rsGig&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8r6XD8u.jpg" group-title="Music",Work Music Lab 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwVQIkAtyZzQSA-OY1rsGig&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8r6XD8u.jpg" group-title="Music",Work Music Lab 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwVQIkAtyZzQSA-OY1rsGig&live=8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8r6XD8u.jpg" group-title="Music",Work Music Lab 9 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCwVQIkAtyZzQSA-OY1rsGig&live=9
+
+# https://www.youtube.com/channel/UCB37LnggqsIkEK-sdV4zgiw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wXgDxrA.jpg" group-title="Music",XDeep Club 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCB37LnggqsIkEK-sdV4zgiw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wXgDxrA.jpg" group-title="Music",XDeep Club 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCB37LnggqsIkEK-sdV4zgiw&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wXgDxrA.jpg" group-title="Music",XDeep Club 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCB37LnggqsIkEK-sdV4zgiw&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wXgDxrA.jpg" group-title="Music",XDeep Club 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCB37LnggqsIkEK-sdV4zgiw&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wXgDxrA.jpg" group-title="Music",XDeep Club 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCB37LnggqsIkEK-sdV4zgiw&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wXgDxrA.jpg" group-title="Music",XDeep Club 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCB37LnggqsIkEK-sdV4zgiw&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wXgDxrA.jpg" group-title="Music",XDeep Club 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCB37LnggqsIkEK-sdV4zgiw&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wXgDxrA.jpg" group-title="Music",XDeep Club 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCB37LnggqsIkEK-sdV4zgiw&live=8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wXgDxrA.jpg" group-title="Music",XDeep Club 9 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCB37LnggqsIkEK-sdV4zgiw&live=9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wXgDxrA.jpg" group-title="Music",XDeep Club 10 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCB37LnggqsIkEK-sdV4zgiw&live=10
+
+# https://www.youtube.com/channel/UCSSEXzYHBijpCPJdiZbS7mw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ijzkU7.jpg" group-title="Music",XDeep Music 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCSSEXzYHBijpCPJdiZbS7mw&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ijzkU7.jpg" group-title="Music",XDeep Music 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCSSEXzYHBijpCPJdiZbS7mw&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ijzkU7.jpg" group-title="Music",XDeep Music 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCSSEXzYHBijpCPJdiZbS7mw&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ijzkU7.jpg" group-title="Music",XDeep Music 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCSSEXzYHBijpCPJdiZbS7mw&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ijzkU7.jpg" group-title="Music",XDeep Music 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCSSEXzYHBijpCPJdiZbS7mw&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ijzkU7.jpg" group-title="Music",XDeep Music 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCSSEXzYHBijpCPJdiZbS7mw&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8ijzkU7.jpg" group-title="Music",XDeep Music 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCSSEXzYHBijpCPJdiZbS7mw&live=7
+
+# https://www.youtube.com/channel/UCKgGLynM7xJz8Mq999srCsg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JGnk2dv.jpg" group-title="Music",XDeep Vibes 1 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKgGLynM7xJz8Mq999srCsg&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JGnk2dv.jpg" group-title="Music",XDeep Vibes 2 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKgGLynM7xJz8Mq999srCsg&live=2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JGnk2dv.jpg" group-title="Music",XDeep Vibes 3 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKgGLynM7xJz8Mq999srCsg&live=3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JGnk2dv.jpg" group-title="Music",XDeep Vibes 4 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKgGLynM7xJz8Mq999srCsg&live=4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JGnk2dv.jpg" group-title="Music",XDeep Vibes 5 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKgGLynM7xJz8Mq999srCsg&live=5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JGnk2dv.jpg" group-title="Music",XDeep Vibes 6 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKgGLynM7xJz8Mq999srCsg&live=6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JGnk2dv.jpg" group-title="Music",XDeep Vibes 7 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKgGLynM7xJz8Mq999srCsg&live=7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JGnk2dv.jpg" group-title="Music",XDeep Vibes 8 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKgGLynM7xJz8Mq999srCsg&live=8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JGnk2dv.jpg" group-title="Music",XDeep Vibes 9 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKgGLynM7xJz8Mq999srCsg&live=9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JGnk2dv.jpg" group-title="Music",XDeep Vibes 10 (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCKgGLynM7xJz8Mq999srCsg&live=10

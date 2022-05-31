@@ -150,6 +150,9 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCEpTWSFqICafy
 #EXTINF:-1 tvg-logo="https://i.imgur.com/laXiMO8.jpg" group-title="Music",Gentleman (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCgeu2xe0XRscaKyvBt3WgmQ/live
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LWiAhPx.jpg" group-title="Music",Heaven Club (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UChBFKBnVwvSSFFSEsSFWiaA/live
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Cywnjhi.jpg" group-title="Music",Hits Music (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC0f4WJAjYdwl4XYHz-6FhyQ/live
 

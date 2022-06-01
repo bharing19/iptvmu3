@@ -803,19 +803,19 @@ http://95.211.153.98/live/france5/chunks.m3u8
 
 
 # https://www.france24.com/ar/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1
-#EXTINF:-1 tvg-id="France24ar.fr" tvg-name="France 24 FR" tvg-logo="https://i.imgur.com/WPfHi7d.png" group-title="actualités",France 24 Arabic
-https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+EXTINF:-1 tvg-id="France24ar.fr" tvg-name="France 24 FR" tvg-logo="https://i.imgur.com/WPfHi7d.png" group-title="actualités",France 24 Arabic
+#https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 # https://www.youtube.com/channel/UCdTyuXgmJkG_O8_75eqej-w
 #EXTINF:-1 tvg-id="France24ar.fr" tvg-name="France 24 FR" tvg-logo="https://i.imgur.com/WPfHi7d.png" group-title="actualités",France 24 Arabic (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCdTyuXgmJkG_O8_75eqej-w&live=1
 #EXTINF:-1 tvg-id="France24ar.fr" tvg-name="France 24 FR" tvg-logo="https://i.imgur.com/WPfHi7d.png" group-title="actualités",France 24 Arabic (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCdTyuXgmJkG_O8_75eqej-w/live
-
 # https://www.france24.com/en/live
 #EXTINF:-1 tvg-id="France24eng.fr" tvg-name="France 24 FR" tvg-logo="https://i.imgur.com/jodfuDe.jpg" group-title="actualités",France 24 English
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="France24eng.fr" tvg-name="France 24 FR" tvg-logo="https://i.imgur.com/jodfuDe.jpg" group-title="actualités",France 24 English
-https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
+# http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+EXTINF:-1 tvg-id="France24eng.fr" tvg-name="France 24 FR" tvg-logo="https://i.imgur.com/jodfuDe.jpg" group-title="actualités",France 24 English
+#https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 # https://www.youtube.com/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg
 #EXTINF:-1 tvg-id="France24eng.fr" tvg-name="France 24 FR" tvg-logo="https://i.imgur.com/jodfuDe.jpg" group-title="actualités",France 24 English (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCQfwfsi5VrQ8yKZ-UWmAEFg&live=1
@@ -828,7 +828,8 @@ plugin://plugin.video.youtube/play/?channel_id=UCUdOoVWuWmgo1wByzcsyKDQ&live=1
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ/live
 # https://www.france24.com/fr/direct
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 FR" tvg-logo="https://i.imgur.com/naaYVig.png" group-title="actualités",France 24 Francais
-http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
+#http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
 # https://www.youtube.com/channel/UCCCPCZNChQdGa9EkATeye4g
 #EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24 FR" tvg-logo="https://i.imgur.com/naaYVig.png" group-title="actualités",France 24 Francais (YT) (c_id)
 plugin://plugin.video.youtube/play/?channel_id=UCCCPCZNChQdGa9EkATeye4g&live=1

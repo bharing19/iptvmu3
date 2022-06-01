@@ -27,7 +27,7 @@ https://blog.hubspot.com/website/how-to-get-youtube-api-key
 ################
 
 
-# Twitch : Channel Name
+# Twitch : Channel Name - auth needed
 - #EXTINF:-1 tvg-logo="" group-title="", (TWITCH) (C_N)
 - plugin://plugin.video.twitch/?mode=play&channel_name=CHANNELNAMEHERE
 

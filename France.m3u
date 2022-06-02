@@ -1404,6 +1404,14 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCaEqMbRYYOmI3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x0OhsPp.jpg" group-title="France",Stormcast Novelas TV
 https://stormcast-telenovelatv-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 
+# https://www.studio20tv.corsica/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbd2JLq.jpg" group-title="",STUDIO 20 TV - La télé qui vous play en Corse !
+https://srv.webtvmanager.fr:3809/stream/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbd2JLq.jpg" group-title="",STUDIO 20 TV - La télé qui vous play en Corse ! (YT) (c_id)
+plugin://plugin.video.youtube/play/?channel_id=UCLNHP_5nVGJvXfSBJTl8XaQ&live=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbd2JLq.jpg" group-title="",STUDIO 20 TV - La télé qui vous play en Corse ! (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCLNHP_5nVGJvXfSBJTl8XaQ/live
+
 # https://www.studioqualita.com/direct https://www.youtube.com/channel/UC4ZNntU3CyEIH8RGH0n_5bw
 #EXTINF:-1 tvg-id="StudioQualita.fr" tvg-name="StudioQualita" tvg-logo="https://i.imgur.com/ivKSa8W.jpg" group-title="Actualité",StudioQualita (c_id) (YT)
 plugin://plugin.video.youtube/play/?channel_id=UC4ZNntU3CyEIH8RGH0n_5bw&live=1

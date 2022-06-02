@@ -5,6 +5,20 @@ Hybrid list adapted for kodi using different addons to make the stream work
 
 all Playlist work with the Playlistloader addon  for kodi 18.9 or 19+ matrix as exception of Streamlink Tester  since some dependencies are not ported to python 3 yet
 
+# PlaylistLoader Leia 18.9 -
+- https://github.com/Sphinxroot/Kodi-Addons-AIOP/raw/main/Video/plugin.video.playlistLoader-1.1.7.zip
+
+# PlaylistLoader Matrix 19 +
+- https://github.com/Sphinxroot/Kodi-Addons-AIOP/raw/main/Video/plugin.video.playlistloader-1.0.3%2Bmatrix.zip
+
+# All List in A AIO playlist Holder Addon Leia 18.9 -
+- https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/blob/master/plugin.video.IPTV.Matele.Direct-1.0.0.zip
+
+# Depend Needed
+- https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/tree/master/Depend
+
+# Note : StreamLinkTester (SLT) Install it in Order 1 to 6
+- https://github.com/Sphinxroot/plugin.video.IPTV.Matele.Direct/tree/master/Depend/StreamLinkTester%20(SLT)
 
 ################
 

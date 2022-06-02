@@ -1,0 +1,78 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QwqiU95.jpg" ,★★★★★★★★★★Vatican Media★★★★★★★★★★
+0.0.0.0
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kim87Pv.jpg" group-title="",Vatican News (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC7E-LYc1wivk33iyt5bR5zQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kim87Pv.jpg" group-title="",Vatican News - English (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCxIsefyl9g9A5SGWA4FvGIA/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kim87Pv.jpg" group-title="",Vatican News - Espanol (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCnB5vfb9FMMNTnC6-kAT3fQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kim87Pv.jpg" group-title="",Vatican News - Italiano (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCkwbN2a1L1H6P9rcA7FhAqg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kim87Pv.jpg" group-title="",Vatican News - Portugues (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCGYSq4b4DXmtK4jyq6r-FYg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kim87Pv.jpg" group-title="",Vatican News - Deutsch (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UC4ndSG692MXx_zZlIKMYsdg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Kim87Pv.jpg" group-title="",Vatican News - French (STK)
+plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCQxVySG5g2aC-Uz9NhpyiFg/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana EN
+https://radio.vaticannews.va/stream-en
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana FR
+https://radio.vaticannews.va/stream-fr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana ES
+https://radio.vaticannews.va/stream-es
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana BE
+https://radio.vaticannews.va/stream-be
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana SK
+https://radio.vaticannews.va/stream-sk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana UK
+https://radio.vaticannews.va/stream-uk
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana VI
+https://radio.vaticannews.va/stream-vi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana IT
+https://radio.vaticannews.va/stream-it
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana PT
+https://radio.vaticannews.va/stream-pt
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana BG
+https://radio.vaticannews.va/stream-bg
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana HU
+https://radio.vaticannews.va/stream-hu
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana PL
+https://radio.vaticannews.va/stream-pl
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana SL
+https://radio.vaticannews.va/stream-sl
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana HI
+https://radio.vaticannews.va/stream-hi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana AR
+https://radio.vaticannews.va/stream-ar
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana HR
+https://radio.vaticannews.va/stream-hr
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana LV
+https://radio.vaticannews.va/stream-lv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana RO
+https://radio.vaticannews.va/stream-ro
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana ML
+https://radio.vaticannews.va/stream-ml
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana ZH
+https://radio.vaticannews.va/stream-zh
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana DE
+https://radio.vaticannews.va/stream-de
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana HY
+https://radio.vaticannews.va/stream-hy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana CS
+https://radio.vaticannews.va/stream-cs
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana LT
+https://radio.vaticannews.va/stream-lt
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana SQ
+https://radio.vaticannews.va/stream-sq
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana RU
+https://radio.vaticannews.va/stream-ru
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana TA
+https://radio.vaticannews.va/stream-ta
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana SW
+https://radio.vaticannews.va/stream-sw
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana AM
+https://radio.vaticannews.va/stream-am
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nsoErz6.jpg" group-title="Radio",Radio Vaticana TI
+https://radio.vaticannews.va/stream-ti

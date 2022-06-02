@@ -191,7 +191,7 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCJg9wBPyKMNA5sRDnvzmkdg/live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 - France
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FZEKNdL.jpg" group-title="News",GB News - UK
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
@@ -714,6 +714,8 @@ plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCkG71vWzNWVt7
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCdTyuXgmJkG_O8_75eqej-w/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Iuk391R.png" group-title="News",FRANCE 24 ES (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ/live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/naaYVig.png" group-title="News",France 24 FR 
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/naaYVig.png" group-title="News",France 24 FR (STK)
 plugin://plugin.video.sendtokodi/?https://www.youtube.com/channel/UCCCPCZNChQdGa9EkATeye4g/live
 
